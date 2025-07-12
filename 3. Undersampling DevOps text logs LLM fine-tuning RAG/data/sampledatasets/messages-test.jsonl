@@ -1,0 +1,1000 @@
+{"timestamp":"2025-05-29T19:47:20.972569+08:00","host":"hivenode02","text":"python: ---- **** -----","label":"normal"}
+{"timestamp":"2025-06-01T13:14:05.130320+08:00","host":"hivenode02","text":"python: -------------- [queues]","label":"normal"}
+{"timestamp":"2025-06-01T23:37:09.885955+08:00","host":"hivenode02","text":"systemd-logind: Removed session 2377139.","label":"normal"}
+{"timestamp":"2025-05-27T16:05:58.254819+08:00","host":"hivenode02","text":"systemd-logind: New session 2082894 of user root.","label":"normal"}
+{"timestamp":"2025-05-15T03:52:05.365391+08:00","host":"hivenode02","text":"systemd: infi-celery.service: main process exited, code=exited, status=1\/FAILURE","label":"warning"}
+{"timestamp":"2025-05-24T11:02:43.517305+08:00","host":"hivenode02","text":"python: - *** --- * --- .> concurrency: 4 (prefork)","label":"normal"}
+{"timestamp":"2025-05-23T08:49:47.590141+08:00","host":"hivenode02","text":"systemd: Started Session 1849289 of user root.","label":"normal"}
+{"timestamp":"2025-05-24T10:48:01.701725+08:00","host":"hivenode02","text":"systemd-logind: Removed session 1908903.","label":"normal"}
+{"timestamp":"2025-06-01T08:04:29.570973+08:00","host":"hivenode02","text":"python: -- * - **** ---","label":"normal"}
+{"timestamp":"2025-05-15T04:04:35.683877+08:00","host":"hivenode02","text":"systemd: Started Session 1396706 of user root.","label":"normal"}
+{"timestamp":"2025-05-23T03:57:48.980264+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=3482786 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":"2025-05-27T02:26:37.740141+08:00","host":"hivenode02","text":"python: - *** --- * --- .> concurrency: 4 (prefork)","label":"normal"}
+{"timestamp":"2025-05-25T23:15:01.001620+08:00","host":"hivenode02","text":"python: .> node2            exchange=node2(direct) key=node2","label":"normal"}
+{"timestamp":"2025-05-29T04:11:58.689602+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=2730624 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-15T20:01:33.400079+08:00","host":"hivenode02","text":"systemd: infi-celery.service failed.","label":"warning"}
+{"timestamp":"2025-05-25T12:09:03.017745+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=3724050 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":"2025-05-28T05:31:26.006685+08:00","host":"hivenode02","text":"python: - ** ---------- .> results:     elasticsearch:\/\/10.0.100.105:8200\/infi_queue_result\/queue_result","label":"normal"}
+{"timestamp":"2025-05-29T12:48:35.460313+08:00","host":"hivenode02","text":"python: uid=uid, euid=euid, gid=gid, egid=egid,","label":"normal"}
+{"timestamp":"2025-05-12T09:39:12.948708+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=628578 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-17T22:04:22.324151+08:00","host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-17 22:04:21","label":"normal"}
+{"timestamp":"2025-05-26T13:27:57.057631+08:00","host":"hivenode02","text":"systemd-logind: New session 2021778 of user root.","label":"normal"}
+{"timestamp":"2025-05-16T06:57:18.034839+08:00","host":"hivenode02","text":"kill: kill: cannot find process \"\"","label":"normal"}
+{"timestamp":"2025-05-20T07:41:09.366140+08:00","host":"hivenode02","text":"systemd: infi-celery.service: control process exited, code=exited status=1","label":"normal"}
+{"timestamp":"2025-05-25T01:22:01.942732+08:00","host":"hivenode02","text":"systemd: Starting Session 1942541 of user root.","label":"normal"}
+{"timestamp":"2025-05-22T15:49:23.440402+08:00","host":"hivenode02","text":"systemd-logind: New session 1810137 of user root.","label":"normal"}
+{"timestamp":"2025-05-31T18:18:12.544100+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=1125094 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":"2025-05-21T15:34:07.917916+08:00","host":"hivenode02","text":"systemd-logind: Removed session 1754362.","label":"normal"}
+{"timestamp":"2025-05-23T20:09:25.218859+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=3863760 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":"2025-05-29T15:36:58.840945+08:00","host":"hivenode02","text":"systemd-logind: Removed session 2192206.","label":"normal"}
+{"timestamp":"2025-05-21T02:42:43.587442+08:00","host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=2756129 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":"2025-05-16T11:54:51.542562+08:00","host":"hivenode02","text":"systemd: Starting Session 1468362 of user root.","label":"normal"}
+{"timestamp":"2025-05-27T17:31:52.672499+08:00","host":"hivenode02","text":"systemd-logind: New session 2086233 of user root.","label":"normal"}
+{"timestamp":"2025-05-23T04:40:01.546212+08:00","host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=2754890 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":"2025-05-31T21:54:24.134975+08:00","host":"hivenode02","text":"python: -------------- [queues]","label":"normal"}
+{"timestamp":"2025-05-13T09:01:44.008102+08:00","host":"hivenode02","text":"systemd: Started Session 1301933 of user root.","label":"normal"}
+{"timestamp":"2025-05-16T12:27:38.817787+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=1516139 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-17T16:37:02.788815+08:00","host":"hivenode02","text":"python: -- * - **** ---","label":"normal"}
+{"timestamp":"2025-05-17T01:21:14.869227+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=3243412 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-17T14:45:46.387789+08:00","host":"hivenode02","text":"systemd: Starting Session 1530522 of user root.","label":"normal"}
+{"timestamp":"2025-05-31T08:34:55.386797+08:00","host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-31 08:34:54","label":"normal"}
+{"timestamp":"2025-05-23T06:21:56.732692+08:00","host":"hivenode02","text":"python: --- ***** -----","label":"normal"}
+{"timestamp":"2025-06-01T11:05:49.366312+08:00","host":"hivenode02","text":"systemd-logind: Removed session 2348112.","label":"normal"}
+{"timestamp":"2025-05-23T04:48:42.504339+08:00","host":"hivenode02","text":"python: - ** ---------- .> app:         __main__:0x18daa90","label":"normal"}
+{"timestamp":"2025-05-14T18:54:31.765389+08:00","host":"hivenode02","text":"systemd: Started Infinity Celery Worker Service.","label":"normal"}
+{"timestamp":"2025-05-17T12:26:43.535699+08:00","host":"hivenode02","text":"infinity[1597]: The current environment can not be backed","label":"normal"}
+{"timestamp":"2025-05-15T03:36:28.446736+08:00","host":"hivenode02","text":"systemd: infi-celery.service holdoff time over, scheduling restart.","label":"normal"}
+{"timestamp":"2025-05-26T04:46:15.941898+08:00","host":"hivenode02","text":"python: . infinity.task.tasks.infi_cluster","label":"normal"}
+{"timestamp":"2025-05-16T02:50:20.884574+08:00","host":"hivenode02","text":"systemd: infi-celery.service: main process exited, code=exited, status=1\/FAILURE","label":"warning"}
+{"timestamp":"2025-05-17T15:11:14.070341+08:00","host":"hivenode02","text":"python: --- ***** -----","label":"normal"}
+{"timestamp":"2025-05-14T03:58:03.254690+08:00","host":"hivenode02","text":"kill: kill: cannot find process \"\"","label":"normal"}
+{"timestamp":"2025-05-14T14:55:13.249215+08:00","host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=2247839 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":"2025-05-20T10:27:50.299942+08:00","host":"hivenode02","text":"python: [tasks]","label":"normal"}
+{"timestamp":"2025-05-26T13:56:44.255845+08:00","host":"hivenode02","text":"python: \/usr\/lib\/python2.7\/site-packages\/celery\/platforms.py:796: RuntimeWarning: You're running the worker with superuser privileges: this is","label":"warning"}
+{"timestamp":"2025-05-30T07:09:56.250956+08:00","host":"hivenode02","text":"systemd-logind: New session 2228299 of user root.","label":"normal"}
+{"timestamp":"2025-05-18T09:59:16.560335+08:00","host":"hivenode02","text":"systemd: infi-celery.service: control process exited, code=exited status=1","label":"normal"}
+{"timestamp":"2025-05-27T02:29:10.537639+08:00","host":"hivenode02","text":"python: -- * - **** ---","label":"normal"}
+{"timestamp":"2025-05-21T04:27:23.304094+08:00","host":"hivenode02","text":"python: - ** ---------- .> app:         __main__:0x2b5da90","label":"normal"}
+{"timestamp":"2025-05-24T03:05:52.772084+08:00","host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=547893 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":"2025-05-24T14:27:35.015299+08:00","host":"hivenode02","text":"python: . infinity.task.tasks.infi_cluster","label":"normal"}
+{"timestamp":"2025-05-25T21:50:16.702351+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=1089832 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-20T21:16:57.617397+08:00","host":"hivenode02","text":"python: \/usr\/lib\/python2.7\/site-packages\/celery\/platforms.py:796: RuntimeWarning: You're running the worker with superuser privileges: this is","label":"warning"}
+{"timestamp":"2025-05-15T09:37:06.548045+08:00","host":"hivenode02","text":"python: - ** ---------- [config]","label":"normal"}
+{"timestamp":"2025-05-22T10:14:04.792806+08:00","host":"hivenode02","text":"systemd: Starting Session 1797371 of user root.","label":"normal"}
+{"timestamp":"2025-05-17T12:54:45.561327+08:00","host":"hivenode02","text":"python: -------------- [queues]","label":"normal"}
+{"timestamp":"2025-05-24T05:46:11.697870+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=1079401 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-14T15:50:38.382620+08:00","host":"hivenode02","text":"systemd-logind: New session 1369410 of user root.","label":"normal"}
+{"timestamp":"2025-05-14T13:22:13.691459+08:00","host":"hivenode02","text":"systemd-logind: Removed session 1364018.","label":"normal"}
+{"timestamp":"2025-05-18T12:36:15.473327+08:00","host":"hivenode02","text":"python: ---- **** -----","label":"normal"}
+{"timestamp":"2025-05-20T21:11:25.804941+08:00","host":"hivenode02","text":"python: --- ***** -----","label":"normal"}
+{"timestamp":"2025-05-30T03:06:28.121482+08:00","host":"hivenode02","text":"python: . infinity.task.tasks.infi_cluster","label":"normal"}
+{"timestamp":"2025-05-17T13:37:54.917729+08:00","host":"hivenode02","text":"python: .> node2            exchange=node2(direct) key=node2","label":"normal"}
+{"timestamp":"2025-05-13T18:37:38.760560+08:00","host":"hivenode02","text":"python: - ** ---------- .> app:         __main__:0x1fbaa90","label":"normal"}
+{"timestamp":"2025-05-28T17:43:05.235953+08:00","host":"hivenode02","text":"python: ---- **** -----","label":"normal"}
+{"timestamp":"2025-05-13T22:55:44.332555+08:00","host":"hivenode02","text":"systemd-logind: Removed session 1332492.","label":"normal"}
+{"timestamp":"2025-06-01T05:01:21.778803+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=210032 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-16T05:41:00.373506+08:00","host":"hivenode02","text":"systemd-logind: Removed session 1454009.","label":"normal"}
+{"timestamp":"2025-05-27T18:35:21.288617+08:00","host":"hivenode02","text":"python: -------------- [queues]","label":"normal"}
+{"timestamp":"2025-05-21T17:36:20.720458+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=1082732 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-20T01:32:07.041618+08:00","host":"hivenode02","text":"python: - ** ---------- .> results:     elasticsearch:\/\/10.0.100.105:8200\/infi_queue_result\/queue_result","label":"normal"}
+{"timestamp":"2025-05-14T16:35:20.540859+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=1912502 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":"2025-05-21T09:36:50.355568+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=3419584 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-28T19:01:55.545109+08:00","host":"hivenode02","text":"systemd: Starting Session 2144824 of user root.","label":"normal"}
+{"timestamp":"2025-05-20T19:36:27.829382+08:00","host":"hivenode02","text":"systemd-logind: Removed session 1708233.","label":"normal"}
+{"timestamp":"2025-05-18T09:20:31.095843+08:00","host":"hivenode02","text":"kill: kill: cannot find process \"\"","label":"normal"}
+{"timestamp":"2025-05-23T23:56:49.067965+08:00","host":"hivenode02","text":"systemd-logind: New session 1883991 of user root.","label":"normal"}
+{"timestamp":"2025-05-29T18:49:10.228811+08:00","host":"hivenode02","text":"systemd: infi-celery.service failed.","label":"warning"}
+{"timestamp":"2025-05-21T06:26:33.123826+08:00","host":"hivenode02","text":"systemd: Unit infi-celery.service entered failed state.","label":"warning"}
+{"timestamp":"2025-05-16T13:47:05.326887+08:00","host":"hivenode02","text":"systemd-logind: Removed session 1472659.","label":"normal"}
+{"timestamp":"2025-05-30T19:12:54.961743+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=3528472 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":"2025-05-17T12:55:03.739100+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=2383496 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-19T14:54:42.080919+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=677840 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-25T06:36:54.585444+08:00","host":"hivenode02","text":"python: Please specify a different user using the --uid option.","label":"normal"}
+{"timestamp":"2025-05-20T18:14:47.962241+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=2454619 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":"2025-05-14T09:30:47.611913+08:00","host":"hivenode02","text":"python: --- ***** -----","label":"normal"}
+{"timestamp":"2025-05-27T00:11:15.666923+08:00","host":"hivenode02","text":"systemd-logind: New session 2046498 of user root.","label":"normal"}
+{"timestamp":"2025-05-21T20:58:01.512897+08:00","host":"hivenode02","text":"systemd: Starting Session 1766876 of user root.","label":"normal"}
+{"timestamp":"2025-05-29T10:05:40.401871+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=2531351 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-14T17:22:29.117068+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=1528387 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-06-01T20:31:20.827634+08:00","host":"hivenode02","text":"python: - ** ---------- [config]","label":"normal"}
+{"timestamp":"2025-05-31T11:42:56.525608+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=1793109 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":"2025-05-15T05:34:30.467332+08:00","host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-15 05:34:29","label":"normal"}
+{"timestamp":"2025-05-14T19:18:35.723098+08:00","host":"hivenode02","text":"python: Please specify a different user using the --uid option.","label":"normal"}
+{"timestamp":"2025-05-14T06:45:07.857764+08:00","host":"hivenode02","text":"python: [tasks]","label":"normal"}
+{"timestamp":"2025-05-13T00:37:29.116591+08:00","host":"hivenode02","text":"python: [tasks]","label":"normal"}
+{"timestamp":"2025-05-22T01:21:28.590428+08:00","host":"hivenode02","text":"python: -- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)","label":"normal"}
+{"timestamp":"2025-05-24T17:12:52.979337+08:00","host":"hivenode02","text":"python: ---- **** -----","label":"normal"}
+{"timestamp":"2025-05-23T21:14:53.751067+08:00","host":"hivenode02","text":"systemd-logind: New session 1877763 of user root.","label":"normal"}
+{"timestamp":"2025-05-12T05:24:19.898542+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=1085519 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":"2025-05-17T13:42:51.031700+08:00","host":"hivenode02","text":"python: User information: uid=0 euid=0 gid=0 egid=0","label":"normal"}
+{"timestamp":"2025-05-28T20:15:06.163364+08:00","host":"hivenode02","text":"systemd: infi-celery.service holdoff time over, scheduling restart.","label":"normal"}
+{"timestamp":"2025-05-18T22:01:48.148520+08:00","host":"hivenode02","text":"systemd-logind: Removed session 1602936.","label":"normal"}
+{"timestamp":"2025-05-30T14:00:25.439152+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=2720495 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":"2025-05-26T17:37:40.224036+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=2331094 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-23T01:14:54.391200+08:00","host":"hivenode02","text":"systemd-logind: New session 1831869 of user root.","label":"normal"}
+{"timestamp":"2025-05-26T08:52:01.024055+08:00","host":"hivenode02","text":"python: -------------- celery@hivenode02 v4.2.1 (windowlicker)","label":"normal"}
+{"timestamp":"2025-05-13T04:42:42.753487+08:00","host":"hivenode02","text":"systemd: infi-celery.service: control process exited, code=exited status=1","label":"normal"}
+{"timestamp":"2025-05-26T03:07:04.348942+08:00","host":"hivenode02","text":"systemd: Started Infinity Celery Worker Service.","label":"normal"}
+{"timestamp":"2025-05-27T22:24:18.260747+08:00","host":"hivenode02","text":"python: -- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)","label":"normal"}
+{"timestamp":"2025-05-26T06:08:20.760528+08:00","host":"hivenode02","text":"python: [tasks]","label":"normal"}
+{"timestamp":"2025-05-28T18:19:25.446933+08:00","host":"hivenode02","text":"systemd: Starting Session 2143192 of user root.","label":"normal"}
+{"timestamp":"2025-05-17T22:03:05.757574+08:00","host":"hivenode02","text":"systemd-logind: Removed session 1547423.","label":"normal"}
+{"timestamp":"2025-05-25T07:56:42.769999+08:00","host":"hivenode02","text":"systemd-logind: Removed session 1956686.","label":"normal"}
+{"timestamp":"2025-05-12T12:01:35.499742+08:00","host":"hivenode02","text":"systemd-logind: Removed session 1255593.","label":"normal"}
+{"timestamp":"2025-05-23T10:02:06.131905+08:00","host":"hivenode02","text":"systemd-logind: New session 1852026 of user root.","label":"normal"}
+{"timestamp":"2025-05-17T13:26:08.105257+08:00","host":"hivenode02","text":"systemd-logind: New session 1527438 of user root.","label":"normal"}
+{"timestamp":"2025-05-19T15:10:57.302244+08:00","host":"hivenode02","text":"python: - ** ---------- .> app:         __main__:0x1961a90","label":"normal"}
+{"timestamp":"2025-05-30T16:22:43.183569+08:00","host":"hivenode02","text":"systemd: Started Session 2249376 of user root.","label":"normal"}
+{"timestamp":"2025-05-21T17:47:15.125894+08:00","host":"hivenode02","text":"systemd: Started Session 1759483 of user root.","label":"normal"}
+{"timestamp":"2025-05-28T22:04:04.708371+08:00","host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-28 22:04:03","label":"normal"}
+{"timestamp":"2025-05-18T12:46:25.150985+08:00","host":"hivenode02","text":"systemd: infi-celery.service failed.","label":"warning"}
+{"timestamp":"2025-05-12T05:42:34.700685+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=2556781 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-06-01T16:37:54.426884+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=3397808 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-30T03:38:50.698444+08:00","host":"hivenode02","text":"kill: kill: cannot find process \"\"","label":"normal"}
+{"timestamp":"2025-05-15T19:50:18.507611+08:00","host":"hivenode02","text":"python: [tasks]","label":"normal"}
+{"timestamp":"2025-05-16T22:56:07.657640+08:00","host":"hivenode02","text":"systemd-logind: New session 1493837 of user root.","label":"normal"}
+{"timestamp":"2025-05-31T06:01:01.925432+08:00","host":"hivenode02","text":"infinity[1597]: cron healing journal, current not is active mds node","label":"normal"}
+{"timestamp":"2025-05-18T22:49:10.919527+08:00","host":"hivenode02","text":"systemd-logind: New session 1604743 of user root.","label":"normal"}
+{"timestamp":"2025-06-01T14:10:16.100351+08:00","host":"hivenode02","text":"systemd: infi-celery.service: main process exited, code=exited, status=1\/FAILURE","label":"warning"}
+{"timestamp":"2025-05-21T04:01:37.834165+08:00","host":"hivenode02","text":"python: . infinity.task.tasks.infi_cluster","label":"normal"}
+{"timestamp":"2025-05-22T00:17:11.324027+08:00","host":"hivenode02","text":"systemd: Starting Session 1774470 of user root.","label":"normal"}
+{"timestamp":"2025-05-26T01:56:57.165610+08:00","host":"hivenode02","text":"systemd: Starting Infinity Celery Worker Service...","label":"normal"}
+{"timestamp":"2025-05-26T10:27:34.585398+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=491647 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":"2025-05-27T13:51:19.428240+08:00","host":"hivenode02","text":"systemd: Started Session 2077774 of user root.","label":"normal"}
+{"timestamp":"2025-05-19T13:06:57.389598+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=128277 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-13T08:06:19.350170+08:00","host":"hivenode02","text":"python: -------------- celery@hivenode02 v4.2.1 (windowlicker)","label":"normal"}
+{"timestamp":"2025-05-25T17:07:40.747715+08:00","host":"hivenode02","text":"python: - *** --- * --- .> concurrency: 4 (prefork)","label":"normal"}
+{"timestamp":"2025-05-25T21:38:44.444699+08:00","host":"hivenode02","text":"systemd: Starting Session 1985464 of user root.","label":"normal"}
+{"timestamp":"2025-05-18T22:27:35.558091+08:00","host":"hivenode02","text":"python: - ** ---------- .> app:         __main__:0x1d57a90","label":"normal"}
+{"timestamp":"2025-05-26T19:58:28.481238+08:00","host":"hivenode02","text":"python: [tasks]","label":"normal"}
+{"timestamp":"2025-05-13T20:34:50.816657+08:00","host":"hivenode02","text":"python: ---- **** -----","label":"normal"}
+{"timestamp":"2025-05-22T03:06:42.329977+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=2232030 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":"2025-05-24T01:07:10.026143+08:00","host":"hivenode02","text":"systemd: infi-celery.service holdoff time over, scheduling restart.","label":"normal"}
+{"timestamp":"2025-05-29T08:46:22.073601+08:00","host":"hivenode02","text":"python: -- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)","label":"normal"}
+{"timestamp":"2025-05-29T01:47:43.366957+08:00","host":"hivenode02","text":"python: -------------- [queues]","label":"normal"}
+{"timestamp":"2025-05-13T13:01:07.619300+08:00","host":"hivenode02","text":"python: - *** --- * --- .> concurrency: 4 (prefork)","label":"normal"}
+{"timestamp":"2025-05-31T23:53:24.434262+08:00","host":"hivenode02","text":"systemd-logind: New session 2322268 of user root.","label":"normal"}
+{"timestamp":"2025-05-27T00:00:10.152857+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=548331 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-17T05:04:38.008432+08:00","host":"hivenode02","text":"systemd-logind: New session 1508135 of user root.","label":"normal"}
+{"timestamp":"2025-05-29T11:50:58.804789+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=2811667 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-30T09:31:55.454183+08:00","host":"hivenode02","text":"kernel: clearbuffcache. (1574489): drop_caches: 1","label":"normal"}
+{"timestamp":"2025-05-17T18:37:36.983053+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1689933 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":"2025-05-27T01:40:27.252733+08:00","host":"hivenode02","text":"python: -- * - **** ---","label":"normal"}
+{"timestamp":"2025-06-01T15:06:37.271033+08:00","host":"hivenode02","text":"systemd-logind: New session 2357332 of user root.","label":"normal"}
+{"timestamp":"2025-05-26T15:29:16.725352+08:00","host":"hivenode02","text":"python: - ** ---------- [config]","label":"normal"}
+{"timestamp":"2025-05-12T21:16:10.514035+08:00","host":"hivenode02","text":"systemd-logind: Removed session 1276065.","label":"normal"}
+{"timestamp":"2025-05-26T05:44:39.711158+08:00","host":"hivenode02","text":"python: -- * - **** ---","label":"normal"}
+{"timestamp":"2025-06-01T09:54:31.145352+08:00","host":"hivenode02","text":"systemd-logind: Removed session 2345384.","label":"normal"}
+{"timestamp":"2025-05-15T15:12:19.523586+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=4154350 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":"2025-05-16T07:38:40.309780+08:00","host":"hivenode02","text":"python: - ** ---------- [config]","label":"normal"}
+{"timestamp":"2025-05-27T01:52:06.414984+08:00","host":"hivenode02","text":"systemd: infi-celery.service: main process exited, code=exited, status=1\/FAILURE","label":"warning"}
+{"timestamp":"2025-05-28T11:17:38.000661+08:00","host":"hivenode02","text":"python: -- * - **** ---","label":"normal"}
+{"timestamp":"2025-05-31T02:06:52.692669+08:00","host":"hivenode02","text":"python: - ** ---------- .> results:     elasticsearch:\/\/10.0.100.105:8200\/infi_queue_result\/queue_result","label":"normal"}
+{"timestamp":"2025-05-15T08:32:44.703981+08:00","host":"hivenode02","text":"systemd: Starting Session 1407128 of user root.","label":"normal"}
+{"timestamp":"2025-05-21T13:16:42.287801+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=596073 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-20T19:24:31.471548+08:00","host":"hivenode02","text":"systemd: Started Infinity Celery Worker Service.","label":"normal"}
+{"timestamp":"2025-05-19T07:35:12.419236+08:00","host":"hivenode02","text":"systemd-logind: New session 1625103 of user root.","label":"normal"}
+{"timestamp":"2025-05-20T12:17:27.759680+08:00","host":"hivenode02","text":"python: - ** ---------- .> app:         __main__:0x160ea90","label":"normal"}
+{"timestamp":"2025-05-25T05:53:50.952825+08:00","host":"hivenode02","text":"python: ---- **** -----","label":"normal"}
+{"timestamp":"2025-05-20T00:26:34.259561+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=2203087 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-06-01T19:18:55.911854+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=114173 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-27T21:52:47.777368+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=3765559 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":"2025-05-30T13:05:14.836638+08:00","host":"hivenode02","text":"python: Please specify a different user using the --uid option.","label":"normal"}
+{"timestamp":"2025-05-21T19:32:49.114247+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=2409718 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":"2025-05-30T21:31:28.108590+08:00","host":"hivenode02","text":"systemd: infi-celery.service: main process exited, code=exited, status=1\/FAILURE","label":"warning"}
+{"timestamp":"2025-05-22T17:09:55.008828+08:00","host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-22 17:09:53","label":"normal"}
+{"timestamp":"2025-05-18T14:28:26.398453+08:00","host":"hivenode02","text":"python: uid=uid, euid=euid, gid=gid, egid=egid,","label":"normal"}
+{"timestamp":"2025-05-25T18:33:34.567761+08:00","host":"hivenode02","text":"python: Please specify a different user using the --uid option.","label":"normal"}
+{"timestamp":"2025-05-19T19:44:51.988063+08:00","host":"hivenode02","text":"systemd: Starting Session 1653136 of user root.","label":"normal"}
+{"timestamp":"2025-05-25T13:12:17.924781+08:00","host":"hivenode02","text":"systemd: Started Session 1967008 of user root.","label":"normal"}
+{"timestamp":"2025-06-01T14:14:43.074621+08:00","host":"hivenode02","text":"systemd: Starting Infinity Celery Worker Service...","label":"normal"}
+{"timestamp":"2025-05-15T11:33:02.938032+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=3033094 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-06-01T19:19:03.146619+08:00","host":"hivenode02","text":"python: - ** ---------- .> app:         __main__:0x175da90","label":"normal"}
+{"timestamp":"2025-05-30T11:48:08.445208+08:00","host":"hivenode02","text":"systemd: Starting Session 2238898 of user root.","label":"normal"}
+{"timestamp":"2025-05-22T16:27:23.542097+08:00","host":"hivenode02","text":"python: .> infinity_queue   exchange=infinity_exchange(direct) key=infinity_queue","label":"normal"}
+{"timestamp":"2025-05-28T09:46:03.494219+08:00","host":"hivenode02","text":"python: -- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)","label":"normal"}
+{"timestamp":"2025-05-18T09:39:45.778558+08:00","host":"hivenode02","text":"systemd: Started Session 1574326 of user root.","label":"normal"}
+{"timestamp":"2025-05-14T04:33:45.684597+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=2914229 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":"2025-05-26T09:37:54.345226+08:00","host":"hivenode02","text":"systemd-logind: New session 2013015 of user root.","label":"normal"}
+{"timestamp":"2025-05-27T12:14:49.001265+08:00","host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-27 12:14:47","label":"normal"}
+{"timestamp":"2025-05-31T20:36:38.322766+08:00","host":"hivenode02","text":"systemd: infi-celery.service holdoff time over, scheduling restart.","label":"normal"}
+{"timestamp":"2025-05-28T12:00:18.249530+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=2147561 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":"2025-05-30T19:55:11.655954+08:00","host":"hivenode02","text":"systemd: Starting Session 2257623 of user root.","label":"normal"}
+{"timestamp":"2025-05-25T02:10:19.986132+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=1496223 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":"2025-05-28T04:56:53.350918+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=983849 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-13T21:40:56.626009+08:00","host":"hivenode02","text":"python: absolutely not recommended!","label":"normal"}
+{"timestamp":"2025-05-20T18:56:25.169069+08:00","host":"hivenode02","text":"systemd: infi-celery.service: control process exited, code=exited status=1","label":"normal"}
+{"timestamp":"2025-05-13T08:58:00.988538+08:00","host":"hivenode02","text":"systemd: infi-celery.service failed.","label":"warning"}
+{"timestamp":"2025-05-13T21:43:14.038303+08:00","host":"hivenode02","text":"systemd: Starting Session 1329845 of user root.","label":"normal"}
+{"timestamp":"2025-05-27T14:25:23.191427+08:00","host":"hivenode02","text":"python: . infinity.task.tasks.infi_cluster","label":"normal"}
+{"timestamp":"2025-05-14T23:34:19.959115+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=2135582 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":"2025-05-28T23:07:46.521716+08:00","host":"hivenode02","text":"python: --- ***** -----","label":"normal"}
+{"timestamp":"2025-05-22T13:35:57.459227+08:00","host":"hivenode02","text":"systemd: Starting Session 1805033 of user root.","label":"normal"}
+{"timestamp":"2025-05-29T12:20:50.160520+08:00","host":"hivenode02","text":"systemd: Started Session 2184722 of user root.","label":"normal"}
+{"timestamp":"2025-05-25T19:14:26.528310+08:00","host":"hivenode02","text":"python: -- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)","label":"normal"}
+{"timestamp":"2025-05-17T17:41:53.264275+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=1184593 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-30T00:51:30.638740+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=587117 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-15T15:18:44.648796+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=475838 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":"2025-05-19T12:05:41.154181+08:00","host":"hivenode02","text":"systemd: Starting Session 1635494 of user root.","label":"normal"}
+{"timestamp":"2025-05-25T07:20:06.444035+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=1499003 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-21T08:39:53.066659+08:00","host":"hivenode02","text":"python: -- * - **** ---","label":"normal"}
+{"timestamp":"2025-05-18T15:51:56.609989+08:00","host":"hivenode02","text":"kill: kill: cannot find process \"\"","label":"normal"}
+{"timestamp":"2025-05-14T01:42:31.104324+08:00","host":"hivenode02","text":"systemd: Starting Session 1338601 of user root.","label":"normal"}
+{"timestamp":"2025-05-17T18:47:28.404356+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=2520667 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":"2025-05-16T05:08:37.079020+08:00","host":"hivenode02","text":"python: - ** ---------- .> app:         __main__:0x24f7a90","label":"normal"}
+{"timestamp":"2025-05-29T03:59:51.869005+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=1746088 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-13T18:32:05.330002+08:00","host":"hivenode02","text":"python: - ** ---------- .> results:     elasticsearch:\/\/10.0.100.105:8200\/infi_queue_result\/queue_result","label":"normal"}
+{"timestamp":"2025-05-14T13:05:40.101536+08:00","host":"hivenode02","text":"python: -- * - **** ---","label":"normal"}
+{"timestamp":"2025-05-15T15:35:30.521297+08:00","host":"hivenode02","text":"python: ---- **** -----","label":"normal"}
+{"timestamp":"2025-05-18T05:01:18.778382+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=3520470 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":"2025-05-17T23:57:30.873436+08:00","host":"hivenode02","text":"systemd: infi-celery.service failed.","label":"warning"}
+{"timestamp":"2025-05-16T15:43:15.535870+08:00","host":"hivenode02","text":"python: .> infinity_queue   exchange=infinity_exchange(direct) key=infinity_queue","label":"normal"}
+{"timestamp":"2025-05-23T01:32:07.970707+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=4052701 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-30T20:56:54.824890+08:00","host":"hivenode02","text":"systemd: Starting Infinity Celery Worker Service...","label":"normal"}
+{"timestamp":"2025-05-14T17:49:54.047952+08:00","host":"hivenode02","text":"python: - *** --- * --- .> concurrency: 4 (prefork)","label":"normal"}
+{"timestamp":"2025-06-01T11:40:01.229699+08:00","host":"hivenode02","text":"systemd: infi-celery.service holdoff time over, scheduling restart.","label":"normal"}
+{"timestamp":"2025-05-31T17:33:10.825665+08:00","host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=1562340 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":"2025-05-24T15:02:29.666781+08:00","host":"hivenode02","text":"systemd: Started Infinity Celery Worker Service.","label":"normal"}
+{"timestamp":"2025-05-23T03:13:57.352158+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=4056429 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-15T05:22:44.960908+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=1690278 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":"2025-05-18T02:27:04.221599+08:00","host":"hivenode02","text":"systemd: Started Infinity Celery Worker Service.","label":"normal"}
+{"timestamp":"2025-05-27T14:01:41.748218+08:00","host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=2513931 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":"2025-05-19T15:48:26.403177+08:00","host":"hivenode02","text":"kill: kill: cannot find process \"\"","label":"normal"}
+{"timestamp":"2025-05-26T08:50:54.569083+08:00","host":"hivenode02","text":"python: absolutely not recommended!","label":"normal"}
+{"timestamp":"2025-05-31T17:51:08.673698+08:00","host":"hivenode02","text":"python: -- * - **** ---","label":"normal"}
+{"timestamp":"2025-05-13T22:07:21.173223+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=1293221 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-13T23:54:50.821289+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1588782 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":"2025-05-29T16:14:30.162256+08:00","host":"hivenode02","text":"systemd: Started Session 2193679 of user root.","label":"normal"}
+{"timestamp":"2025-05-16T05:01:31.035407+08:00","host":"hivenode02","text":"systemd: Starting Session 1452480 of user root.","label":"normal"}
+{"timestamp":"2025-05-13T04:55:23.626211+08:00","host":"hivenode02","text":"python: . infinity.task.tasks.infi_cluster","label":"normal"}
+{"timestamp":"2025-05-25T05:58:47.163549+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=3365920 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-29T13:50:52.896722+08:00","host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-29 13:50:51","label":"normal"}
+{"timestamp":"2025-05-19T08:05:49.168427+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=354315 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":"2025-05-29T00:51:44.600537+08:00","host":"hivenode02","text":"systemd-logind: Removed session 2158238.","label":"normal"}
+{"timestamp":"2025-05-20T21:37:01.460788+08:00","host":"hivenode02","text":"systemd: Started Session 1712915 of user root.","label":"normal"}
+{"timestamp":"2025-05-25T08:58:00.887566+08:00","host":"hivenode02","text":"systemd: Started Session 1958683 of user root.","label":"normal"}
+{"timestamp":"2025-05-26T22:14:42.771448+08:00","host":"hivenode02","text":"systemd-logind: New session 2041998 of user root.","label":"normal"}
+{"timestamp":"2025-05-12T17:39:17.276303+08:00","host":"hivenode02","text":"systemd: Starting Session 1268041 of user root.","label":"normal"}
+{"timestamp":"2025-05-15T22:14:14.519635+08:00","host":"hivenode02","text":"systemd: Starting Session 1436726 of user root.","label":"normal"}
+{"timestamp":"2025-05-29T14:26:55.130685+08:00","host":"hivenode02","text":"python: - ** ---------- .> app:         __main__:0x1b85a90","label":"normal"}
+{"timestamp":"2025-05-16T20:05:18.703215+08:00","host":"hivenode02","text":"systemd: Starting Session 1487269 of user root.","label":"normal"}
+{"timestamp":"2025-05-22T12:00:18.258942+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=4088183 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":"2025-05-14T18:38:43.069919+08:00","host":"hivenode02","text":"systemd: Starting Session 1375567 of user root.","label":"normal"}
+{"timestamp":"2025-05-14T13:49:15.075535+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=1153514 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-20T16:24:12.455185+08:00","host":"hivenode02","text":"systemd: Starting Session 1700838 of user root.","label":"normal"}
+{"timestamp":"2025-05-16T23:59:52.149764+08:00","host":"hivenode02","text":"systemd: Starting Session 1496259 of user root.","label":"normal"}
+{"timestamp":"2025-05-17T14:30:32.409125+08:00","host":"hivenode02","text":"systemd-logind: New session 1529943 of user root.","label":"normal"}
+{"timestamp":"2025-05-25T18:03:58.102592+08:00","host":"hivenode02","text":"python: Please specify a different user using the --uid option.","label":"normal"}
+{"timestamp":"2025-05-19T06:20:40.535716+08:00","host":"hivenode02","text":"python: .> infinity_queue   exchange=infinity_exchange(direct) key=infinity_queue","label":"normal"}
+{"timestamp":"2025-05-16T00:42:52.928945+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=1599573 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-12T22:16:23.734989+08:00","host":"hivenode02","text":"systemd: infi-celery.service failed.","label":"warning"}
+{"timestamp":"2025-05-15T09:44:28.432342+08:00","host":"hivenode02","text":"systemd: Starting Session 1409747 of user root.","label":"normal"}
+{"timestamp":"2025-05-30T07:42:49.979040+08:00","host":"hivenode02","text":"systemd: Started Session 2229557 of user root.","label":"normal"}
+{"timestamp":"2025-05-25T08:10:00.125468+08:00","host":"hivenode02","text":"systemd-logind: Removed session 1957127.","label":"normal"}
+{"timestamp":"2025-05-23T07:06:59.416115+08:00","host":"hivenode02","text":"systemd: Starting Infinity Celery Worker Service...","label":"normal"}
+{"timestamp":"2025-05-24T05:31:50.275881+08:00","host":"hivenode02","text":"systemd: Started Session 1896892 of user root.","label":"normal"}
+{"timestamp":"2025-05-27T11:51:17.764388+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=166305 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-17T05:56:35.965779+08:00","host":"hivenode02","text":"systemd-logind: New session 1510166 of user root.","label":"normal"}
+{"timestamp":"2025-05-22T02:21:29.982446+08:00","host":"hivenode02","text":"python: -- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)","label":"normal"}
+{"timestamp":"2025-05-21T23:35:26.781045+08:00","host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-21 23:35:25","label":"normal"}
+{"timestamp":"2025-05-22T07:26:16.808808+08:00","host":"hivenode02","text":"systemd: infi-celery.service failed.","label":"warning"}
+{"timestamp":"2025-06-01T17:16:49.201851+08:00","host":"hivenode02","text":"python: - ** ---------- [config]","label":"normal"}
+{"timestamp":"2025-06-01T01:06:00.849332+08:00","host":"hivenode02","text":"systemd-logind: Removed session 2325111.","label":"normal"}
+{"timestamp":"2025-05-21T18:56:40.693951+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=3584471 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-30T12:55:52.793041+08:00","host":"hivenode02","text":"systemd-logind: Removed session 2241482.","label":"normal"}
+{"timestamp":"2025-05-18T10:00:27.295227+08:00","host":"hivenode02","text":"python: User information: uid=0 euid=0 gid=0 egid=0","label":"normal"}
+{"timestamp":"2025-05-18T20:28:44.969915+08:00","host":"hivenode02","text":"systemd: Started Infinity Celery Worker Service.","label":"normal"}
+{"timestamp":"2025-05-25T11:42:33.338311+08:00","host":"hivenode02","text":"systemd: Unit infi-celery.service entered failed state.","label":"warning"}
+{"timestamp":"2025-05-18T16:33:59.316381+08:00","host":"hivenode02","text":"python: ---- **** -----","label":"normal"}
+{"timestamp":"2025-05-29T15:07:35.060379+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=2257950 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-15T10:37:30.133239+08:00","host":"hivenode02","text":"systemd: Started Session 1411525 of user root.","label":"normal"}
+{"timestamp":"2025-05-21T07:01:12.896792+08:00","host":"hivenode02","text":"systemd: Unit infi-celery.service entered failed state.","label":"warning"}
+{"timestamp":"2025-05-26T21:13:28.107075+08:00","host":"hivenode02","text":"systemd-logind: New session 2039670 of user root.","label":"normal"}
+{"timestamp":"2025-05-14T20:24:00.493692+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=3589720 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":"2025-05-15T13:17:14.471880+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=3142228 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-18T18:22:52.324857+08:00","host":"hivenode02","text":"python: - ** ---------- .> app:         __main__:0x191aa90","label":"normal"}
+{"timestamp":"2025-05-25T22:08:58.097828+08:00","host":"hivenode02","text":"systemd: Started Session 1986621 of user root.","label":"normal"}
+{"timestamp":"2025-05-20T16:02:14.783817+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=4082632 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-16T02:38:15.256530+08:00","host":"hivenode02","text":"python: . infinity.task.tasks.infi_cluster","label":"normal"}
+{"timestamp":"2025-05-27T09:54:12.371450+08:00","host":"hivenode02","text":"systemd: Started Session 2068760 of user root.","label":"normal"}
+{"timestamp":"2025-05-25T06:39:36.232436+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=2442206 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":"2025-05-12T23:04:31.152048+08:00","host":"hivenode02","text":"systemd-logind: New session 1280054 of user root.","label":"normal"}
+{"timestamp":"2025-05-20T06:04:24.482695+08:00","host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=847531 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":"2025-05-26T13:46:59.142821+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=44825 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":"2025-05-25T06:56:01.297690+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=3759559 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-21T12:18:37.049365+08:00","host":"hivenode02","text":"python: -- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)","label":"normal"}
+{"timestamp":"2025-05-22T10:15:38.038177+08:00","host":"hivenode02","text":"systemd: Started Session 1797432 of user root.","label":"normal"}
+{"timestamp":"2025-05-24T14:55:31.050052+08:00","host":"hivenode02","text":"systemd: infi-celery.service: main process exited, code=exited, status=1\/FAILURE","label":"warning"}
+{"timestamp":"2025-05-26T09:59:41.688953+08:00","host":"hivenode02","text":"systemd: Starting Session 2013860 of user root.","label":"normal"}
+{"timestamp":"2025-05-21T02:56:48.256364+08:00","host":"hivenode02","text":"python: .> infinity_queue   exchange=infinity_exchange(direct) key=infinity_queue","label":"normal"}
+{"timestamp":"2025-05-18T18:03:58.420340+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1462903 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":"2025-05-14T20:14:39.324440+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=2830452 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-21T07:24:21.723374+08:00","host":"hivenode02","text":"systemd: Started Session 1735592 of user root.","label":"normal"}
+{"timestamp":"2025-05-30T10:28:50.160714+08:00","host":"hivenode02","text":"systemd-logind: New session 2235888 of user root.","label":"normal"}
+{"timestamp":"2025-05-29T05:48:55.824508+08:00","host":"hivenode02","text":"systemd: Started Infinity Celery Worker Service.","label":"normal"}
+{"timestamp":"2025-05-13T11:26:31.782048+08:00","host":"hivenode02","text":"systemd: Starting Session 1307197 of user root.","label":"normal"}
+{"timestamp":"2025-05-31T20:36:11.515336+08:00","host":"hivenode02","text":"systemd: infi-celery.service: control process exited, code=exited status=1","label":"normal"}
+{"timestamp":"2025-05-16T20:58:58.442337+08:00","host":"hivenode02","text":"infinity[2978354]: monitor net list is null","label":"normal"}
+{"timestamp":"2025-05-28T21:32:29.199175+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=3265094 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-17T23:40:28.905985+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1931892 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":"2025-05-14T03:19:18.771359+08:00","host":"hivenode02","text":"python: ---- **** -----","label":"normal"}
+{"timestamp":"2025-05-22T11:55:05.165652+08:00","host":"hivenode02","text":"systemd: Started Infinity Celery Worker Service.","label":"normal"}
+{"timestamp":"2025-05-15T15:08:41.070826+08:00","host":"hivenode02","text":"python: --- ***** -----","label":"normal"}
+{"timestamp":"2025-05-22T05:16:57.874675+08:00","host":"hivenode02","text":"systemd: Started Session 1786016 of user root.","label":"normal"}
+{"timestamp":"2025-06-01T20:12:59.446404+08:00","host":"hivenode02","text":"systemd-logind: Removed session 2369245.","label":"normal"}
+{"timestamp":"2025-05-28T20:06:14.358092+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=329858 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-27T23:55:54.514476+08:00","host":"hivenode02","text":"python: - ** ---------- .> transport:   amqp:\/\/rabbitmq:**@10.0.100.105:5672\/\/","label":"normal"}
+{"timestamp":"2025-05-17T14:03:23.305914+08:00","host":"hivenode02","text":"python: -- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)","label":"normal"}
+{"timestamp":"2025-05-14T09:39:41.974687+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=2158353 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-22T14:53:43.820626+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=1642043 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-26T16:31:00.283776+08:00","host":"hivenode02","text":"python: -- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)","label":"normal"}
+{"timestamp":"2025-05-22T18:16:17.541925+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=1584802 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":"2025-05-23T20:18:18.245611+08:00","host":"hivenode02","text":"systemd-logind: Removed session 1875588.","label":"normal"}
+{"timestamp":"2025-05-14T20:27:01.072629+08:00","host":"hivenode02","text":"systemd-logind: New session 1379522 of user root.","label":"normal"}
+{"timestamp":"2025-05-29T00:01:45.983066+08:00","host":"hivenode02","text":"python: ---- **** -----","label":"normal"}
+{"timestamp":"2025-06-01T12:58:15.971359+08:00","host":"hivenode02","text":"systemd: Started Session 2352402 of user root.","label":"normal"}
+{"timestamp":"2025-05-19T02:15:29.491900+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=650960 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-15T15:06:31.017545+08:00","host":"hivenode02","text":"systemd: infi-celery.service: main process exited, code=exited, status=1\/FAILURE","label":"warning"}
+{"timestamp":"2025-06-01T14:31:43.641166+08:00","host":"hivenode02","text":"systemd: Starting Session 2355992 of user root.","label":"normal"}
+{"timestamp":"2025-05-16T08:36:07.935534+08:00","host":"hivenode02","text":"systemd-logind: Removed session 1460741.","label":"normal"}
+{"timestamp":"2025-05-23T15:39:47.728100+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=2455373 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-18T11:30:32.954632+08:00","host":"hivenode02","text":"python: .> node2            exchange=node2(direct) key=node2","label":"normal"}
+{"timestamp":"2025-05-26T19:58:10.591538+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1428180 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":"2025-06-01T17:19:56.721137+08:00","host":"hivenode02","text":"python: User information: uid=0 euid=0 gid=0 egid=0","label":"normal"}
+{"timestamp":"2025-05-13T09:50:18.178131+08:00","host":"hivenode02","text":"systemd: Unit infi-celery.service entered failed state.","label":"warning"}
+{"timestamp":"2025-05-20T11:45:22.103566+08:00","host":"hivenode02","text":"systemd: infi-celery.service: main process exited, code=exited, status=1\/FAILURE","label":"warning"}
+{"timestamp":"2025-05-22T09:04:40.114699+08:00","host":"hivenode02","text":"systemd: infi-celery.service holdoff time over, scheduling restart.","label":"normal"}
+{"timestamp":"2025-05-19T07:37:46.783408+08:00","host":"hivenode02","text":"python: -- * - **** ---","label":"normal"}
+{"timestamp":"2025-05-17T08:15:49.525430+08:00","host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-17 08:15:48","label":"normal"}
+{"timestamp":"2025-05-12T13:10:26.588691+08:00","host":"hivenode02","text":"systemd-logind: Removed session 1258114.","label":"normal"}
+{"timestamp":"2025-05-31T17:11:39.703640+08:00","host":"hivenode02","text":"systemd-logind: Removed session 2306730.","label":"normal"}
+{"timestamp":"2025-05-18T00:11:44.309022+08:00","host":"hivenode02","text":"python: User information: uid=0 euid=0 gid=0 egid=0","label":"normal"}
+{"timestamp":"2025-05-24T08:39:44.214045+08:00","host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-24 08:39:43","label":"normal"}
+{"timestamp":"2025-05-28T00:45:14.461500+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=1269904 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-13T07:48:38.498972+08:00","host":"hivenode02","text":"systemd: Starting Session 1299268 of user root.","label":"normal"}
+{"timestamp":"2025-05-18T07:01:12.082753+08:00","host":"hivenode02","text":"systemd-logind: New session 1568257 of user root.","label":"normal"}
+{"timestamp":"2025-05-20T11:26:51.791917+08:00","host":"hivenode02","text":"python: - ** ---------- [config]","label":"normal"}
+{"timestamp":"2025-05-14T14:24:12.469639+08:00","host":"hivenode02","text":"systemd: Started Session 1366275 of user root.","label":"normal"}
+{"timestamp":"2025-05-31T22:38:43.041148+08:00","host":"hivenode02","text":"systemd: Starting Session 2319368 of user root.","label":"normal"}
+{"timestamp":"2025-05-28T18:03:55.739736+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=2783595 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-22T07:36:10.291498+08:00","host":"hivenode02","text":"python: -- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)","label":"normal"}
+{"timestamp":"2025-05-20T10:16:02.496297+08:00","host":"hivenode02","text":"systemd: Starting Session 1686726 of user root.","label":"normal"}
+{"timestamp":"2025-05-14T15:11:53.646533+08:00","host":"hivenode02","text":"python: -------------- celery@hivenode02 v4.2.1 (windowlicker)","label":"normal"}
+{"timestamp":"2025-05-30T23:57:43.201332+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=2172706 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":"2025-05-24T14:03:15.054007+08:00","host":"hivenode02","text":"python: User information: uid=0 euid=0 gid=0 egid=0","label":"normal"}
+{"timestamp":"2025-05-25T08:58:50.216193+08:00","host":"hivenode02","text":"python: . infinity.task.tasks.infi_cluster","label":"normal"}
+{"timestamp":"2025-06-01T01:36:23.305266+08:00","host":"hivenode02","text":"python: --- ***** -----","label":"normal"}
+{"timestamp":"2025-05-14T13:21:13.870906+08:00","host":"hivenode02","text":"python: -- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)","label":"normal"}
+{"timestamp":"2025-05-23T08:36:38.405124+08:00","host":"hivenode02","text":"systemd: Started Session 1848792 of user root.","label":"normal"}
+{"timestamp":"2025-05-13T18:08:50.754472+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=2917857 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":"2025-05-27T10:55:47.848267+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=4008318 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-31T21:05:10.526296+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=2538737 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-19T00:47:15.227591+08:00","host":"hivenode02","text":"python: - ** ---------- .> app:         __main__:0x159aa90","label":"normal"}
+{"timestamp":"2025-05-28T17:58:26.092742+08:00","host":"hivenode02","text":"systemd: Starting Session 2142387 of user root.","label":"normal"}
+{"timestamp":"2025-05-23T13:23:35.635210+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=3829468 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":"2025-05-31T00:00:56.349654+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=2422293 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-12T13:33:16.602906+08:00","host":"hivenode02","text":"python: .> node2            exchange=node2(direct) key=node2","label":"normal"}
+{"timestamp":"2025-05-12T16:29:07.270340+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=189914 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":"2025-05-31T12:53:26.725478+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=3434801 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-22T08:19:01.613059+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=2722795 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":"2025-05-21T03:36:30.154871+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=3009817 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-31T01:13:07.786194+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=4190379 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-25T14:57:33.991705+08:00","host":"hivenode02","text":"python: - ** ---------- .> results:     elasticsearch:\/\/10.0.100.105:8200\/infi_queue_result\/queue_result","label":"normal"}
+{"timestamp":"2025-05-19T04:34:06.509457+08:00","host":"hivenode02","text":"python: - ** ---------- .> app:         __main__:0x1178a90","label":"normal"}
+{"timestamp":"2025-05-29T00:07:22.978655+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=3526338 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":"2025-05-24T15:15:23.500685+08:00","host":"hivenode02","text":"python: ---- **** -----","label":"normal"}
+{"timestamp":"2025-05-20T15:43:57.574383+08:00","host":"hivenode02","text":"systemd: Started Session 1699265 of user root.","label":"normal"}
+{"timestamp":"2025-05-20T23:09:47.235476+08:00","host":"hivenode02","text":"systemd-logind: New session 1716444 of user root.","label":"normal"}
+{"timestamp":"2025-05-14T14:20:33.718523+08:00","host":"hivenode02","text":"python: Please specify a different user using the --uid option.","label":"normal"}
+{"timestamp":"2025-05-20T10:44:59.091909+08:00","host":"hivenode02","text":"systemd-logind: New session 1687826 of user root.","label":"normal"}
+{"timestamp":"2025-05-20T17:42:51.998222+08:00","host":"hivenode02","text":"systemd: infi-celery.service failed.","label":"warning"}
+{"timestamp":"2025-05-27T15:20:17.985902+08:00","host":"hivenode02","text":"python: .> node2            exchange=node2(direct) key=node2","label":"normal"}
+{"timestamp":"2025-05-31T10:49:53.367353+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=1613162 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-21T23:55:38.206652+08:00","host":"hivenode02","text":"journal: HEAD http:\/\/10.0.100.105:8200\/ [status:200 request:0.002s]","label":"normal"}
+{"timestamp":"2025-05-30T06:47:38.445271+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=640965 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-28T00:54:54.533536+08:00","host":"hivenode02","text":"systemd-logind: New session 2103237 of user root.","label":"normal"}
+{"timestamp":"2025-05-25T12:54:31.406144+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=3206514 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":"2025-05-24T20:34:33.734830+08:00","host":"hivenode02","text":"systemd-logind: New session 1931454 of user root.","label":"normal"}
+{"timestamp":"2025-05-20T21:44:00.705053+08:00","host":"hivenode02","text":"systemd: Started Infinity Celery Worker Service.","label":"normal"}
+{"timestamp":"2025-05-31T04:14:35.121769+08:00","host":"hivenode02","text":"systemd: Started Session 2276947 of user root.","label":"normal"}
+{"timestamp":"2025-05-22T23:04:15.127661+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=292534 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":"2025-05-19T17:43:32.402373+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=2100824 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-15T06:19:17.293638+08:00","host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-15 06:19:16","label":"normal"}
+{"timestamp":"2025-05-31T16:34:27.967483+08:00","host":"hivenode02","text":"systemd-logind: Removed session 2305277.","label":"normal"}
+{"timestamp":"2025-05-21T12:53:41.298398+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=2902456 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":"2025-06-01T22:14:00.738240+08:00","host":"hivenode02","text":"systemd: Unit infi-celery.service entered failed state.","label":"warning"}
+{"timestamp":"2025-05-23T11:46:25.719432+08:00","host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-23 11:46:24","label":"normal"}
+{"timestamp":"2025-05-26T16:39:00.759798+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=1659509 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-18T01:42:03.571355+08:00","host":"hivenode02","text":"systemd: infi-celery.service: main process exited, code=exited, status=1\/FAILURE","label":"warning"}
+{"timestamp":"2025-05-22T08:27:04.025180+08:00","host":"hivenode02","text":"python: [tasks]","label":"normal"}
+{"timestamp":"2025-05-28T20:08:33.850622+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=536178 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":"2025-05-25T04:09:32.359643+08:00","host":"hivenode02","text":"python: -------------- [queues]","label":"normal"}
+{"timestamp":"2025-05-24T02:16:16.536735+08:00","host":"hivenode02","text":"systemd-logind: Removed session 1889383.","label":"normal"}
+{"timestamp":"2025-05-27T02:59:52.048772+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=2712964 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":"2025-05-29T00:44:43.285583+08:00","host":"hivenode02","text":"systemd-logind: Removed session 2157966.","label":"normal"}
+{"timestamp":"2025-05-31T10:55:26.894712+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=2068048 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":"2025-05-26T13:38:30.527693+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=3552425 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-27T16:09:16.858710+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=402689 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-30T12:40:17.110105+08:00","host":"hivenode02","text":"systemd: Started Session 2240894 of user root.","label":"normal"}
+{"timestamp":"2025-05-28T14:27:19.273444+08:00","host":"hivenode02","text":"python: - ** ---------- .> transport:   amqp:\/\/rabbitmq:**@10.0.100.105:5672\/\/","label":"normal"}
+{"timestamp":"2025-05-27T07:13:33.623266+08:00","host":"hivenode02","text":"systemd-logind: Removed session 2062673.","label":"normal"}
+{"timestamp":"2025-05-28T22:57:44.543144+08:00","host":"hivenode02","text":"infinity[1533675]: monitor net list is null","label":"normal"}
+{"timestamp":"2025-05-23T04:42:25.432990+08:00","host":"hivenode02","text":"python: - ** ---------- .> transport:   amqp:\/\/rabbitmq:**@10.0.100.105:5672\/\/","label":"normal"}
+{"timestamp":"2025-05-13T06:00:11.900959+08:00","host":"hivenode02","text":"systemd-logind: Removed session 1295317.","label":"normal"}
+{"timestamp":"2025-05-19T12:49:06.874148+08:00","host":"hivenode02","text":"systemd: Started Session 1637151 of user root.","label":"normal"}
+{"timestamp":"2025-05-30T04:57:06.478310+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=4081277 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-06-01T00:25:02.415244+08:00","host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-06-01 00:25:01","label":"normal"}
+{"timestamp":"2025-05-27T19:51:06.305527+08:00","host":"hivenode02","text":"python: \/usr\/lib\/python2.7\/site-packages\/celery\/platforms.py:796: RuntimeWarning: You're running the worker with superuser privileges: this is","label":"warning"}
+{"timestamp":"2025-05-17T15:13:10.364832+08:00","host":"hivenode02","text":"systemd: infi-celery.service failed.","label":"warning"}
+{"timestamp":"2025-05-25T21:20:07.330038+08:00","host":"hivenode02","text":"systemd: infi-celery.service: main process exited, code=exited, status=1\/FAILURE","label":"warning"}
+{"timestamp":"2025-05-28T06:01:34.242914+08:00","host":"hivenode02","text":"python: . infinity.task.tasks.infi_cluster","label":"normal"}
+{"timestamp":"2025-05-23T12:06:49.415543+08:00","host":"hivenode02","text":"systemd: Starting Infinity Celery Worker Service...","label":"normal"}
+{"timestamp":"2025-05-14T12:55:27.872537+08:00","host":"hivenode02","text":"python: ---- **** -----","label":"normal"}
+{"timestamp":"2025-05-27T20:27:55.229420+08:00","host":"hivenode02","text":"systemd: Started Session 2092999 of user root.","label":"normal"}
+{"timestamp":"2025-05-13T08:12:10.231499+08:00","host":"hivenode02","text":"systemd: Unit infi-celery.service entered failed state.","label":"warning"}
+{"timestamp":"2025-05-13T11:29:39.415612+08:00","host":"hivenode02","text":"python: -- * - **** ---","label":"normal"}
+{"timestamp":"2025-06-02T02:54:01.681221+08:00","host":"hivenode02","text":"systemd: Starting Session 2384753 of user root.","label":"normal"}
+{"timestamp":"2025-05-12T13:25:07.954160+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=2066673 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":"2025-05-14T11:13:40.530280+08:00","host":"hivenode02","text":"systemd-logind: New session 1359358 of user root.","label":"normal"}
+{"timestamp":"2025-05-17T16:57:43.764277+08:00","host":"hivenode02","text":"systemd: Starting Session 1535605 of user root.","label":"normal"}
+{"timestamp":"2025-05-18T05:00:15.514622+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=3438217 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-17T10:34:54.332332+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=3315062 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-15T12:28:52.672594+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=3404329 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-24T04:27:43.972609+08:00","host":"hivenode02","text":"systemd: infi-celery.service failed.","label":"warning"}
+{"timestamp":"2025-05-13T23:14:04.698721+08:00","host":"hivenode02","text":"systemd-logind: Removed session 1333160.","label":"normal"}
+{"timestamp":"2025-05-31T18:12:38.527424+08:00","host":"hivenode02","text":"systemd-logind: Removed session 2309096.","label":"normal"}
+{"timestamp":"2025-05-20T09:57:48.058853+08:00","host":"hivenode02","text":"systemd: Starting Session 1686015 of user root.","label":"normal"}
+{"timestamp":"2025-05-26T09:05:09.777147+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=2119401 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":"2025-05-25T13:21:21.935293+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=1166306 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-31T11:04:55.242192+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=2825611 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-14T08:20:10.375405+08:00","host":"hivenode02","text":"python: -------------- [queues]","label":"normal"}
+{"timestamp":"2025-05-18T13:44:12.632258+08:00","host":"hivenode02","text":"systemd: Started Session 1583694 of user root.","label":"normal"}
+{"timestamp":"2025-05-19T08:20:31.214167+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1543090 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":"2025-05-23T08:48:11.448750+08:00","host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-23 08:48:10","label":"normal"}
+{"timestamp":"2025-05-24T10:00:05.480485+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=954714 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":"2025-05-14T02:33:24.884095+08:00","host":"hivenode02","text":"python: -- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)","label":"normal"}
+{"timestamp":"2025-05-15T13:00:18.001310+08:00","host":"hivenode02","text":"systemd-logind: New session 1416235 of user root.","label":"normal"}
+{"timestamp":"2025-05-31T14:24:08.838813+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=2566788 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-29T01:00:54.209471+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=3723971 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-31T10:34:32.665213+08:00","host":"hivenode02","text":"systemd-logind: Removed session 2291472.","label":"normal"}
+{"timestamp":"2025-05-26T07:57:24.590645+08:00","host":"hivenode02","text":"systemd-logind: New session 2009214 of user root.","label":"normal"}
+{"timestamp":"2025-05-31T03:45:08.497049+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=44986 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":"2025-05-20T11:29:47.250274+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=2507752 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-17T22:33:42.767899+08:00","host":"hivenode02","text":"python: -------------- [queues]","label":"normal"}
+{"timestamp":"2025-05-27T04:53:47.726798+08:00","host":"hivenode02","text":"python: - ** ---------- [config]","label":"normal"}
+{"timestamp":"2025-05-16T11:59:50.034595+08:00","host":"hivenode02","text":"systemd: infi-celery.service: control process exited, code=exited status=1","label":"normal"}
+{"timestamp":"2025-05-13T15:59:01.148915+08:00","host":"hivenode02","text":"systemd-logind: Removed session 1317140.","label":"normal"}
+{"timestamp":"2025-05-15T11:03:25.289704+08:00","host":"hivenode02","text":"python: - ** ---------- .> app:         __main__:0x26f7a90","label":"normal"}
+{"timestamp":"2025-05-31T01:32:01.071576+08:00","host":"hivenode02","text":"systemd-logind: Removed session 2270673.","label":"normal"}
+{"timestamp":"2025-05-16T18:34:20.292679+08:00","host":"hivenode02","text":"python: --- ***** -----","label":"normal"}
+{"timestamp":"2025-05-18T14:40:51.136806+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=1324297 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-28T22:57:51.332012+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1957840 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":"2025-05-18T09:46:07.209027+08:00","host":"hivenode02","text":"infinity[3192215]: init lang database successfully.","label":"normal"}
+{"timestamp":"2025-05-18T20:02:13.552827+08:00","host":"hivenode02","text":"python: - ** ---------- .> app:         __main__:0xffaa90","label":"normal"}
+{"timestamp":"2025-05-24T22:48:54.840339+08:00","host":"hivenode02","text":"infinity[1851450]: an error occurred while requesting bindings <urlopen error [Errno 111] Connection refused>","label":"abnormal"}
+{"timestamp":"2025-05-15T03:17:38.651416+08:00","host":"hivenode02","text":"python: Please specify a different user using the --uid option.","label":"normal"}
+{"timestamp":"2025-06-01T01:34:17.509510+08:00","host":"hivenode02","text":"systemd-logind: Removed session 2326210.","label":"normal"}
+{"timestamp":"2025-05-18T10:26:23.536261+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1160862 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":"2025-05-22T14:15:17.294989+08:00","host":"hivenode02","text":"systemd-logind: New session 1806549 of user root.","label":"normal"}
+{"timestamp":"2025-05-17T14:30:18.537528+08:00","host":"hivenode02","text":"python: .> infinity_queue   exchange=infinity_exchange(direct) key=infinity_queue","label":"normal"}
+{"timestamp":"2025-05-20T19:49:23.824369+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=1975016 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-20T02:00:14.579065+08:00","host":"hivenode02","text":"systemd: infi-celery.service: main process exited, code=exited, status=1\/FAILURE","label":"warning"}
+{"timestamp":"2025-05-26T20:07:46.512214+08:00","host":"hivenode02","text":"python: --- ***** -----","label":"normal"}
+{"timestamp":"2025-05-25T17:00:40.015157+08:00","host":"hivenode02","text":"python: [tasks]","label":"normal"}
+{"timestamp":"2025-05-28T14:54:36.693192+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=3874259 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-14T19:14:13.948120+08:00","host":"hivenode02","text":"systemd: Started Session 1376868 of user root.","label":"normal"}
+{"timestamp":"2025-05-17T17:41:41.718457+08:00","host":"hivenode02","text":"systemd: Starting Session 1537275 of user root.","label":"normal"}
+{"timestamp":"2025-05-20T07:55:45.377832+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1633837 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":"2025-05-28T23:49:04.319465+08:00","host":"hivenode02","text":"python: absolutely not recommended!","label":"normal"}
+{"timestamp":"2025-05-22T23:22:57.827359+08:00","host":"hivenode02","text":"python: uid=uid, euid=euid, gid=gid, egid=egid,","label":"normal"}
+{"timestamp":"2025-05-25T05:49:50.601508+08:00","host":"hivenode02","text":"python: absolutely not recommended!","label":"normal"}
+{"timestamp":"2025-05-30T23:25:15.307736+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=3654676 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":"2025-05-19T14:08:59.827058+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=1101625 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-17T18:00:44.189319+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=2778322 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":"2025-05-19T07:29:39.539723+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1536641 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":"2025-05-22T21:47:23.160808+08:00","host":"hivenode02","text":"python: --- ***** -----","label":"normal"}
+{"timestamp":"2025-05-13T20:23:42.857835+08:00","host":"hivenode02","text":"python: - ** ---------- .> transport:   amqp:\/\/rabbitmq:**@10.0.100.105:5672\/\/","label":"normal"}
+{"timestamp":"2025-05-13T00:11:05.935249+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=35939 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":"2025-05-21T11:24:11.783538+08:00","host":"hivenode02","text":"systemd-logind: Removed session 1744770.","label":"normal"}
+{"timestamp":"2025-05-16T21:29:27.907520+08:00","host":"hivenode02","text":"systemd: Started Session 1490517 of user root.","label":"normal"}
+{"timestamp":"2025-05-23T19:37:52.595882+08:00","host":"hivenode02","text":"systemd: Starting Session 1874036 of user root.","label":"normal"}
+{"timestamp":"2025-05-26T01:59:38.067260+08:00","host":"hivenode02","text":"systemd: Started Session 1995520 of user root.","label":"normal"}
+{"timestamp":"2025-05-16T17:00:06.873625+08:00","host":"hivenode02","text":"systemd: infi-celery.service: main process exited, code=exited, status=1\/FAILURE","label":"warning"}
+{"timestamp":"2025-05-19T18:12:48.402192+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=371229 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":"2025-05-27T16:42:08.002851+08:00","host":"hivenode02","text":"python: -- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)","label":"normal"}
+{"timestamp":"2025-05-20T02:02:10.674484+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=1747972 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-30T09:11:25.452866+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=4093116 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-18T11:00:12.502602+08:00","host":"hivenode02","text":"python: [tasks]","label":"normal"}
+{"timestamp":"2025-05-23T00:20:08.925281+08:00","host":"hivenode02","text":"systemd: Started Session 1829763 of user root.","label":"normal"}
+{"timestamp":"2025-05-22T00:41:14.914725+08:00","host":"hivenode02","text":"systemd: Unit infi-celery.service entered failed state.","label":"warning"}
+{"timestamp":"2025-05-13T08:21:51.459322+08:00","host":"hivenode02","text":"systemd: infi-celery.service: control process exited, code=exited status=1","label":"normal"}
+{"timestamp":"2025-05-15T06:03:59.301236+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=972370 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-30T18:55:53.960988+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=2103006 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-12T07:56:29.380121+08:00","host":"hivenode02","text":"systemd: Starting Session 1246627 of user root.","label":"normal"}
+{"timestamp":"2025-06-01T09:46:33.357653+08:00","host":"hivenode02","text":"python: -- * - **** ---","label":"normal"}
+{"timestamp":"2025-05-13T00:50:57.973358+08:00","host":"hivenode02","text":"systemd: Started Session 1283948 of user root.","label":"normal"}
+{"timestamp":"2025-05-13T07:07:10.017505+08:00","host":"hivenode02","text":"systemd: Starting Session 1297756 of user root.","label":"normal"}
+{"timestamp":"2025-05-16T14:52:07.239880+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=968905 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-13T23:16:36.662212+08:00","host":"hivenode02","text":"python: - *** --- * --- .> concurrency: 4 (prefork)","label":"normal"}
+{"timestamp":"2025-05-17T01:54:50.435891+08:00","host":"hivenode02","text":"systemd: Starting Session 1500763 of user root.","label":"normal"}
+{"timestamp":"2025-05-24T13:05:26.988903+08:00","host":"hivenode02","text":"systemd-logind: Removed session 1914171.","label":"normal"}
+{"timestamp":"2025-05-25T10:37:37.234116+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=566526 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":"2025-05-30T21:07:05.579069+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=474211 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-06-01T08:51:06.786114+08:00","host":"hivenode02","text":"systemd-logind: New session 2342974 of user root.","label":"normal"}
+{"timestamp":"2025-05-25T08:10:28.024549+08:00","host":"hivenode02","text":"python: .> infinity_queue   exchange=infinity_exchange(direct) key=infinity_queue","label":"normal"}
+{"timestamp":"2025-05-19T06:59:53.450862+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=3252026 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-21T10:01:00.958895+08:00","host":"hivenode02","text":"systemd-logind: New session 1741593 of user root.","label":"normal"}
+{"timestamp":"2025-05-29T06:06:49.153497+08:00","host":"hivenode02","text":"python: -- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)","label":"normal"}
+{"timestamp":"2025-05-27T19:40:15.475418+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=1162935 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-13T16:29:19.443750+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=3245588 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-17T15:05:29.805660+08:00","host":"hivenode02","text":"systemd-logind: Removed session 1531276.","label":"normal"}
+{"timestamp":"2025-05-14T03:05:05.285165+08:00","host":"hivenode02","text":"kill: kill: cannot find process \"\"","label":"normal"}
+{"timestamp":"2025-05-27T14:40:28.196264+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=1497182 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-16T15:55:32.828930+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=2077028 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-18T21:03:44.111089+08:00","host":"hivenode02","text":"systemd-logind: New session 1600675 of user root.","label":"normal"}
+{"timestamp":"2025-05-23T20:25:26.953854+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=997868 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-19T07:17:08.915328+08:00","host":"hivenode02","text":"python: -------------- [queues]","label":"normal"}
+{"timestamp":"2025-05-24T19:58:51.854963+08:00","host":"hivenode02","text":"python: uid=uid, euid=euid, gid=gid, egid=egid,","label":"normal"}
+{"timestamp":"2025-05-14T18:59:04.097811+08:00","host":"hivenode02","text":"systemd-logind: New session 1376312 of user root.","label":"normal"}
+{"timestamp":"2025-05-20T23:27:23.526331+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=3350062 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":"2025-05-15T09:08:58.463089+08:00","host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=3820434 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":"2025-05-22T17:38:38.768140+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=2644766 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-20T21:11:04.014436+08:00","host":"hivenode02","text":"python: ---- **** -----","label":"normal"}
+{"timestamp":"2025-05-15T02:05:48.225330+08:00","host":"hivenode02","text":"systemd-logind: Removed session 1392077.","label":"normal"}
+{"timestamp":"2025-05-21T06:16:00.121687+08:00","host":"hivenode02","text":"systemd: Unit infi-celery.service entered failed state.","label":"warning"}
+{"timestamp":"2025-05-23T09:11:19.762634+08:00","host":"hivenode02","text":"systemd-logind: Removed session 1850100.","label":"normal"}
+{"timestamp":"2025-05-18T10:24:34.921732+08:00","host":"hivenode02","text":"systemd: Started Session 1576059 of user root.","label":"normal"}
+{"timestamp":"2025-05-24T02:37:42.298841+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=2405913 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-24T15:42:11.183913+08:00","host":"hivenode02","text":"systemd-logind: Removed session 1920126.","label":"normal"}
+{"timestamp":"2025-05-27T23:06:40.414340+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=1536916 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-23T08:19:31.558784+08:00","host":"hivenode02","text":"infinity[85010]: monitor net list is null","label":"normal"}
+{"timestamp":"2025-05-28T18:46:53.505955+08:00","host":"hivenode02","text":"python: --- ***** -----","label":"normal"}
+{"timestamp":"2025-05-21T04:07:47.570996+08:00","host":"hivenode02","text":"python: -- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)","label":"normal"}
+{"timestamp":"2025-05-20T11:18:39.332451+08:00","host":"hivenode02","text":"python: - *** --- * --- .> concurrency: 4 (prefork)","label":"normal"}
+{"timestamp":"2025-05-24T13:07:01.598201+08:00","host":"hivenode02","text":"systemd-logind: New session 1914234 of user root.","label":"normal"}
+{"timestamp":"2025-05-13T09:05:37.629233+08:00","host":"hivenode02","text":"python: -------------- [queues]","label":"normal"}
+{"timestamp":"2025-05-17T23:57:01.166415+08:00","host":"hivenode02","text":"systemd: Starting Session 1551747 of user root.","label":"normal"}
+{"timestamp":"2025-05-26T10:38:48.310013+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1387935 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":"2025-05-29T03:09:20.742836+08:00","host":"hivenode02","text":"python: - ** ---------- .> transport:   amqp:\/\/rabbitmq:**@10.0.100.105:5672\/\/","label":"normal"}
+{"timestamp":"2025-05-29T15:51:51.580590+08:00","host":"hivenode02","text":"systemd: Starting Session 2192789 of user root.","label":"normal"}
+{"timestamp":"2025-05-17T08:27:41.515846+08:00","host":"hivenode02","text":"systemd: Starting Session 1515970 of user root.","label":"normal"}
+{"timestamp":"2025-05-20T14:26:47.799031+08:00","host":"hivenode02","text":"python: -------------- [queues]","label":"normal"}
+{"timestamp":"2025-05-19T16:54:15.551501+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=2234367 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":"2025-05-14T22:12:03.176909+08:00","host":"hivenode02","text":"systemd: infi-celery.service: main process exited, code=exited, status=1\/FAILURE","label":"warning"}
+{"timestamp":"2025-05-24T08:42:09.295982+08:00","host":"hivenode02","text":"python: -------------- celery@hivenode02 v4.2.1 (windowlicker)","label":"normal"}
+{"timestamp":"2025-05-26T23:02:03.442292+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=4081733 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-13T02:28:20.694773+08:00","host":"hivenode02","text":"systemd-logind: New session 1287560 of user root.","label":"normal"}
+{"timestamp":"2025-05-14T05:05:30.222588+08:00","host":"hivenode02","text":"python: Please specify a different user using the --uid option.","label":"normal"}
+{"timestamp":"2025-05-26T00:44:06.325343+08:00","host":"hivenode02","text":"python: uid=uid, euid=euid, gid=gid, egid=egid,","label":"normal"}
+{"timestamp":"2025-05-15T04:13:43.710678+08:00","host":"hivenode02","text":"systemd-logind: Removed session 1397063.","label":"normal"}
+{"timestamp":"2025-05-24T14:55:40.405131+08:00","host":"hivenode02","text":"systemd-logind: New session 1918376 of user root.","label":"normal"}
+{"timestamp":"2025-05-30T06:03:42.572857+08:00","host":"hivenode02","text":"systemd: infi-celery.service holdoff time over, scheduling restart.","label":"normal"}
+{"timestamp":"2025-05-22T04:12:00.938202+08:00","host":"hivenode02","text":"systemd-logind: New session 1783550 of user root.","label":"normal"}
+{"timestamp":"2025-05-14T22:03:46.832327+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=3245271 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":"2025-06-01T06:45:40.119362+08:00","host":"hivenode02","text":"python: ---- **** -----","label":"normal"}
+{"timestamp":"2025-05-29T21:11:15.369382+08:00","host":"hivenode02","text":"python: -- * - **** ---","label":"normal"}
+{"timestamp":"2025-05-22T07:07:00.496510+08:00","host":"hivenode02","text":"python: --- ***** -----","label":"normal"}
+{"timestamp":"2025-05-30T16:34:47.989754+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=2904317 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-14T03:18:20.468140+08:00","host":"hivenode02","text":"systemd: Starting Session 1342117 of user root.","label":"normal"}
+{"timestamp":"2025-05-15T22:46:42.023942+08:00","host":"hivenode02","text":"systemd-logind: New session 1437946 of user root.","label":"normal"}
+{"timestamp":"2025-05-29T17:30:57.013541+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=1653707 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-25T22:48:39.229731+08:00","host":"hivenode02","text":"systemd: Starting Session 1988146 of user root.","label":"normal"}
+{"timestamp":"2025-05-28T23:12:20.927257+08:00","host":"hivenode02","text":"python: \/usr\/lib\/python2.7\/site-packages\/celery\/platforms.py:796: RuntimeWarning: You're running the worker with superuser privileges: this is","label":"warning"}
+{"timestamp":"2025-05-19T01:58:27.403285+08:00","host":"hivenode02","text":"systemd: Starting Infinity Celery Worker Service...","label":"normal"}
+{"timestamp":"2025-05-12T08:11:45.850772+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=2021837 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":"2025-05-30T21:55:35.634661+08:00","host":"hivenode02","text":"systemd-logind: New session 2262278 of user root.","label":"normal"}
+{"timestamp":"2025-05-26T08:00:42.882309+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=1054213 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-30T06:52:01.452345+08:00","host":"hivenode02","text":"systemd-logind: Removed session 2227612.","label":"normal"}
+{"timestamp":"2025-05-18T15:32:35.369920+08:00","host":"hivenode02","text":"python: absolutely not recommended!","label":"normal"}
+{"timestamp":"2025-05-31T13:27:03.510965+08:00","host":"hivenode02","text":"systemd: Started Infinity Celery Worker Service.","label":"normal"}
+{"timestamp":"2025-05-17T21:03:35.227836+08:00","host":"hivenode02","text":"systemd: Starting Session 1545111 of user root.","label":"normal"}
+{"timestamp":"2025-05-14T23:55:02.910003+08:00","host":"hivenode02","text":"python: - ** ---------- .> results:     elasticsearch:\/\/10.0.100.105:8200\/infi_queue_result\/queue_result","label":"normal"}
+{"timestamp":"2025-05-23T08:43:51.009724+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1842475 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":"2025-05-27T21:46:44.113513+08:00","host":"hivenode02","text":"systemd: infi-celery.service failed.","label":"warning"}
+{"timestamp":"2025-05-29T05:20:18.290050+08:00","host":"hivenode02","text":"systemd: Started Infinity Celery Worker Service.","label":"normal"}
+{"timestamp":"2025-05-16T10:55:35.455708+08:00","host":"hivenode02","text":"infinity[1814912]: monitor net list is null","label":"normal"}
+{"timestamp":"2025-05-27T20:09:51.256249+08:00","host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-27 20:09:50","label":"normal"}
+{"timestamp":"2025-05-14T12:37:21.469673+08:00","host":"hivenode02","text":"systemd: Started Session 1362393 of user root.","label":"normal"}
+{"timestamp":"2025-05-22T08:54:38.146603+08:00","host":"hivenode02","text":"systemd-logind: New session 1794331 of user root.","label":"normal"}
+{"timestamp":"2025-05-30T13:00:27.081522+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=1959651 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-16T15:36:51.161275+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=486222 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":"2025-05-15T09:27:36.394996+08:00","host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=1165013 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":"2025-06-01T01:42:47.045788+08:00","host":"hivenode02","text":"systemd: Starting Session 2326540 of user root.","label":"normal"}
+{"timestamp":"2025-05-29T10:39:12.066351+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1066046 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":"2025-05-12T11:09:17.279375+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=3703589 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":"2025-05-14T12:59:43.046201+08:00","host":"hivenode02","text":"systemd: Starting Infinity Celery Worker Service...","label":"normal"}
+{"timestamp":"2025-05-17T13:20:51.813546+08:00","host":"hivenode02","text":"systemd-logind: Removed session 1527233.","label":"normal"}
+{"timestamp":"2025-05-16T09:16:25.677393+08:00","host":"hivenode02","text":"systemd: Started Session 1462286 of user root.","label":"normal"}
+{"timestamp":"2025-06-01T16:18:47.925309+08:00","host":"hivenode02","text":"systemd: Starting Session 2360141 of user root.","label":"normal"}
+{"timestamp":"2025-05-15T05:02:00.951361+08:00","host":"hivenode02","text":"systemd: Started Session 1398953 of user root.","label":"normal"}
+{"timestamp":"2025-05-26T10:27:59.916547+08:00","host":"hivenode02","text":"systemd: Starting Infinity Celery Worker Service...","label":"normal"}
+{"timestamp":"2025-05-26T18:14:40.022284+08:00","host":"hivenode02","text":"python: Please specify a different user using the --uid option.","label":"normal"}
+{"timestamp":"2025-05-22T15:16:29.157156+08:00","host":"hivenode02","text":"infinity[3525931]: an error occurred while requesting bindings <urlopen error [Errno 111] Connection refused>","label":"abnormal"}
+{"timestamp":"2025-05-20T13:41:19.790468+08:00","host":"hivenode02","text":"python: [tasks]","label":"normal"}
+{"timestamp":"2025-05-13T09:53:26.902877+08:00","host":"hivenode02","text":"systemd-logind: New session 1303819 of user root.","label":"normal"}
+{"timestamp":"2025-05-18T08:31:03.394592+08:00","host":"hivenode02","text":"python: absolutely not recommended!","label":"normal"}
+{"timestamp":"2025-05-15T15:58:06.882933+08:00","host":"hivenode02","text":"python: User information: uid=0 euid=0 gid=0 egid=0","label":"normal"}
+{"timestamp":"2025-05-12T04:12:20.489838+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=3678347 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":"2025-05-30T04:02:45.034037+08:00","host":"hivenode02","text":"python: - ** ---------- .> results:     elasticsearch:\/\/10.0.100.105:8200\/infi_queue_result\/queue_result","label":"normal"}
+{"timestamp":"2025-05-12T08:15:32.695273+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=2294230 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":"2025-05-16T08:32:24.267521+08:00","host":"hivenode02","text":"python: [tasks]","label":"normal"}
+{"timestamp":"2025-05-17T21:55:44.290479+08:00","host":"hivenode02","text":"systemd-logind: New session 1547137 of user root.","label":"normal"}
+{"timestamp":"2025-05-12T17:46:01.316553+08:00","host":"hivenode02","text":"systemd: Starting Session 1268289 of user root.","label":"normal"}
+{"timestamp":"2025-05-19T08:56:44.894500+08:00","host":"hivenode02","text":"kill: kill: cannot find process \"\"","label":"normal"}
+{"timestamp":"2025-05-28T06:29:29.144346+08:00","host":"hivenode02","text":"systemd-logind: Removed session 2116106.","label":"normal"}
+{"timestamp":"2025-05-20T13:10:58.116213+08:00","host":"hivenode02","text":"python: \/usr\/lib\/python2.7\/site-packages\/celery\/platforms.py:796: RuntimeWarning: You're running the worker with superuser privileges: this is","label":"warning"}
+{"timestamp":"2025-05-22T08:44:20.802258+08:00","host":"hivenode02","text":"systemd: infi-celery.service: main process exited, code=exited, status=1\/FAILURE","label":"warning"}
+{"timestamp":"2025-05-23T10:21:09.981719+08:00","host":"hivenode02","text":"systemd-logind: New session 1852743 of user root.","label":"normal"}
+{"timestamp":"2025-05-29T02:08:24.366204+08:00","host":"hivenode02","text":"systemd-logind: New session 2161213 of user root.","label":"normal"}
+{"timestamp":"2025-06-01T00:27:58.305928+08:00","host":"hivenode02","text":"systemd-logind: New session 2323614 of user root.","label":"normal"}
+{"timestamp":"2025-05-13T09:19:39.619535+08:00","host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=2186503 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":"2025-05-26T22:30:19.607861+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=1436273 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-18T10:39:41.673203+08:00","host":"hivenode02","text":"systemd-logind: New session 1576623 of user root.","label":"normal"}
+{"timestamp":"2025-05-15T11:20:30.537875+08:00","host":"hivenode02","text":"python: .> node2            exchange=node2(direct) key=node2","label":"normal"}
+{"timestamp":"2025-05-17T03:30:54.738601+08:00","host":"hivenode02","text":"systemd-logind: New session 1504511 of user root.","label":"normal"}
+{"timestamp":"2025-05-20T22:30:35.055442+08:00","host":"hivenode02","text":"infinity[318906]: monitor net list is null","label":"normal"}
+{"timestamp":"2025-05-20T03:33:38.325395+08:00","host":"hivenode02","text":"python: -------------- celery@hivenode02 v4.2.1 (windowlicker)","label":"normal"}
+{"timestamp":"2025-05-26T19:04:14.606592+08:00","host":"hivenode02","text":"kill: kill: cannot find process \"\"","label":"normal"}
+{"timestamp":"2025-05-24T00:22:24.318866+08:00","host":"hivenode02","text":"python: Please specify a different user using the --uid option.","label":"normal"}
+{"timestamp":"2025-05-28T15:16:57.459461+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1519564 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":"2025-05-25T06:05:13.157870+08:00","host":"hivenode02","text":"systemd: Started Session 1953038 of user root.","label":"normal"}
+{"timestamp":"2025-05-29T09:55:03.318199+08:00","host":"hivenode02","text":"python: - *** --- * --- .> concurrency: 4 (prefork)","label":"normal"}
+{"timestamp":"2025-05-20T23:23:52.670980+08:00","host":"hivenode02","text":"python: -------------- celery@hivenode02 v4.2.1 (windowlicker)","label":"normal"}
+{"timestamp":"2025-05-18T05:55:00.698073+08:00","host":"hivenode02","text":"python: -------------- [queues]","label":"normal"}
+{"timestamp":"2025-05-29T10:47:16.483771+08:00","host":"hivenode02","text":"python: Please specify a different user using the --uid option.","label":"normal"}
+{"timestamp":"2025-05-26T15:12:58.105139+08:00","host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=2927256 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":"2025-05-14T19:18:58.868458+08:00","host":"hivenode02","text":"systemd-logind: New session 1377038 of user root.","label":"normal"}
+{"timestamp":"2025-05-13T13:34:35.193808+08:00","host":"hivenode02","text":"systemd-logind: New session 1311867 of user root.","label":"normal"}
+{"timestamp":"2025-05-16T19:20:07.705043+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=2406569 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":"2025-05-23T22:59:49.451650+08:00","host":"hivenode02","text":"systemd: Started Session 1881811 of user root.","label":"normal"}
+{"timestamp":"2025-05-27T12:04:22.649002+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1251326 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":"2025-05-23T09:06:06.126644+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=3666293 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-18T06:27:08.366860+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=2293112 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":"2025-05-14T11:07:36.663064+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=836185 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":"2025-06-01T22:38:41.364886+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=73481 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-13T07:17:12.714066+08:00","host":"hivenode02","text":"systemd: Starting Session 1298114 of user root.","label":"normal"}
+{"timestamp":"2025-05-31T21:57:22.133180+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=2663444 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-19T23:07:31.622077+08:00","host":"hivenode02","text":"systemd: Starting Infinity Celery Worker Service...","label":"normal"}
+{"timestamp":"2025-05-20T02:05:24.965210+08:00","host":"hivenode02","text":"systemd-logind: Removed session 1667819.","label":"normal"}
+{"timestamp":"2025-06-01T11:12:12.887466+08:00","host":"hivenode02","text":"python: ---- **** -----","label":"normal"}
+{"timestamp":"2025-05-26T23:01:22.683999+08:00","host":"hivenode02","text":"systemd: Started Session 2043797 of user root.","label":"normal"}
+{"timestamp":"2025-05-25T18:23:40.739816+08:00","host":"hivenode02","text":"systemd-logind: New session 1977979 of user root.","label":"normal"}
+{"timestamp":"2025-05-22T14:45:59.015172+08:00","host":"hivenode02","text":"python: --- ***** -----","label":"normal"}
+{"timestamp":"2025-05-24T11:21:47.111192+08:00","host":"hivenode02","text":"systemd: Started Session 1910194 of user root.","label":"normal"}
+{"timestamp":"2025-05-24T03:38:59.059210+08:00","host":"hivenode02","text":"python: .> node2            exchange=node2(direct) key=node2","label":"normal"}
+{"timestamp":"2025-05-25T09:56:19.268238+08:00","host":"hivenode02","text":"python: - ** ---------- [config]","label":"normal"}
+{"timestamp":"2025-05-20T23:51:05.388011+08:00","host":"hivenode02","text":"systemd: Unit infi-celery.service entered failed state.","label":"warning"}
+{"timestamp":"2025-05-23T02:12:25.053204+08:00","host":"hivenode02","text":"python: \/usr\/lib\/python2.7\/site-packages\/celery\/platforms.py:796: RuntimeWarning: You're running the worker with superuser privileges: this is","label":"warning"}
+{"timestamp":"2025-05-15T07:16:48.084870+08:00","host":"hivenode02","text":"dockerd: time=\"2025-05-15T07:16:48.084559664+08:00\" level=warning msg=\"containerd: unable to save 0be920b88e26bc4758d8715ab70a52ce9be7c14d5c03fd2a56d498b76dcbac45:d1b805958ffb04b980f3ea85845a207c7c324038e6de1f59243e44abaf93b50c starttime: read \/proc\/2863744\/stat: no such process\"","label":"warning"}
+{"timestamp":"2025-05-14T19:10:41.603804+08:00","host":"hivenode02","text":"systemd: Starting Session 1376741 of user root.","label":"normal"}
+{"timestamp":"2025-05-21T12:26:42.964181+08:00","host":"hivenode02","text":"python: .> infinity_queue   exchange=infinity_exchange(direct) key=infinity_queue","label":"normal"}
+{"timestamp":"2025-05-20T21:50:42.922642+08:00","host":"hivenode02","text":"systemd-logind: New session 1713447 of user root.","label":"normal"}
+{"timestamp":"2025-05-23T02:28:08.524428+08:00","host":"hivenode02","text":"python: .> node2            exchange=node2(direct) key=node2","label":"normal"}
+{"timestamp":"2025-05-31T13:57:37.418182+08:00","host":"hivenode02","text":"systemd-logind: Removed session 2299227.","label":"normal"}
+{"timestamp":"2025-05-14T07:21:32.902650+08:00","host":"hivenode02","text":"python: .> infinity_queue   exchange=infinity_exchange(direct) key=infinity_queue","label":"normal"}
+{"timestamp":"2025-05-24T23:03:58.583616+08:00","host":"hivenode02","text":"python: Please specify a different user using the --uid option.","label":"normal"}
+{"timestamp":"2025-05-24T10:14:55.253181+08:00","host":"hivenode02","text":"python: -------------- celery@hivenode02 v4.2.1 (windowlicker)","label":"normal"}
+{"timestamp":"2025-05-22T20:54:26.581301+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=2143723 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-18T17:21:34.703323+08:00","host":"hivenode02","text":"systemd: Starting Session 1592022 of user root.","label":"normal"}
+{"timestamp":"2025-05-19T20:29:30.140022+08:00","host":"hivenode02","text":"python: uid=uid, euid=euid, gid=gid, egid=egid,","label":"normal"}
+{"timestamp":"2025-06-01T22:03:29.928173+08:00","host":"hivenode02","text":"python: - ** ---------- .> transport:   amqp:\/\/rabbitmq:**@10.0.100.105:5672\/\/","label":"normal"}
+{"timestamp":"2025-05-14T07:36:39.923760+08:00","host":"hivenode02","text":"systemd-logind: New session 1351474 of user root.","label":"normal"}
+{"timestamp":"2025-05-30T20:00:17.899537+08:00","host":"hivenode02","text":"python: .> infinity_queue   exchange=infinity_exchange(direct) key=infinity_queue","label":"normal"}
+{"timestamp":"2025-05-15T19:45:47.956681+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1873430 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":"2025-05-20T19:31:55.869361+08:00","host":"hivenode02","text":"systemd: infi-celery.service: control process exited, code=exited status=1","label":"normal"}
+{"timestamp":"2025-05-26T07:53:17.056106+08:00","host":"hivenode02","text":"systemd: Starting Session 2009062 of user root.","label":"normal"}
+{"timestamp":"2025-05-18T12:38:33.794709+08:00","host":"hivenode02","text":"systemd: infi-celery.service failed.","label":"warning"}
+{"timestamp":"2025-05-20T19:49:38.805486+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=2009644 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":"2025-05-21T06:53:47.918375+08:00","host":"hivenode02","text":"python: uid=uid, euid=euid, gid=gid, egid=egid,","label":"normal"}
+{"timestamp":"2025-05-31T23:28:40.271255+08:00","host":"hivenode02","text":"systemd: infi-celery.service: control process exited, code=exited status=1","label":"normal"}
+{"timestamp":"2025-05-22T19:54:16.250244+08:00","host":"hivenode02","text":"python: -------------- celery@hivenode02 v4.2.1 (windowlicker)","label":"normal"}
+{"timestamp":"2025-05-28T00:25:47.524222+08:00","host":"hivenode02","text":"systemd: Started Session 2102127 of user root.","label":"normal"}
+{"timestamp":"2025-05-17T12:48:04.954628+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1821851 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":"2025-05-25T13:11:48.606763+08:00","host":"hivenode02","text":"systemd: infi-celery.service failed.","label":"warning"}
+{"timestamp":"2025-05-23T06:24:13.396944+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=2954584 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":"2025-05-26T14:46:38.190835+08:00","host":"hivenode02","text":"systemd-logind: Removed session 2024786.","label":"normal"}
+{"timestamp":"2025-05-21T09:55:57.220385+08:00","host":"hivenode02","text":"systemd: Starting Infinity Celery Worker Service...","label":"normal"}
+{"timestamp":"2025-05-21T05:59:58.590110+08:00","host":"hivenode02","text":"systemd: infi-celery.service: main process exited, code=exited, status=1\/FAILURE","label":"warning"}
+{"timestamp":"2025-05-21T17:20:47.513316+08:00","host":"hivenode02","text":"systemd: Started Session 1758469 of user root.","label":"normal"}
+{"timestamp":"2025-05-28T06:09:54.759736+08:00","host":"hivenode02","text":"python: [tasks]","label":"normal"}
+{"timestamp":"2025-05-14T18:26:33.782906+08:00","host":"hivenode02","text":"systemd-logind: New session 1375124 of user root.","label":"normal"}
+{"timestamp":"2025-05-19T09:15:01.213999+08:00","host":"hivenode02","text":"python: [tasks]","label":"normal"}
+{"timestamp":"2025-05-22T07:06:37.582502+08:00","host":"hivenode02","text":"python: User information: uid=0 euid=0 gid=0 egid=0","label":"normal"}
+{"timestamp":"2025-05-30T00:58:20.838664+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1136773 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":"2025-05-29T08:49:16.723033+08:00","host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=435076 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":"2025-05-28T22:34:42.335412+08:00","host":"hivenode02","text":"systemd-logind: Removed session 2152974.","label":"normal"}
+{"timestamp":"2025-05-21T23:39:31.467727+08:00","host":"hivenode02","text":"systemd: infi-celery.service holdoff time over, scheduling restart.","label":"normal"}
+{"timestamp":"2025-05-30T15:00:10.225306+08:00","host":"hivenode02","text":"python: Please specify a different user using the --uid option.","label":"normal"}
+{"timestamp":"2025-05-16T21:55:40.157810+08:00","host":"hivenode02","text":"systemd: Starting Session 1491533 of user root.","label":"normal"}
+{"timestamp":"2025-05-22T23:14:46.137140+08:00","host":"hivenode02","text":"python: - ** ---------- .> results:     elasticsearch:\/\/10.0.100.105:8200\/infi_queue_result\/queue_result","label":"normal"}
+{"timestamp":"2025-05-15T14:13:35.736788+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=3569908 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":"2025-05-15T06:56:52.073237+08:00","host":"hivenode02","text":"python: ---- **** -----","label":"normal"}
+{"timestamp":"2025-05-25T02:59:44.157287+08:00","host":"hivenode02","text":"systemd: Starting Infinity Celery Worker Service...","label":"normal"}
+{"timestamp":"2025-05-13T04:03:08.034013+08:00","host":"hivenode02","text":"systemd: infi-celery.service: control process exited, code=exited status=1","label":"normal"}
+{"timestamp":"2025-05-31T10:09:15.972657+08:00","host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=2470746 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":"2025-05-30T08:16:26.901365+08:00","host":"hivenode02","text":"systemd-logind: Removed session 2230857.","label":"normal"}
+{"timestamp":"2025-05-31T01:08:13.675994+08:00","host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-31 01:08:12","label":"normal"}
+{"timestamp":"2025-05-31T00:22:49.395804+08:00","host":"hivenode02","text":"python: .> infinity_queue   exchange=infinity_exchange(direct) key=infinity_queue","label":"normal"}
+{"timestamp":"2025-05-29T20:10:57.074508+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=2425911 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":"2025-05-22T10:42:59.161332+08:00","host":"hivenode02","text":"python: ---- **** -----","label":"normal"}
+{"timestamp":"2025-06-01T17:16:07.401485+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=2416233 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-21T20:33:31.058855+08:00","host":"hivenode02","text":"systemd-logind: New session 1765924 of user root.","label":"normal"}
+{"timestamp":"2025-05-14T17:25:14.250212+08:00","host":"hivenode02","text":"python: . infinity.task.tasks.infi_cluster","label":"normal"}
+{"timestamp":"2025-05-15T18:37:47.680822+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=321481 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-13T11:20:26.732371+08:00","host":"hivenode02","text":"systemd: Starting Session 1306981 of user root.","label":"normal"}
+{"timestamp":"2025-05-20T10:07:32.889328+08:00","host":"hivenode02","text":"systemd: Starting Session 1686396 of user root.","label":"normal"}
+{"timestamp":"2025-05-15T21:33:40.183305+08:00","host":"hivenode02","text":"python: - ** ---------- [config]","label":"normal"}
+{"timestamp":"2025-05-12T18:36:22.642602+08:00","host":"hivenode02","text":"systemd: Started Session 1270159 of user root.","label":"normal"}
+{"timestamp":"2025-05-14T08:51:27.753483+08:00","host":"hivenode02","text":"systemd: Unit infi-celery.service entered failed state.","label":"warning"}
+{"timestamp":"2025-05-20T00:33:39.703456+08:00","host":"hivenode02","text":"python: --- ***** -----","label":"normal"}
+{"timestamp":"2025-05-24T11:48:07.090543+08:00","host":"hivenode02","text":"python: \/usr\/lib\/python2.7\/site-packages\/celery\/platforms.py:796: RuntimeWarning: You're running the worker with superuser privileges: this is","label":"warning"}
+{"timestamp":"2025-05-29T20:33:44.739453+08:00","host":"hivenode02","text":"systemd: infi-celery.service: control process exited, code=exited status=1","label":"normal"}
+{"timestamp":"2025-05-24T06:52:45.913220+08:00","host":"hivenode02","text":"systemd: infi-celery.service holdoff time over, scheduling restart.","label":"normal"}
+{"timestamp":"2025-05-29T09:25:16.330795+08:00","host":"hivenode02","text":"systemd-logind: Removed session 2177998.","label":"normal"}
+{"timestamp":"2025-05-23T00:43:33.577224+08:00","host":"hivenode02","text":"systemd: Starting Session 1830651 of user root.","label":"normal"}
+{"timestamp":"2025-05-23T23:06:13.783492+08:00","host":"hivenode02","text":"systemd: infi-celery.service: main process exited, code=exited, status=1\/FAILURE","label":"warning"}
+{"timestamp":"2025-05-15T23:52:08.020933+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=1576815 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":"2025-05-27T15:17:53.307182+08:00","host":"hivenode02","text":"systemd: infi-celery.service: main process exited, code=exited, status=1\/FAILURE","label":"warning"}
+{"timestamp":"2025-05-13T11:22:44.744979+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=3674881 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-25T15:36:55.541401+08:00","host":"hivenode02","text":"python: \/usr\/lib\/python2.7\/site-packages\/celery\/platforms.py:796: RuntimeWarning: You're running the worker with superuser privileges: this is","label":"warning"}
+{"timestamp":"2025-05-23T14:11:16.255475+08:00","host":"hivenode02","text":"python: -- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)","label":"normal"}
+{"timestamp":"2025-05-23T01:21:58.989592+08:00","host":"hivenode02","text":"python: .> infinity_queue   exchange=infinity_exchange(direct) key=infinity_queue","label":"normal"}
+{"timestamp":"2025-05-23T21:50:19.775263+08:00","host":"hivenode02","text":"systemd: infi-celery.service: main process exited, code=exited, status=1\/FAILURE","label":"warning"}
+{"timestamp":"2025-05-28T03:36:12.357344+08:00","host":"hivenode02","text":"systemd: Starting Session 2109496 of user root.","label":"normal"}
+{"timestamp":"2025-05-16T23:28:13.766694+08:00","host":"hivenode02","text":"python: -------------- [queues]","label":"normal"}
+{"timestamp":"2025-05-20T14:56:15.191861+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=2824415 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-30T22:33:28.291477+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=3494676 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-13T07:18:49.683517+08:00","host":"hivenode02","text":"systemd: Starting Session 1298173 of user root.","label":"normal"}
+{"timestamp":"2025-05-15T20:01:18.319460+08:00","host":"hivenode02","text":"python: -------------- [queues]","label":"normal"}
+{"timestamp":"2025-05-15T11:36:25.577892+08:00","host":"hivenode02","text":"systemd: infi-celery.service holdoff time over, scheduling restart.","label":"normal"}
+{"timestamp":"2025-05-31T22:05:34.437570+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=3359677 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-30T06:44:05.644402+08:00","host":"hivenode02","text":"python: - ** ---------- .> app:         __main__:0x26c2a90","label":"normal"}
+{"timestamp":"2025-05-14T05:52:32.347794+08:00","host":"hivenode02","text":"systemd-logind: New session 1347716 of user root.","label":"normal"}
+{"timestamp":"2025-05-24T01:52:51.817428+08:00","host":"hivenode02","text":"python: - *** --- * --- .> concurrency: 4 (prefork)","label":"normal"}
+{"timestamp":"2025-05-24T17:49:46.148002+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=1963212 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-26T04:32:36.479152+08:00","host":"hivenode02","text":"systemd: Starting Session 2001413 of user root.","label":"normal"}
+{"timestamp":"2025-05-14T10:17:18.360590+08:00","host":"hivenode02","text":"python: -------------- celery@hivenode02 v4.2.1 (windowlicker)","label":"normal"}
+{"timestamp":"2025-05-25T07:09:10.505971+08:00","host":"hivenode02","text":"python: -- * - **** ---","label":"normal"}
+{"timestamp":"2025-05-14T01:12:33.473725+08:00","host":"hivenode02","text":"systemd: Unit infi-celery.service entered failed state.","label":"warning"}
+{"timestamp":"2025-05-27T04:30:18.767688+08:00","host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-27 04:30:17","label":"normal"}
+{"timestamp":"2025-05-25T02:48:21.023628+08:00","host":"hivenode02","text":"systemd: Starting Session 1945876 of user root.","label":"normal"}
+{"timestamp":"2025-05-30T21:23:56.548291+08:00","host":"hivenode02","text":"systemd: Started Session 2261050 of user root.","label":"normal"}
+{"timestamp":"2025-05-19T03:51:11.169891+08:00","host":"hivenode02","text":"systemd: Starting Session 1616473 of user root.","label":"normal"}
+{"timestamp":"2025-05-31T10:36:32.391666+08:00","host":"hivenode02","text":"systemd-logind: Removed session 2291539.","label":"normal"}
+{"timestamp":"2025-05-20T23:10:31.880825+08:00","host":"hivenode02","text":"systemd: Started Session 1716478 of user root.","label":"normal"}
+{"timestamp":"2025-05-31T11:06:56.178694+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=2992630 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":"2025-05-13T02:02:35.109445+08:00","host":"hivenode02","text":"systemd-logind: New session 1286609 of user root.","label":"normal"}
+{"timestamp":"2025-05-15T22:53:50.334073+08:00","host":"hivenode02","text":"python: - *** --- * --- .> concurrency: 4 (prefork)","label":"normal"}
+{"timestamp":"2025-05-12T17:49:12.088517+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=2512604 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-12T14:16:41.892040+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=2055042 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-27T12:57:13.977582+08:00","host":"hivenode02","text":"python: [tasks]","label":"normal"}
+{"timestamp":"2025-05-27T12:58:56.424489+08:00","host":"hivenode02","text":"systemd: Starting Session 2075792 of user root.","label":"normal"}
+{"timestamp":"2025-05-15T09:08:26.182875+08:00","host":"hivenode02","text":"systemd-logind: New session 1408488 of user root.","label":"normal"}
+{"timestamp":"2025-05-24T18:30:10.589357+08:00","host":"hivenode02","text":"systemd-logind: Removed session 1926667.","label":"normal"}
+{"timestamp":"2025-05-13T02:49:50.446062+08:00","host":"hivenode02","text":"python: uid=uid, euid=euid, gid=gid, egid=egid,","label":"normal"}
+{"timestamp":"2025-05-27T05:33:15.480776+08:00","host":"hivenode02","text":"python: .> infinity_queue   exchange=infinity_exchange(direct) key=infinity_queue","label":"normal"}
+{"timestamp":"2025-05-16T21:55:45.847365+08:00","host":"hivenode02","text":"systemd: infi-celery.service: main process exited, code=exited, status=1\/FAILURE","label":"warning"}
+{"timestamp":"2025-05-27T01:25:04.185416+08:00","host":"hivenode02","text":"python: - ** ---------- .> results:     elasticsearch:\/\/10.0.100.105:8200\/infi_queue_result\/queue_result","label":"normal"}
+{"timestamp":"2025-05-24T10:37:26.371509+08:00","host":"hivenode02","text":"python: absolutely not recommended!","label":"normal"}
+{"timestamp":"2025-05-18T13:51:01.767114+08:00","host":"hivenode02","text":"systemd: Started Session 1583963 of user root.","label":"normal"}
+{"timestamp":"2025-05-17T05:00:45.040288+08:00","host":"hivenode02","text":"python: - ** ---------- [config]","label":"normal"}
+{"timestamp":"2025-05-21T22:42:40.795278+08:00","host":"hivenode02","text":"python: - ** ---------- .> transport:   amqp:\/\/rabbitmq:**@10.0.100.105:5672\/\/","label":"normal"}
+{"timestamp":"2025-05-27T07:44:37.228362+08:00","host":"hivenode02","text":"python: ---- **** -----","label":"normal"}
+{"timestamp":"2025-05-22T01:36:49.955389+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=3175763 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":"2025-05-27T09:09:09.144062+08:00","host":"hivenode02","text":"python: -------------- celery@hivenode02 v4.2.1 (windowlicker)","label":"normal"}
+{"timestamp":"2025-05-16T19:53:10.547333+08:00","host":"hivenode02","text":"python: -- * - **** ---","label":"normal"}
+{"timestamp":"2025-05-20T02:20:46.625214+08:00","host":"hivenode02","text":"systemd: Started Session 1668419 of user root.","label":"normal"}
+{"timestamp":"2025-05-13T16:16:05.447570+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=2171932 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":"2025-05-21T02:43:16.831305+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=2816818 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-24T02:04:16.022989+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=3817841 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-22T12:56:22.917800+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=322928 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-25T17:05:15.483188+08:00","host":"hivenode02","text":"python: - *** --- * --- .> concurrency: 4 (prefork)","label":"normal"}
+{"timestamp":"2025-05-21T22:36:04.449256+08:00","host":"hivenode02","text":"systemd-logind: New session 1770621 of user root.","label":"normal"}
+{"timestamp":"2025-06-01T02:20:40.933333+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=3701461 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":"2025-05-23T05:25:56.928747+08:00","host":"hivenode02","text":"systemd-logind: Removed session 1841507.","label":"normal"}
+{"timestamp":"2025-05-20T06:57:41.348410+08:00","host":"hivenode02","text":"systemd-logind: New session 1679080 of user root.","label":"normal"}
+{"timestamp":"2025-05-20T17:06:14.662540+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=981498 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":"2025-05-20T13:04:55.543396+08:00","host":"hivenode02","text":"python: absolutely not recommended!","label":"normal"}
+{"timestamp":"2025-05-12T07:59:53.601632+08:00","host":"hivenode02","text":"systemd: Starting Session 1246752 of user root.","label":"normal"}
+{"timestamp":"2025-05-26T12:44:01.099820+08:00","host":"hivenode02","text":"systemd-logind: Removed session 2020117.","label":"normal"}
+{"timestamp":"2025-05-29T01:59:11.608435+08:00","host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'fs.microsoft.com\/A\/IN': 2001:dc3::35#53","label":"abnormal"}
+{"timestamp":"2025-05-23T22:42:52.583322+08:00","host":"hivenode02","text":"python: Please specify a different user using the --uid option.","label":"normal"}
+{"timestamp":"2025-05-23T05:08:07.590779+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=874178 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":"2025-05-20T19:55:42.807074+08:00","host":"hivenode02","text":"systemd: infi-celery.service failed.","label":"warning"}
+{"timestamp":"2025-05-23T23:22:34.285258+08:00","host":"hivenode02","text":"systemd: Starting Session 1882680 of user root.","label":"normal"}
+{"timestamp":"2025-05-19T08:45:11.808744+08:00","host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-19 08:45:10","label":"normal"}
+{"timestamp":"2025-05-23T19:34:40.617201+08:00","host":"hivenode02","text":"python: User information: uid=0 euid=0 gid=0 egid=0","label":"normal"}
+{"timestamp":"2025-05-30T21:55:52.455695+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=349222 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-16T04:35:06.382234+08:00","host":"hivenode02","text":"systemd: infi-celery.service: main process exited, code=exited, status=1\/FAILURE","label":"warning"}
+{"timestamp":"2025-05-27T03:44:41.276920+08:00","host":"hivenode02","text":"python: [tasks]","label":"normal"}
+{"timestamp":"2025-05-20T21:29:40.063586+08:00","host":"hivenode02","text":"python: - ** ---------- .> results:     elasticsearch:\/\/10.0.100.105:8200\/infi_queue_result\/queue_result","label":"normal"}
+{"timestamp":"2025-05-18T13:07:38.941968+08:00","host":"hivenode02","text":"python: ---- **** -----","label":"normal"}
+{"timestamp":"2025-05-28T04:56:15.841488+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=944195 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-17T13:13:38.147110+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=3944994 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-25T17:29:14.980752+08:00","host":"hivenode02","text":"systemd: Starting Session 1975873 of user root.","label":"normal"}
+{"timestamp":"2025-05-13T22:27:00.718857+08:00","host":"hivenode02","text":"python: ---- **** -----","label":"normal"}
+{"timestamp":"2025-05-25T14:00:12.997458+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=107917 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-21T14:17:32.069143+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=1446039 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-24T20:23:49.770366+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=2195091 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-29T08:56:07.678858+08:00","host":"hivenode02","text":"systemd: infi-celery.service: control process exited, code=exited status=1","label":"normal"}
+{"timestamp":"2025-05-16T19:48:58.657494+08:00","host":"hivenode02","text":"systemd: Started Session 1486627 of user root.","label":"normal"}
+{"timestamp":"2025-05-31T03:50:16.898549+08:00","host":"hivenode02","text":"python: .> node2            exchange=node2(direct) key=node2","label":"normal"}
+{"timestamp":"2025-05-23T06:01:23.014738+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=1055719 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-28T07:25:37.807008+08:00","host":"hivenode02","text":"systemd: Starting Infinity Celery Worker Service...","label":"normal"}
+{"timestamp":"2025-05-12T19:15:05.209716+08:00","host":"hivenode02","text":"python: \/usr\/lib\/python2.7\/site-packages\/celery\/platforms.py:796: RuntimeWarning: You're running the worker with superuser privileges: this is","label":"warning"}
+{"timestamp":"2025-05-19T18:29:21.594930+08:00","host":"hivenode02","text":"systemd: Started Session 1650200 of user root.","label":"normal"}
+{"timestamp":"2025-05-20T12:22:26.434911+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=2667252 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":"2025-05-18T08:16:25.156551+08:00","host":"hivenode02","text":"systemd-logind: New session 1571146 of user root.","label":"normal"}
+{"timestamp":"2025-05-26T16:58:39.063189+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=3294020 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-17T20:36:35.786417+08:00","host":"hivenode02","text":"python: .> infinity_queue   exchange=infinity_exchange(direct) key=infinity_queue","label":"normal"}
+{"timestamp":"2025-05-18T02:19:21.813873+08:00","host":"hivenode02","text":"python: - ** ---------- .> results:     elasticsearch:\/\/10.0.100.105:8200\/infi_queue_result\/queue_result","label":"normal"}
+{"timestamp":"2025-05-13T11:21:56.171937+08:00","host":"hivenode02","text":"systemd: Starting Session 1307033 of user root.","label":"normal"}
+{"timestamp":"2025-05-30T11:52:00.138130+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=513114 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-25T07:51:29.944175+08:00","host":"hivenode02","text":"python: - ** ---------- .> transport:   amqp:\/\/rabbitmq:**@10.0.100.105:5672\/\/","label":"normal"}
+{"timestamp":"2025-05-12T20:08:35.970334+08:00","host":"hivenode02","text":"systemd: Starting Infinity Celery Worker Service...","label":"normal"}
+{"timestamp":"2025-05-15T01:05:25.485506+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=1134062 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-15T06:12:41.049841+08:00","host":"hivenode02","text":"systemd: Starting Session 1401709 of user root.","label":"normal"}
+{"timestamp":"2025-05-25T01:05:02.605185+08:00","host":"hivenode02","text":"python: - *** --- * --- .> concurrency: 4 (prefork)","label":"normal"}
+{"timestamp":"2025-05-27T05:31:26.587669+08:00","host":"hivenode02","text":"systemd-logind: Removed session 2058785.","label":"normal"}
+{"timestamp":"2025-06-01T17:14:03.169028+08:00","host":"hivenode02","text":"systemd: infi-celery.service: main process exited, code=exited, status=1\/FAILURE","label":"warning"}
+{"timestamp":"2025-05-25T13:25:16.166190+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=1485962 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-14T03:34:40.838000+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=2391802 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-06-01T13:57:01.984900+08:00","host":"hivenode02","text":"systemd: Started Session 2354656 of user root.","label":"normal"}
+{"timestamp":"2025-05-29T10:31:41.572962+08:00","host":"hivenode02","text":"systemd: Started Session 2180543 of user root.","label":"normal"}
+{"timestamp":"2025-05-25T04:41:36.580913+08:00","host":"hivenode02","text":"python: . infinity.task.tasks.infi_cluster","label":"normal"}
+{"timestamp":"2025-05-30T15:50:42.816413+08:00","host":"hivenode02","text":"python: - ** ---------- [config]","label":"normal"}
+{"timestamp":"2025-05-12T04:10:01.430546+08:00","host":"hivenode02","text":"systemd-logind: Removed session 1238326.","label":"normal"}
+{"timestamp":"2025-05-24T16:18:52.413521+08:00","host":"hivenode02","text":"python: .> node2            exchange=node2(direct) key=node2","label":"normal"}
+{"timestamp":"2025-05-25T15:04:04.631127+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=1032113 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-25T04:08:48.699159+08:00","host":"hivenode02","text":"python: [tasks]","label":"normal"}
+{"timestamp":"2025-05-31T23:24:01.223214+08:00","host":"hivenode02","text":"systemd-logind: New session 2321129 of user root.","label":"normal"}
+{"timestamp":"2025-05-28T04:33:30.643506+08:00","host":"hivenode02","text":"python: [tasks]","label":"normal"}
+{"timestamp":"2025-05-16T00:47:43.296075+08:00","host":"hivenode02","text":"systemd: Starting Session 1442607 of user root.","label":"normal"}
+{"timestamp":"2025-05-29T20:20:49.217144+08:00","host":"hivenode02","text":"systemd: Unit infi-celery.service entered failed state.","label":"warning"}
+{"timestamp":"2025-05-18T11:01:06.627875+08:00","host":"hivenode02","text":"systemd: Starting Session 1577453 of user root.","label":"normal"}
+{"timestamp":"2025-06-01T13:25:27.932899+08:00","host":"hivenode02","text":"python: . infinity.task.tasks.infi_cluster","label":"normal"}
+{"timestamp":"2025-05-30T06:12:59.548783+08:00","host":"hivenode02","text":"systemd: Started Session 2226117 of user root.","label":"normal"}
+{"timestamp":"2025-05-22T04:34:17.778435+08:00","host":"hivenode02","text":"python: - ** ---------- [config]","label":"normal"}
+{"timestamp":"2025-05-21T19:35:57.988687+08:00","host":"hivenode02","text":"systemd: Starting Session 1763698 of user root.","label":"normal"}
+{"timestamp":"2025-05-19T04:37:50.127860+08:00","host":"hivenode02","text":"python: User information: uid=0 euid=0 gid=0 egid=0","label":"normal"}
+{"timestamp":"2025-05-21T18:08:27.148753+08:00","host":"hivenode02","text":"systemd: infi-celery.service failed.","label":"warning"}
+{"timestamp":"2025-05-22T06:59:16.225173+08:00","host":"hivenode02","text":"python: -------------- [queues]","label":"normal"}
+{"timestamp":"2025-05-13T22:42:24.413358+08:00","host":"hivenode02","text":"python: -------------- celery@hivenode02 v4.2.1 (windowlicker)","label":"normal"}
+{"timestamp":"2025-05-29T02:14:38.904358+08:00","host":"hivenode02","text":"python: - ** ---------- .> transport:   amqp:\/\/rabbitmq:**@10.0.100.105:5672\/\/","label":"normal"}
+{"timestamp":"2025-05-30T20:56:49.144543+08:00","host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-30 20:56:47","label":"normal"}
+{"timestamp":"2025-05-27T20:57:59.319317+08:00","host":"hivenode02","text":"python: .> node2            exchange=node2(direct) key=node2","label":"normal"}
+{"timestamp":"2025-05-14T06:42:55.795920+08:00","host":"hivenode02","text":"systemd: Starting Infinity Celery Worker Service...","label":"normal"}
+{"timestamp":"2025-05-27T12:23:56.209088+08:00","host":"hivenode02","text":"python: -- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)","label":"normal"}
+{"timestamp":"2025-05-30T19:36:09.593677+08:00","host":"hivenode02","text":"systemd-logind: New session 2256887 of user root.","label":"normal"}
+{"timestamp":"2025-05-20T08:11:23.976371+08:00","host":"hivenode02","text":"systemd: Started Session 1681933 of user root.","label":"normal"}
+{"timestamp":"2025-05-26T21:04:49.049128+08:00","host":"hivenode02","text":"infinity[3265636]: monitor net list is null","label":"normal"}
+{"timestamp":"2025-05-27T13:24:26.365884+08:00","host":"hivenode02","text":"kill: kill: cannot find process \"\"","label":"normal"}
+{"timestamp":"2025-05-14T01:20:45.883238+08:00","host":"hivenode02","text":"python: - *** --- * --- .> concurrency: 4 (prefork)","label":"normal"}
+{"timestamp":"2025-05-19T16:46:13.495900+08:00","host":"hivenode02","text":"systemd: Starting Session 1646236 of user root.","label":"normal"}
+{"timestamp":"2025-05-20T00:50:07.075355+08:00","host":"hivenode02","text":"systemd: Started Session 1664895 of user root.","label":"normal"}
+{"timestamp":"2025-05-28T01:24:12.665321+08:00","host":"hivenode02","text":"systemd: Started Infinity Celery Worker Service.","label":"normal"}
+{"timestamp":"2025-05-24T23:26:07.585667+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=524807 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":"2025-05-16T23:03:34.080177+08:00","host":"hivenode02","text":"systemd: infi-celery.service: main process exited, code=exited, status=1\/FAILURE","label":"warning"}
+{"timestamp":"2025-05-14T21:30:27.156119+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=539281 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-15T11:36:11.631829+08:00","host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=3267210 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":"2025-05-24T17:34:57.277924+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=751019 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-26T02:06:39.995455+08:00","host":"hivenode02","text":"python: . infinity.task.tasks.infi_cluster","label":"normal"}
+{"timestamp":"2025-05-17T03:19:54.291114+08:00","host":"hivenode02","text":"systemd-logind: Removed session 1504079.","label":"normal"}
+{"timestamp":"2025-05-21T19:24:52.509895+08:00","host":"hivenode02","text":"python: -------------- [queues]","label":"normal"}
+{"timestamp":"2025-05-21T00:44:03.470426+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=1302639 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-31T14:21:42.804896+08:00","host":"hivenode02","text":"python: [tasks]","label":"normal"}
+{"timestamp":"2025-05-13T20:41:36.868399+08:00","host":"hivenode02","text":"python: - *** --- * --- .> concurrency: 4 (prefork)","label":"normal"}
+{"timestamp":"2025-05-27T07:50:38.626242+08:00","host":"hivenode02","text":"systemd-logind: New session 2064063 of user root.","label":"normal"}
+{"timestamp":"2025-06-02T01:34:28.015857+08:00","host":"hivenode02","text":"systemd: Starting Session 2381695 of user root.","label":"normal"}
+{"timestamp":"2025-05-24T10:58:44.312476+08:00","host":"hivenode02","text":"python: - ** ---------- .> results:     elasticsearch:\/\/10.0.100.105:8200\/infi_queue_result\/queue_result","label":"normal"}
+{"timestamp":"2025-05-20T22:12:54.469423+08:00","host":"hivenode02","text":"systemd: Started Infinity Celery Worker Service.","label":"normal"}
+{"timestamp":"2025-05-14T09:02:11.577628+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=3378489 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-20T18:04:04.986964+08:00","host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=1575954 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":"2025-05-18T23:39:30.717599+08:00","host":"hivenode02","text":"systemd: infi-celery.service holdoff time over, scheduling restart.","label":"normal"}
+{"timestamp":"2025-05-13T18:42:15.009240+08:00","host":"hivenode02","text":"kill: kill: cannot find process \"\"","label":"normal"}
+{"timestamp":"2025-05-18T03:06:54.988476+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=2430445 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":"2025-05-30T13:52:49.574385+08:00","host":"hivenode02","text":"systemd: Starting Infinity Celery Worker Service...","label":"normal"}
+{"timestamp":"2025-05-17T08:22:54.543006+08:00","host":"hivenode02","text":"python: - ** ---------- [config]","label":"normal"}
+{"timestamp":"2025-05-13T20:24:45.909115+08:00","host":"hivenode02","text":"systemd-logind: New session 1326958 of user root.","label":"normal"}
+{"timestamp":"2025-05-20T09:51:56.564012+08:00","host":"hivenode02","text":"python: --- ***** -----","label":"normal"}
+{"timestamp":"2025-05-26T21:27:46.914047+08:00","host":"hivenode02","text":"infinity[3265636]: monitor net list is null","label":"normal"}
+{"timestamp":"2025-05-28T22:38:45.067322+08:00","host":"hivenode02","text":"python: User information: uid=0 euid=0 gid=0 egid=0","label":"normal"}
+{"timestamp":"2025-05-23T14:12:41.589066+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=3678385 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-13T09:11:47.280179+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1541060 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":"2025-05-21T21:02:41.036778+08:00","host":"hivenode02","text":"systemd-logind: Removed session 1767057.","label":"normal"}
+{"timestamp":"2025-05-22T00:54:18.169265+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=3869736 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":"2025-06-01T12:53:01.459230+08:00","host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=1452255 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":"2025-05-28T23:44:06.815257+08:00","host":"hivenode02","text":"systemd: Starting Session 2155639 of user root.","label":"normal"}
+{"timestamp":"2025-05-21T18:03:01.002243+08:00","host":"hivenode02","text":"python: - ** ---------- .> app:         __main__:0x2225a90","label":"normal"}
+{"timestamp":"2025-05-15T10:40:56.509700+08:00","host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=2966821 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":"2025-05-17T21:23:40.988424+08:00","host":"hivenode02","text":"python: --- ***** -----","label":"normal"}
+{"timestamp":"2025-05-12T06:55:25.125832+08:00","host":"hivenode02","text":"systemd: Starting Session 1244384 of user root.","label":"normal"}
+{"timestamp":"2025-05-26T05:10:56.937930+08:00","host":"hivenode02","text":"python: .> infinity_queue   exchange=infinity_exchange(direct) key=infinity_queue","label":"normal"}
+{"timestamp":"2025-05-23T12:18:45.766326+08:00","host":"hivenode02","text":"python: absolutely not recommended!","label":"normal"}
+{"timestamp":"2025-05-28T11:34:04.072929+08:00","host":"hivenode02","text":"python: [tasks]","label":"normal"}
+{"timestamp":"2025-05-21T00:38:20.197589+08:00","host":"hivenode02","text":"systemd-logind: New session 1719857 of user root.","label":"normal"}
+{"timestamp":"2025-05-23T17:37:02.100954+08:00","host":"hivenode02","text":"systemd: infi-celery.service failed.","label":"warning"}
+{"timestamp":"2025-05-29T08:34:47.113544+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=3438610 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-26T02:28:31.292937+08:00","host":"hivenode02","text":"systemd-logind: Removed session 1996630.","label":"normal"}
+{"timestamp":"2025-05-31T14:47:00.146142+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=262136 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":"2025-05-13T02:43:58.698725+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=3945038 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-27T08:14:49.413300+08:00","host":"hivenode02","text":"python: - ** ---------- .> transport:   amqp:\/\/rabbitmq:**@10.0.100.105:5672\/\/","label":"normal"}
+{"timestamp":"2025-05-16T21:13:59.716491+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=3592928 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":"2025-06-01T16:51:07.979056+08:00","host":"hivenode02","text":"systemd: infi-celery.service: control process exited, code=exited status=1","label":"normal"}
+{"timestamp":"2025-05-27T12:18:04.836744+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=2384635 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":"2025-05-19T14:01:37.730801+08:00","host":"hivenode02","text":"python: - ** ---------- .> app:         __main__:0x2e6ba90","label":"normal"}
+{"timestamp":"2025-05-24T03:54:45.164805+08:00","host":"hivenode02","text":"python: - ** ---------- .> app:         __main__:0x19a1a90","label":"normal"}
+{"timestamp":"2025-05-12T21:51:42.451963+08:00","host":"hivenode02","text":"python: absolutely not recommended!","label":"normal"}
+{"timestamp":"2025-05-15T03:18:46.330953+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=3867483 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":"2025-05-26T05:10:06.260527+08:00","host":"hivenode02","text":"python: -- * - **** ---","label":"normal"}
+{"timestamp":"2025-05-20T01:11:20.762582+08:00","host":"hivenode02","text":"python: -- * - **** ---","label":"normal"}
+{"timestamp":"2025-05-17T01:16:54.191345+08:00","host":"hivenode02","text":"systemd-logind: New session 1499288 of user root.","label":"normal"}
+{"timestamp":"2025-06-01T16:27:59.647068+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=2575380 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-19T12:28:52.052259+08:00","host":"hivenode02","text":"python: - *** --- * --- .> concurrency: 4 (prefork)","label":"normal"}
+{"timestamp":"2025-05-12T05:01:19.219331+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=3408120 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":"2025-05-26T07:52:28.108324+08:00","host":"hivenode02","text":"systemd: infi-celery.service: main process exited, code=exited, status=1\/FAILURE","label":"warning"}
+{"timestamp":"2025-05-26T15:36:12.766400+08:00","host":"hivenode02","text":"python: -------------- [queues]","label":"normal"}
+{"timestamp":"2025-05-12T20:49:55.545886+08:00","host":"hivenode02","text":"systemd: Starting Infinity Celery Worker Service...","label":"normal"}
+{"timestamp":"2025-05-17T16:07:04.752854+08:00","host":"hivenode02","text":"systemd-logind: New session 1533650 of user root.","label":"normal"}
+{"timestamp":"2025-05-29T17:35:03.183349+08:00","host":"hivenode02","text":"systemd-logind: Removed session 2196836.","label":"normal"}
+{"timestamp":"2025-05-19T00:34:38.860788+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=621636 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-16T00:22:27.324878+08:00","host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=4098700 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":"2025-05-13T10:09:29.921073+08:00","host":"hivenode02","text":"python: -- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)","label":"normal"}
+{"timestamp":"2025-06-01T09:02:46.504392+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=3398469 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":"2025-05-22T01:24:44.304942+08:00","host":"hivenode02","text":"python: - ** ---------- .> results:     elasticsearch:\/\/10.0.100.105:8200\/infi_queue_result\/queue_result","label":"normal"}
+{"timestamp":"2025-05-15T11:49:51.748348+08:00","host":"hivenode02","text":"python: Please specify a different user using the --uid option.","label":"normal"}
+{"timestamp":"2025-05-29T20:35:40.708509+08:00","host":"hivenode02","text":"systemd: infi-celery.service: main process exited, code=exited, status=1\/FAILURE","label":"warning"}
+{"timestamp":"2025-05-13T08:44:44.624655+08:00","host":"hivenode02","text":"python: - ** ---------- .> results:     elasticsearch:\/\/10.0.100.105:8200\/infi_queue_result\/queue_result","label":"normal"}
+{"timestamp":"2025-05-19T20:09:34.381519+08:00","host":"hivenode02","text":"python: absolutely not recommended!","label":"normal"}
+{"timestamp":"2025-05-14T02:32:03.730987+08:00","host":"hivenode02","text":"python: \/usr\/lib\/python2.7\/site-packages\/celery\/platforms.py:796: RuntimeWarning: You're running the worker with superuser privileges: this is","label":"warning"}
+{"timestamp":"2025-05-27T19:32:23.461507+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=512721 duration=1(sec)","label":"normal"}
+{"timestamp":"2025-05-17T02:07:04.100674+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=2870319 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":"2025-05-22T23:08:30.591943+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=641973 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":"2025-05-24T18:54:22.241085+08:00","host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-24 18:54:21","label":"normal"}
+{"timestamp":"2025-05-25T19:58:18.378176+08:00","host":"hivenode02","text":"python: - ** ---------- .> results:     elasticsearch:\/\/10.0.100.105:8200\/infi_queue_result\/queue_result","label":"normal"}
+{"timestamp":"2025-05-28T17:22:25.108414+08:00","host":"hivenode02","text":"systemd: Started Session 2140984 of user root.","label":"normal"}
+{"timestamp":"2025-05-20T05:02:51.320357+08:00","host":"hivenode02","text":"systemd-logind: New session 1674695 of user root.","label":"normal"}
+{"timestamp":"2025-05-13T00:49:58.841028+08:00","host":"hivenode02","text":"python: - ** ---------- [config]","label":"normal"}
+{"timestamp":"2025-05-29T14:21:38.930928+08:00","host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=2649834 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":"2025-05-15T19:26:02.567053+08:00","host":"hivenode02","text":"python: .> node2            exchange=node2(direct) key=node2","label":"normal"}
+{"timestamp":"2025-06-01T11:37:45.715124+08:00","host":"hivenode02","text":"systemd-logind: New session 2349324 of user root.","label":"normal"}
+{"timestamp":"2025-05-20T01:43:56.160377+08:00","host":"hivenode02","text":"systemd: Started Session 1666980 of user root.","label":"normal"}
+{"timestamp":"2025-05-12T12:09:03.181670+08:00","host":"hivenode02","text":"infinity[3447357]: init lang database successfully.","label":"normal"}
+{"timestamp":"2025-05-19T03:33:18.552607+08:00","host":"hivenode02","text":"python: -- * - **** ---","label":"normal"}
+{"timestamp":"2025-05-13T15:45:15.318014+08:00","host":"hivenode02","text":"systemd: Started Session 1316636 of user root.","label":"normal"}
+{"timestamp":"2025-05-16T17:05:00.630518+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=3636892 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-14T08:44:36.605652+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=1978237 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-17T19:56:59.520752+08:00","host":"hivenode02","text":"python: -------------- celery@hivenode02 v4.2.1 (windowlicker)","label":"normal"}
+{"timestamp":"2025-05-12T10:41:26.875762+08:00","host":"hivenode02","text":"python: - ** ---------- .> results:     elasticsearch:\/\/10.0.100.105:8200\/infi_queue_result\/queue_result","label":"normal"}
+{"timestamp":"2025-05-25T10:35:58.975327+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=444105 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":"2025-05-16T22:38:06.304162+08:00","host":"hivenode02","text":"python: -------------- [queues]","label":"normal"}
+{"timestamp":"2025-05-29T18:10:22.719575+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=741894 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-31T17:04:44.443420+08:00","host":"hivenode02","text":"systemd: Started Session 2306456 of user root.","label":"normal"}
+{"timestamp":"2025-05-14T22:19:51.219412+08:00","host":"hivenode02","text":"systemd: Starting Session 1383629 of user root.","label":"normal"}
+{"timestamp":"2025-05-23T21:05:17.403305+08:00","host":"hivenode02","text":"systemd: Started Session 1877394 of user root.","label":"normal"}
+{"timestamp":"2025-05-13T00:04:16.299163+08:00","host":"hivenode02","text":"python: [tasks]","label":"normal"}
+{"timestamp":"2025-05-14T10:37:25.918924+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=2605469 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-06-02T02:14:19.245656+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=1207332 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":"2025-06-01T16:19:26.186912+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1838380 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":"2025-05-20T22:14:14.531674+08:00","host":"hivenode02","text":"python: User information: uid=0 euid=0 gid=0 egid=0","label":"normal"}
+{"timestamp":"2025-05-27T20:47:27.439229+08:00","host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=2552720 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":"2025-05-16T23:27:37.548662+08:00","host":"hivenode02","text":"python: -------------- [queues]","label":"normal"}
+{"timestamp":"2025-05-26T13:37:21.729876+08:00","host":"hivenode02","text":"kernel: clearbuffcache. (3431799): drop_caches: 3","label":"normal"}
+{"timestamp":"2025-05-18T23:40:43.612389+08:00","host":"hivenode02","text":"python: \/usr\/lib\/python2.7\/site-packages\/celery\/platforms.py:796: RuntimeWarning: You're running the worker with superuser privileges: this is","label":"warning"}
+{"timestamp":"2025-05-14T00:54:04.103260+08:00","host":"hivenode02","text":"python: -- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)","label":"normal"}
+{"timestamp":"2025-05-17T22:09:21.406141+08:00","host":"hivenode02","text":"python: User information: uid=0 euid=0 gid=0 egid=0","label":"normal"}
+{"timestamp":"2025-05-27T09:39:28.477320+08:00","host":"hivenode02","text":"systemd-logind: New session 2068196 of user root.","label":"normal"}
+{"timestamp":"2025-05-19T10:11:20.307340+08:00","host":"hivenode02","text":"python: .> infinity_queue   exchange=infinity_exchange(direct) key=infinity_queue","label":"normal"}
+{"timestamp":"2025-05-26T00:12:18.223116+08:00","host":"hivenode02","text":"systemd-logind: Removed session 1991382.","label":"normal"}
+{"timestamp":"2025-05-23T07:15:22.622408+08:00","host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=2947361 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":"2025-05-20T13:59:20.121121+08:00","host":"hivenode02","text":"systemd: infi-celery.service failed.","label":"warning"}
+{"timestamp":"2025-05-12T04:56:24.046770+08:00","host":"hivenode02","text":"systemd: Started Infinity Celery Worker Service.","label":"normal"}
+{"timestamp":"2025-05-20T20:17:35.861434+08:00","host":"hivenode02","text":"systemd-logind: New session 1709825 of user root.","label":"normal"}
+{"timestamp":"2025-05-18T03:04:04.011642+08:00","host":"hivenode02","text":"python: - ** ---------- .> results:     elasticsearch:\/\/10.0.100.105:8200\/infi_queue_result\/queue_result","label":"normal"}
+{"timestamp":"2025-05-15T03:56:42.441294+08:00","host":"hivenode02","text":"systemd: Started Session 1396400 of user root.","label":"normal"}
+{"timestamp":"2025-05-26T18:25:13.201027+08:00","host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=2103190 duration=0(sec)","label":"normal"}
+{"timestamp":"2025-05-19T14:56:18.906172+08:00","host":"hivenode02","text":"systemd: Starting Infinity Celery Worker Service...","label":"normal"}
+{"timestamp":"2025-05-15T05:44:02.990573+08:00","host":"hivenode02","text":"python: -------------- [queues]","label":"normal"}
+{"timestamp":"2025-05-24T08:05:59.399079+08:00","host":"hivenode02","text":"systemd: Started Session 1902760 of user root.","label":"normal"}
+{"timestamp":"2025-05-31T21:15:00.162613+08:00","host":"hivenode02","text":"python: - ** ---------- [config]","label":"normal"}
+{"timestamp":"2025-05-28T15:53:37.298268+08:00","host":"hivenode02","text":"python: -------------- [queues]","label":"normal"}
