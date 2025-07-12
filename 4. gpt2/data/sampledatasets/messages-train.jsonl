@@ -1,0 +1,1000 @@
+{"timestamp":1748116144408,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'clients1.google.com\/A\/IN': 2001:500:2f::f#53","label":"abnormal"}
+{"timestamp":1748116144727,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'watson.telemetry.microsoft.com\/A\/IN': 2001:500:2f::f#53","label":"abnormal"}
+{"timestamp":1748116145250,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'win8.ipv6.microsoft.com\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748116145528,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'www.sohu.com\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748116149105,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'www.baidu.com\/A\/IN': 2001:500:a8::e#53","label":"abnormal"}
+{"timestamp":1748116149529,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'watson.telemetry.microsoft.com\/A\/IN': 2001:500:a8::e#53","label":"abnormal"}
+{"timestamp":1748116149529,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'www.sohu.com\/A\/IN': 2001:500:a8::e#53","label":"abnormal"}
+{"timestamp":1748116149807,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'www.haproxy.org\/A\/IN': 2001:500:84::b#53","label":"abnormal"}
+{"timestamp":1748116149808,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'www.qq.com\/A\/IN': 2001:500:84::b#53","label":"abnormal"}
+{"timestamp":1748116150067,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving '.\/A\/IN': 2001:500:9f::42#53","label":"abnormal"}
+{"timestamp":1748116150068,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving '.\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748116150068,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving '.\/AAAA\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748116150330,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'watson.telemetry.microsoft.com\/A\/IN': 2001:500:9f::42#53","label":"abnormal"}
+{"timestamp":1748116150608,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'www.haproxy.org\/A\/IN': 2001:500:a8::e#53","label":"abnormal"}
+{"timestamp":1748116150705,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving '.\/NS\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748116150852,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'win8.ipv6.microsoft.com\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748116150868,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving '.\/AAAA\/IN': 2001:500:2f::f#53","label":"abnormal"}
+{"timestamp":1748116151130,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'www.sohu.com\/A\/IN': 2001:500:9f::42#53","label":"abnormal"}
+{"timestamp":1748116151408,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'www.haproxy.org\/A\/IN': 2001:500:9f::42#53","label":"abnormal"}
+{"timestamp":1748116151505,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving '.\/NS\/IN': 2001:503:ba3e::2:30#53","label":"abnormal"}
+{"timestamp":1748116151506,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving '.\/NS\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748116151506,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving '.\/NS\/IN': 2001:7fe::53#53","label":"abnormal"}
+{"timestamp":1748116151507,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'www.baidu.com\/A\/IN': 2001:503:c27::2:30#53","label":"abnormal"}
+{"timestamp":1748116151930,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'watson.telemetry.microsoft.com\/A\/IN': 2001:503:ba3e::2:30#53","label":"abnormal"}
+{"timestamp":1748116151930,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'watson.telemetry.microsoft.com\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748116152306,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving '.\/NS\/IN': 2001:500:12::d0d#53","label":"abnormal"}
+{"timestamp":1748116152411,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'clients1.google.com\/A\/IN': 2001:503:ba3e::2:30#53","label":"abnormal"}
+{"timestamp":1748116152412,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'clients1.google.com\/A\/IN': 2001:503:c27::2:30#53","label":"abnormal"}
+{"timestamp":1748116152468,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving '.\/A\/IN': 2001:503:c27::2:30#53","label":"abnormal"}
+{"timestamp":1748116153269,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving '.\/A\/IN': 2001:500:12::d0d#53","label":"abnormal"}
+{"timestamp":1748116153809,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'www.qq.com\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748116154069,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving '.\/A\/IN': 2001:dc3::35#53","label":"abnormal"}
+{"timestamp":1748116154122,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'win8.ipv6.microsoft.com\/A\/IN': 2001:dc3::35#53","label":"abnormal"}
+{"timestamp":1748116154610,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'www.qq.com\/A\/IN': 2001:500:12::d0d#53","label":"abnormal"}
+{"timestamp":1748116155410,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'www.qq.com\/A\/IN': 2001:dc3::35#53","label":"abnormal"}
+{"timestamp":1748116157270,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving '.\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748116160544,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'dw-online.ksosoft.com\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748116160545,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'dw-online.ksosoft.com\/A\/IN': 2001:7fe::53#53","label":"abnormal"}
+{"timestamp":1748116160810,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'qing.wps.cn\/A\/IN': 2001:7fe::53#53","label":"abnormal"}
+{"timestamp":1748116160811,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'qing.wps.cn\/A\/IN': 2001:500:9f::42#53","label":"abnormal"}
+{"timestamp":1748116161345,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'dw-online.ksosoft.com\/A\/IN': 2001:500:2f::f#53","label":"abnormal"}
+{"timestamp":1748116161598,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'time.windows.com\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748116161598,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'time.windows.com\/A\/IN': 2001:500:9f::42#53","label":"abnormal"}
+{"timestamp":1748116161611,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'qing.wps.cn\/A\/IN': 2001:500:2f::f#53","label":"abnormal"}
+{"timestamp":1748116161780,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'clientservices.googleapis.com\/A\/IN': 2001:500:2f::f#53","label":"abnormal"}
+{"timestamp":1748116162633,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'sls.update.microsoft.com\/A\/IN': 2001:500:2f::f#53","label":"abnormal"}
+{"timestamp":1748116163380,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'clientservices.googleapis.com\/A\/IN': 2001:503:c27::2:30#53","label":"abnormal"}
+{"timestamp":1748116164981,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'clientservices.googleapis.com\/A\/IN': 2001:500:a8::e#53","label":"abnormal"}
+{"timestamp":1748116164981,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'clientservices.googleapis.com\/A\/IN': 2001:500:12::d0d#53","label":"abnormal"}
+{"timestamp":1748116165834,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'sls.update.microsoft.com\/A\/IN': 2001:500:a8::e#53","label":"abnormal"}
+{"timestamp":1748116166581,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'clientservices.googleapis.com\/A\/IN': 2001:dc3::35#53","label":"abnormal"}
+{"timestamp":1748116167947,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'clients5.google.com\/A\/IN': 2001:7fe::53#53","label":"abnormal"}
+{"timestamp":1748116168235,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'sls.update.microsoft.com\/A\/IN': 2001:dc3::35#53","label":"abnormal"}
+{"timestamp":1748116168235,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'sls.update.microsoft.com\/A\/IN': 2001:500:84::b#53","label":"abnormal"}
+{"timestamp":1748116169348,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'dw-online.ksosoft.com\/A\/IN': 2001:500:84::b#53","label":"abnormal"}
+{"timestamp":1748116169547,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'clients5.google.com\/A\/IN': 2001:500:2f::f#53","label":"abnormal"}
+{"timestamp":1748116170148,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'dw-online.ksosoft.com\/A\/IN': 2001:7fd::1#53","label":"abnormal"}
+{"timestamp":1748116175129,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'watson.telemetry.microsoft.com\/A\/IN': 2001:dc3::35#53","label":"abnormal"}
+{"timestamp":1748116178618,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'sn.splashtop.com\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748116179418,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'sn.splashtop.com\/A\/IN': 2001:7fe::53#53","label":"abnormal"}
+{"timestamp":1748116180829,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ctldl.windowsupdate.com\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748116180829,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ctldl.windowsupdate.com\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748116201584,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'sqm.telemetry.microsoft.com\/A\/IN': 2001:500:2f::f#53","label":"abnormal"}
+{"timestamp":1748116202400,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'time.windows.com\/A\/IN': 2001:7fd::1#53","label":"abnormal"}
+{"timestamp":1748116206786,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'sqm.telemetry.microsoft.com\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748116235759,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'rq.wh.cmcm.com\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748116235760,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'rq.wh.cmcm.com\/A\/IN': 2001:500:9f::42#53","label":"abnormal"}
+{"timestamp":1748116236154,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ctldl.windowsupdate.com\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748116236252,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'clients2.google.com\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748116259004,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'dw-online.ksosoft.com\/A\/IN': 2001:500:a8::e#53","label":"abnormal"}
+{"timestamp":1748116262428,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ent-shasta-rrs.symantec.com\/A\/IN': 2001:500:2f::f#53","label":"abnormal"}
+{"timestamp":1748116279697,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ctldl.windowsupdate.com\/A\/IN': 2001:503:ba3e::2:30#53","label":"abnormal"}
+{"timestamp":1748116279918,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'v10.events.data.microsoft.com\/A\/IN': 2001:503:ba3e::2:30#53","label":"abnormal"}
+{"timestamp":1748116279919,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'v10.events.data.microsoft.com\/A\/IN': 2001:500:84::b#53","label":"abnormal"}
+{"timestamp":1748116300190,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'clientservices.googleapis.com\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748116301568,"host":"hivenode02","text":"infinity[2781294]: an error occurred while requesting bindings <urlopen error [Errno 111] Connection refused>","label":"abnormal"}
+{"timestamp":1748116310418,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'helpdubaclient.ksmobile.com\/A\/IN': 2001:503:ba3e::2:30#53","label":"abnormal"}
+{"timestamp":1748116317019,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'helpdubaclient.ksmobile.com\/A\/IN': 2001:7fe::53#53","label":"abnormal"}
+{"timestamp":1748116349602,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'clients2.google.com\/A\/IN': 2001:7fe::53#53","label":"abnormal"}
+{"timestamp":1748116403649,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'go.microsoft.com\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748116404854,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'fs.microsoft.com\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748116417472,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'clients2.google.com\/A\/IN': 2001:503:c27::2:30#53","label":"abnormal"}
+{"timestamp":1748116425795,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=1590062 duration=0(sec)","label":"normal"}
+{"timestamp":1748116446447,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'settings-win.data.microsoft.com\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748116457955,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'rq.drcct.cloud.duba.net\/A\/IN': 2001:503:ba3e::2:30#53","label":"abnormal"}
+{"timestamp":1748116501790,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'event.wps.com\/A\/IN': 2001:500:84::b#53","label":"abnormal"}
+{"timestamp":1748116503546,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'login.live.com\/A\/IN': 2001:500:84::b#53","label":"abnormal"}
+{"timestamp":1748116503895,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'fs.microsoft.com\/A\/IN': 2001:503:ba3e::2:30#53","label":"abnormal"}
+{"timestamp":1748116512393,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'login.live.com\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748116513521,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'mobile.events.data.microsoft.com\/A\/IN': 2001:500:9f::42#53","label":"abnormal"}
+{"timestamp":1748116514124,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'settings-win.data.microsoft.com\/A\/IN': 2001:500:9f::42#53","label":"abnormal"}
+{"timestamp":1748116514225,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ssl.gstatic.com\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748116514226,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ssl.gstatic.com\/A\/IN': 2001:7fe::53#53","label":"abnormal"}
+{"timestamp":1748116518070,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'login.live.com\/A\/IN': 2001:500:12::d0d#53","label":"abnormal"}
+{"timestamp":1748116518070,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'login.live.com\/A\/IN': 2001:dc3::35#53","label":"abnormal"}
+{"timestamp":1748116533503,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'login.live.com\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748116534435,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ssl.gstatic.com\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748116547580,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'rq.wh.cmcm.com\/A\/IN': 2001:503:ba3e::2:30#53","label":"abnormal"}
+{"timestamp":1748116550423,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ssl.gstatic.com\/A\/IN': 2001:503:ba3e::2:30#53","label":"abnormal"}
+{"timestamp":1748116550423,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ssl.gstatic.com\/A\/IN': 2001:500:84::b#53","label":"abnormal"}
+{"timestamp":1748116554941,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'clients2.google.com\/A\/IN': 2001:500:a8::e#53","label":"abnormal"}
+{"timestamp":1748116580819,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'v10.events.data.microsoft.com\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748116636645,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'update.googleapis.com\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748116651462,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'update.googleapis.com\/A\/IN': 2001:503:ba3e::2:30#53","label":"abnormal"}
+{"timestamp":1748116654241,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'settings-win.data.microsoft.com\/A\/IN': 2001:503:c27::2:30#53","label":"abnormal"}
+{"timestamp":1748116674465,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'update.kingsoftstore.com\/A\/IN': 2001:dc3::35#53","label":"abnormal"}
+{"timestamp":1748116678266,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'update.kingsoftstore.com\/A\/IN': 2001:500:2f::f#53","label":"abnormal"}
+{"timestamp":1748116679857,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ct.duba.net\/A\/IN': 2001:500:2f::f#53","label":"abnormal"}
+{"timestamp":1748116698407,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'tools.google.com\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748116700506,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'update.kingsoftstore.com\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748116715502,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'update.kingsoftstore.com\/A\/IN': 2001:500:84::b#53","label":"abnormal"}
+{"timestamp":1748116717141,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'tools.google.com\/A\/IN': 2001:503:ba3e::2:30#53","label":"abnormal"}
+{"timestamp":1748116726538,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'update.kingsoftstore.com\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748116726538,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'update.kingsoftstore.com\/A\/IN': 2001:7fe::53#53","label":"abnormal"}
+{"timestamp":1748116726539,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'update.kingsoftstore.com\/A\/IN': 2001:500:9f::42#53","label":"abnormal"}
+{"timestamp":1748116755442,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'clients4.google.com\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748116788985,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'tools.google.com\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748116788985,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'tools.google.com\/A\/IN': 2001:7fe::53#53","label":"abnormal"}
+{"timestamp":1748116846930,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'clients2.google.com\/A\/IN': 2001:500:12::d0d#53","label":"abnormal"}
+{"timestamp":1748116894822,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'update.kingsoftstore.com\/A\/IN': 2001:503:c27::2:30#53","label":"abnormal"}
+{"timestamp":1748116905827,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'update.kingsoftstore.com\/A\/IN': 2001:500:a8::e#53","label":"abnormal"}
+{"timestamp":1748116913167,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'update.wps.cn\/A\/IN': 2001:500:9f::42#53","label":"abnormal"}
+{"timestamp":1748116944264,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'mobile.events.data.microsoft.com\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748116979805,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'clients4.google.com\/A\/IN': 2001:500:12::d0d#53","label":"abnormal"}
+{"timestamp":1748116990148,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'tools.google.com\/A\/IN': 2001:500:2f::f#53","label":"abnormal"}
+{"timestamp":1748117035136,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ct.duba.net\/A\/IN': 2001:503:ba3e::2:30#53","label":"abnormal"}
+{"timestamp":1748117035302,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'tools.google.com\/A\/IN': 2001:503:c27::2:30#53","label":"abnormal"}
+{"timestamp":1748117056871,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'tools.google.com\/A\/IN': 2001:500:12::d0d#53","label":"abnormal"}
+{"timestamp":1748117119641,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ieonlinews.microsoft.com\/A\/IN': 2001:503:c27::2:30#53","label":"abnormal"}
+{"timestamp":1748117119739,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'activation-v2.sls.microsoft.com\/A\/IN': 2001:503:ba3e::2:30#53","label":"abnormal"}
+{"timestamp":1748117119740,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'activation-v2.sls.microsoft.com\/A\/IN': 2001:500:84::b#53","label":"abnormal"}
+{"timestamp":1748117132428,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'update.googleapis.com\/A\/IN': 2001:500:a8::e#53","label":"abnormal"}
+{"timestamp":1748117137629,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'update.googleapis.com\/A\/IN': 2001:500:9f::42#53","label":"abnormal"}
+{"timestamp":1748117150303,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'fs.microsoft.com\/A\/IN': 2001:500:2f::f#53","label":"abnormal"}
+{"timestamp":1748117181679,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'clients2.google.com\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748117273675,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=2756374 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":1748117292561,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'clients4.google.com\/A\/IN': 2001:503:ba3e::2:30#53","label":"abnormal"}
+{"timestamp":1748117293558,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'officeclient.microsoft.com\/A\/IN': 2001:503:ba3e::2:30#53","label":"abnormal"}
+{"timestamp":1748117297550,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'backupplugin.wps.cn\/A\/IN': 2001:500:84::b#53","label":"abnormal"}
+{"timestamp":1748117313593,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'update.kingsoftstore.com\/A\/IN': 2001:500:12::d0d#53","label":"abnormal"}
+{"timestamp":1748117374565,"host":"hivenode02","text":"systemd: Starting Session 1948989 of user root.","label":"normal"}
+{"timestamp":1748117423861,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'rq.drcct.cloud.duba.net\/A\/IN': 2001:500:2f::f#53","label":"abnormal"}
+{"timestamp":1748117477974,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ent-shasta-rrs.symantec.com\/A\/IN': 2001:503:ba3e::2:30#53","label":"abnormal"}
+{"timestamp":1748117477974,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ent-shasta-rrs.symantec.com\/A\/IN': 2001:500:84::b#53","label":"abnormal"}
+{"timestamp":1748117539463,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ssl.gstatic.com\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748117574581,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'wq.cloud.duba.net\/A\/IN': 2001:503:ba3e::2:30#53","label":"abnormal"}
+{"timestamp":1748117574582,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'wq.cloud.duba.net\/A\/IN': 2001:500:84::b#53","label":"abnormal"}
+{"timestamp":1748117795043,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'hotnews.duba.com\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748117903372,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'validation-v2.sls.microsoft.com\/A\/IN': 2001:500:2f::f#53","label":"abnormal"}
+{"timestamp":1748117993567,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'pc-plugin-2.wpscdn.cn\/A\/IN': 2001:7fe::53#53","label":"abnormal"}
+{"timestamp":1748118092029,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/25 04:21:32 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.103:36501: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748118330012,"host":"hivenode02","text":"systemd-logind: Removed session 1949589.","label":"normal"}
+{"timestamp":1748118372756,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'telecommand.telemetry.microsoft.com\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748118375564,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'client-office365-tas.msedge.net\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748118407731,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'cf.duba.net\/A\/IN': 2001:503:c27::2:30#53","label":"abnormal"}
+{"timestamp":1748118411960,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'validation-v2.sls.microsoft.com\/A\/IN': 2001:500:84::b#53","label":"abnormal"}
+{"timestamp":1748118437113,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'sqm.telemetry.microsoft.com\/A\/IN': 2001:7fe::53#53","label":"abnormal"}
+{"timestamp":1748118874006,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'telecommand.telemetry.microsoft.com\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748118923602,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'telecommand.telemetry.microsoft.com\/A\/IN': 2001:503:ba3e::2:30#53","label":"abnormal"}
+{"timestamp":1748118941853,"host":"hivenode02","text":"systemd: Starting Session 1949987 of user root.","label":"normal"}
+{"timestamp":1748118950218,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'fs.microsoft.com\/A\/IN': 2001:7fe::53#53","label":"abnormal"}
+{"timestamp":1748118955612,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'qingcenter.wps.cn\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748118955612,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'qingcenter.wps.cn\/A\/IN': 2001:7fe::53#53","label":"abnormal"}
+{"timestamp":1748118955612,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'qingcenter.wps.cn\/A\/IN': 2001:500:9f::42#53","label":"abnormal"}
+{"timestamp":1748118966658,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/25 04:36:06 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.105:41354: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748119049121,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'honeycomb-plugins-1.wpscdn.cn\/A\/IN': 2001:503:ba3e::2:30#53","label":"abnormal"}
+{"timestamp":1748119049121,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'honeycomb-plugins-1.wpscdn.cn\/A\/IN': 2001:500:84::b#53","label":"abnormal"}
+{"timestamp":1748119191309,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'go.microsoft.com\/A\/IN': 2001:500:84::b#53","label":"abnormal"}
+{"timestamp":1748119562109,"host":"hivenode02","text":"systemd-logind: New session 1950369 of user root.","label":"normal"}
+{"timestamp":1748120068734,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=2379090 duration=0(sec)","label":"normal"}
+{"timestamp":1748120322944,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=2719061 duration=0(sec)","label":"normal"}
+{"timestamp":1748121664043,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=307883 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":1748121990741,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=760418 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":1748123667853,"host":"hivenode02","text":"systemd: Starting Session 1952677 of user root.","label":"normal"}
+{"timestamp":1748124693793,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/25 06:11:33 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.106:34564: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748124799053,"host":"hivenode02","text":"systemd-logind: Removed session 1953296.","label":"normal"}
+{"timestamp":1748124963990,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=551962 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":1748125320005,"host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-25 06:21:58","label":"normal"}
+{"timestamp":1748125384311,"host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=1127313 duration=0(sec)","label":"normal"}
+{"timestamp":1748125608729,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/25 06:26:48 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.105:33901: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748128250814,"host":"hivenode02","text":"systemd: Starting Session 1955182 of user root.","label":"normal"}
+{"timestamp":1748129000209,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=1758097 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":1748129268789,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=2131199 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":1748129376941,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/25 07:29:36 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.101:41169: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748129576370,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=2530902 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":1748129976809,"host":"hivenode02","text":"systemd: Starting Session 1956116 of user root.","label":"normal"}
+{"timestamp":1748130912881,"host":"hivenode02","text":"systemd: Started Session 1956638 of user root.","label":"normal"}
+{"timestamp":1748131441235,"host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=865409 duration=0(sec)","label":"normal"}
+{"timestamp":1748131743223,"host":"hivenode02","text":"systemd: Started Session 1957100 of user root.","label":"normal"}
+{"timestamp":1748132983717,"host":"hivenode02","text":"systemd-logind: Removed session 1957771.","label":"normal"}
+{"timestamp":1748133190003,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/25 08:33:10 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.104:35383: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748133900804,"host":"hivenode02","text":"systemd-logind: Removed session 1958274.","label":"normal"}
+{"timestamp":1748134121412,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=247246 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":1748134407900,"host":"hivenode02","text":"systemd-logind: New session 1958546 of user root.","label":"normal"}
+{"timestamp":1748134694316,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=973123 duration=1(sec)","label":"normal"}
+{"timestamp":1748134940878,"host":"hivenode02","text":"systemd: Started Session 1958831 of user root.","label":"normal"}
+{"timestamp":1748135296715,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1788361 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":1748135561316,"host":"hivenode02","text":"systemd-logind: New session 1959171 of user root.","label":"normal"}
+{"timestamp":1748135589693,"host":"hivenode02","text":"systemd: Starting Session 1959188 of user root.","label":"normal"}
+{"timestamp":1748135649322,"host":"hivenode02","text":"systemd-logind: Removed session 1959219.","label":"normal"}
+{"timestamp":1748136023475,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=2754255 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":1748136380372,"host":"hivenode02","text":"systemd-logind: New session 1959610 of user root.","label":"normal"}
+{"timestamp":1748137178915,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=125635 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":1748137514393,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=556920 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":1748137762853,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=895372 duration=0(sec)","label":"normal"}
+{"timestamp":1748137773157,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/25 09:49:33 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.101:45956: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748138513157,"host":"hivenode02","text":"systemd-logind: New session 1960782 of user root.","label":"normal"}
+{"timestamp":1748140708598,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/25 10:38:28 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.107:34170: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748141064623,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1123063 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":1748142316277,"host":"hivenode02","text":"systemd-logind: Removed session 1962845.","label":"normal"}
+{"timestamp":1748142588490,"host":"hivenode02","text":"systemd-logind: Removed session 1962993.","label":"normal"}
+{"timestamp":1748143939602,"host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=766712 duration=0(sec)","label":"normal"}
+{"timestamp":1748144380436,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=1363154 duration=1(sec)","label":"normal"}
+{"timestamp":1748144845683,"host":"hivenode02","text":"systemd: Starting Session 1964235 of user root.","label":"normal"}
+{"timestamp":1748145295497,"host":"hivenode02","text":"systemd-logind: New session 1964478 of user root.","label":"normal"}
+{"timestamp":1748145594919,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=3001636 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":1748146908077,"host":"hivenode02","text":"systemd: Started Session 1965358 of user root.","label":"normal"}
+{"timestamp":1748147519163,"host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=1398877 duration=0(sec)","label":"normal"}
+{"timestamp":1748147862004,"host":"hivenode02","text":"systemd-logind: New session 1965875 of user root.","label":"normal"}
+{"timestamp":1748148536180,"host":"hivenode02","text":"systemd: Starting Session 1966241 of user root.","label":"normal"}
+{"timestamp":1748149506191,"host":"hivenode02","text":"systemd-logind: New session 1966773 of user root.","label":"normal"}
+{"timestamp":1748149731524,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/25 13:08:51 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.106:63254: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748150641795,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=1370751 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":1748151099537,"host":"hivenode02","text":"systemd: Started Session 1967637 of user root.","label":"normal"}
+{"timestamp":1748152068882,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=3295915 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":1748152231576,"host":"hivenode02","text":"systemd-logind: New session 1968260 of user root.","label":"normal"}
+{"timestamp":1748152258165,"host":"hivenode02","text":"systemd: Started Session 1968275 of user root.","label":"normal"}
+{"timestamp":1748152857215,"host":"hivenode02","text":"systemd: Starting Session 1968608 of user root.","label":"normal"}
+{"timestamp":1748153160106,"host":"hivenode02","text":"systemd: Started Session 1968775 of user root.","label":"normal"}
+{"timestamp":1748154368009,"host":"hivenode02","text":"python: KeyError: 'state'","label":"abnormal"}
+{"timestamp":1748154368474,"host":"hivenode02","text":"infinity[2186405]: an error occurred while requesting bindings <urlopen error [Errno 111] Connection refused>","label":"abnormal"}
+{"timestamp":1748155213055,"host":"hivenode02","text":"systemd: Started Session 1969876 of user root.","label":"normal"}
+{"timestamp":1748155597714,"host":"hivenode02","text":"systemd-logind: Removed session 1970085.","label":"normal"}
+{"timestamp":1748155642005,"host":"hivenode02","text":"systemd: Starting Session 1970109 of user root.","label":"normal"}
+{"timestamp":1748155954825,"host":"hivenode02","text":"systemd: Starting Session 1970284 of user root.","label":"normal"}
+{"timestamp":1748156934595,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=1438736 duration=0(sec)","label":"normal"}
+{"timestamp":1748156961383,"host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=1467983 duration=0(sec)","label":"normal"}
+{"timestamp":1748157069008,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1619065 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":1748158476089,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=3494800 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":1748158595695,"host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=3656688 duration=0(sec)","label":"normal"}
+{"timestamp":1748159001247,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=32926 duration=1(sec)","label":"normal"}
+{"timestamp":1748159406538,"host":"hivenode02","text":"systemd: Started Session 1972171 of user root.","label":"normal"}
+{"timestamp":1748159480991,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/25 15:51:20 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.107:53454: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748159687983,"host":"hivenode02","text":"systemd-logind: Removed session 1972324.","label":"normal"}
+{"timestamp":1748160288557,"host":"hivenode02","text":"systemd: Starting Session 1972657 of user root.","label":"normal"}
+{"timestamp":1748160894547,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=2605693 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":1748161782590,"host":"hivenode02","text":"systemd: Started Session 1973589 of user root.","label":"normal"}
+{"timestamp":1748161812733,"host":"hivenode02","text":"systemd: Starting Session 1973612 of user root.","label":"normal"}
+{"timestamp":1748162485849,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=622869 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":1748162703131,"host":"hivenode02","text":"systemd: Starting Session 1974177 of user root.","label":"normal"}
+{"timestamp":1748163746716,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=2342762 duration=0(sec)","label":"normal"}
+{"timestamp":1748163865004,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/25 17:04:25 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.103:52302: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748164201512,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=2982925 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":1748165094992,"host":"hivenode02","text":"systemd: Started Session 1975707 of user root.","label":"normal"}
+{"timestamp":1748165608645,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=749226 duration=0(sec)","label":"normal"}
+{"timestamp":1748166054153,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1339260 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":1748166059803,"host":"hivenode02","text":"systemd: Started Session 1976329 of user root.","label":"normal"}
+{"timestamp":1748166363491,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=1778057 duration=1(sec)","label":"normal"}
+{"timestamp":1748166682688,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=2220181 duration=0(sec)","label":"normal"}
+{"timestamp":1748169103917,"host":"hivenode02","text":"systemd: Starting Session 1978290 of user root.","label":"normal"}
+{"timestamp":1748169275913,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=1617067 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":1748169369526,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/25 18:36:09 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.104:34119: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748169668279,"host":"hivenode02","text":"systemd: Starting Session 1978654 of user root.","label":"normal"}
+{"timestamp":1748169786622,"host":"hivenode02","text":"systemd: Started Session 1978729 of user root.","label":"normal"}
+{"timestamp":1748169917726,"host":"hivenode02","text":"systemd: Started Session 1978812 of user root.","label":"normal"}
+{"timestamp":1748171787758,"host":"hivenode02","text":"systemd-logind: New session 1980002 of user root.","label":"normal"}
+{"timestamp":1748171967872,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1143399 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":1748174932570,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/25 20:08:52 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.101:63606: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748175926280,"host":"hivenode02","text":"systemd: Started Session 1982641 of user root.","label":"normal"}
+{"timestamp":1748176421546,"host":"hivenode02","text":"systemd: Started Session 1982958 of user root.","label":"normal"}
+{"timestamp":1748176676131,"host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=3450077 duration=0(sec)","label":"normal"}
+{"timestamp":1748176954523,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/25 20:42:34 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.106:49416: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748177114890,"host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=4071398 duration=0(sec)","label":"normal"}
+{"timestamp":1748177425995,"host":"hivenode02","text":"systemd-logind: New session 1983609 of user root.","label":"normal"}
+{"timestamp":1748178197175,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=1382102 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":1748179052708,"host":"hivenode02","text":"systemd-logind: Removed session 1984648.","label":"normal"}
+{"timestamp":1748179091803,"host":"hivenode02","text":"systemd: Starting Session 1984670 of user root.","label":"normal"}
+{"timestamp":1748179758994,"host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=3548736 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":1748180171380,"host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=4107937 duration=0(sec)","label":"normal"}
+{"timestamp":1748180634061,"host":"hivenode02","text":"systemd-logind: Removed session 1985659.","label":"normal"}
+{"timestamp":1748181100895,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/25 21:51:40 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.105:52677: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748181883344,"host":"hivenode02","text":"systemd: Started Session 1986458 of user root.","label":"normal"}
+{"timestamp":1748182014494,"host":"hivenode02","text":"systemd: Started Session 1986542 of user root.","label":"normal"}
+{"timestamp":1748183449606,"host":"hivenode02","text":"systemd-logind: New session 1987466 of user root.","label":"normal"}
+{"timestamp":1748184627367,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/25 22:50:27 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.101:41605: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748184973386,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=2393728 duration=1(sec)","label":"normal"}
+{"timestamp":1748187330815,"host":"hivenode02","text":"systemd: Started Session 1989951 of user root.","label":"normal"}
+{"timestamp":1748187957198,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/25 23:45:57 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.107:54694: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748188312145,"host":"hivenode02","text":"systemd-logind: Removed session 1990584.","label":"normal"}
+{"timestamp":1748189103836,"host":"hivenode02","text":"systemd: Starting Session 1991100 of user root.","label":"normal"}
+{"timestamp":1748190100852,"host":"hivenode02","text":"systemd: Starting Session 1991740 of user root.","label":"normal"}
+{"timestamp":1748190109605,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=1100267 duration=0(sec)","label":"normal"}
+{"timestamp":1748191002352,"host":"hivenode02","text":"systemd-logind: Removed session 1992315.","label":"normal"}
+{"timestamp":1748191257785,"host":"hivenode02","text":"systemd: Starting Session 1992477 of user root.","label":"normal"}
+{"timestamp":1748191967715,"host":"hivenode02","text":"systemd: Started Session 1992931 of user root.","label":"normal"}
+{"timestamp":1748192402152,"host":"hivenode02","text":"kernel: smartord[3529380]: segfault at 7fe268776880 ip 00007fe266f864bc sp 00007ffe1ce82bc0 error 4 in libc-2.17.so[7fe266f06000+1c4000]","label":"abnormal"}
+{"timestamp":1748192487094,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=134535 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":1748192740011,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=479653 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":1748192891578,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/26 01:08:11 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.106:43750: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748192956729,"host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=783343 duration=0(sec)","label":"normal"}
+{"timestamp":1748193470220,"host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=1473030 duration=0(sec)","label":"normal"}
+{"timestamp":1748194213466,"host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=2491271 duration=0(sec)","label":"normal"}
+{"timestamp":1748195178468,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=3810288 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":1748195618314,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=222387 duration=1(sec)","label":"normal"}
+{"timestamp":1748195738062,"host":"hivenode02","text":"systemd-logind: Removed session 1995366.","label":"normal"}
+{"timestamp":1748196455345,"host":"hivenode02","text":"systemd-logind: Removed session 1995822.","label":"normal"}
+{"timestamp":1748196877415,"host":"hivenode02","text":"systemd-logind: New session 1996092 of user root.","label":"normal"}
+{"timestamp":1748197812917,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=3223945 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":1748198182442,"host":"hivenode02","text":"systemd: Started Session 1996936 of user root.","label":"normal"}
+{"timestamp":1748199011382,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=692215 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":1748199073016,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/26 02:51:13 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.101:64784: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748199424056,"host":"hivenode02","text":"systemd-logind: New session 1997739 of user root.","label":"normal"}
+{"timestamp":1748199583548,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/26 02:59:43 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.107:39632: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748200562215,"host":"hivenode02","text":"systemd: Starting Session 1998472 of user root.","label":"normal"}
+{"timestamp":1748201113520,"host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-26 03:25:12","label":"normal"}
+{"timestamp":1748201406985,"host":"hivenode02","text":"systemd: Started Session 1999018 of user root.","label":"normal"}
+{"timestamp":1748201667100,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/26 03:34:27 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.104:48547: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748203239491,"host":"hivenode02","text":"systemd-logind: Removed session 2000201.","label":"normal"}
+{"timestamp":1748204394794,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=3894054 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":1748204984653,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/26 04:29:44 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.103:39916: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748205026126,"host":"hivenode02","text":"systemd-logind: Removed session 2001333.","label":"normal"}
+{"timestamp":1748205516766,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1232882 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":1748206547742,"host":"hivenode02","text":"systemd-logind: Removed session 2002294.","label":"normal"}
+{"timestamp":1748207058262,"host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-26 05:04:17","label":"normal"}
+{"timestamp":1748207245963,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=3579706 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":1748207764887,"host":"hivenode02","text":"systemd-logind: Removed session 2003069.","label":"normal"}
+{"timestamp":1748208195665,"host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=698909 duration=0(sec)","label":"normal"}
+{"timestamp":1748209919860,"host":"hivenode02","text":"systemd-logind: Removed session 2004428.","label":"normal"}
+{"timestamp":1748211001841,"host":"hivenode02","text":"systemd: Started Session 2005130 of user root.","label":"normal"}
+{"timestamp":1748211434558,"host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=962854 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":1748211676183,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=1276109 duration=1(sec)","label":"normal"}
+{"timestamp":1748211984745,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1689050 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":1748212131254,"host":"hivenode02","text":"systemd: Starting Session 2005837 of user root.","label":"normal"}
+{"timestamp":1748214353333,"host":"hivenode02","text":"systemd-logind: New session 2007247 of user root.","label":"normal"}
+{"timestamp":1748214410485,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=800450 duration=1(sec)","label":"normal"}
+{"timestamp":1748214585648,"host":"hivenode02","text":"systemd-logind: New session 2007395 of user root.","label":"normal"}
+{"timestamp":1748214767551,"host":"hivenode02","text":"systemd: Started Session 2007515 of user root.","label":"normal"}
+{"timestamp":1748215228808,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1932997 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":1748215431637,"host":"hivenode02","text":"systemd: Started Session 2007936 of user root.","label":"normal"}
+{"timestamp":1748217596683,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=967269 duration=0(sec)","label":"normal"}
+{"timestamp":1748217669778,"host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-26 08:01:08","label":"normal"}
+{"timestamp":1748219435489,"host":"hivenode02","text":"systemd-logind: Removed session 2010489.","label":"normal"}
+{"timestamp":1748219510171,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/26 08:31:50 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.106:51948: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748220318782,"host":"hivenode02","text":"systemd: Started Session 2011045 of user root.","label":"normal"}
+{"timestamp":1748220380368,"host":"hivenode02","text":"systemd: Started Session 2011082 of user root.","label":"normal"}
+{"timestamp":1748220638643,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=933061 duration=0(sec)","label":"normal"}
+{"timestamp":1748220742862,"host":"hivenode02","text":"systemd: Started Session 2011308 of user root.","label":"normal"}
+{"timestamp":1748221081760,"host":"hivenode02","text":"systemd-logind: Removed session 2011518.","label":"normal"}
+{"timestamp":1748221207036,"host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-26 09:00:05","label":"normal"}
+{"timestamp":1748221681507,"host":"hivenode02","text":"systemd: Started Session 2011900 of user root.","label":"normal"}
+{"timestamp":1748222206327,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=3059336 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":1748222935732,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=4061412 duration=1(sec)","label":"normal"}
+{"timestamp":1748223538502,"host":"hivenode02","text":"systemd: Starting Session 2013055 of user root.","label":"normal"}
+{"timestamp":1748223715966,"host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=919459 duration=0(sec)","label":"normal"}
+{"timestamp":1748224138823,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=1517207 duration=0(sec)","label":"normal"}
+{"timestamp":1748224993882,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=2697394 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":1748225032477,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/26 10:03:52 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.107:52368: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748225192914,"host":"hivenode02","text":"systemd-logind: Removed session 2014127.","label":"normal"}
+{"timestamp":1748228043883,"host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=2652505 duration=0(sec)","label":"normal"}
+{"timestamp":1748229068529,"host":"hivenode02","text":"systemd: Starting Session 2016579 of user root.","label":"normal"}
+{"timestamp":1748229299807,"host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=162092 duration=0(sec)","label":"normal"}
+{"timestamp":1748229464991,"host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-26 11:17:43","label":"normal"}
+{"timestamp":1748230413145,"host":"hivenode02","text":"systemd: Started Session 2017427 of user root.","label":"normal"}
+{"timestamp":1748233208883,"host":"hivenode02","text":"systemd: Starting Session 2019210 of user root.","label":"normal"}
+{"timestamp":1748233502236,"host":"hivenode02","text":"systemd: Starting Session 2019391 of user root.","label":"normal"}
+{"timestamp":1748233691317,"host":"hivenode02","text":"systemd: Starting Session 2019510 of user root.","label":"normal"}
+{"timestamp":1748234808959,"host":"hivenode02","text":"systemd: Started Session 2020227 of user root.","label":"normal"}
+{"timestamp":1748235393132,"host":"hivenode02","text":"systemd: Starting Session 2020591 of user root.","label":"normal"}
+{"timestamp":1748235435343,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=189899 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":1748236006572,"host":"hivenode02","text":"systemd: Starting Session 2020982 of user root.","label":"normal"}
+{"timestamp":1748236791175,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=2030159 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":1748238254600,"host":"hivenode02","text":"systemd-logind: Removed session 2022387.","label":"normal"}
+{"timestamp":1748238979137,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=834347 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":1748239340411,"host":"hivenode02","text":"systemd: Starting Session 2023092 of user root.","label":"normal"}
+{"timestamp":1748240656196,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/26 14:24:16 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.107:52312: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748241447957,"host":"hivenode02","text":"systemd: Starting Session 2024440 of user root.","label":"normal"}
+{"timestamp":1748242693527,"host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-26 14:58:12","label":"normal"}
+{"timestamp":1748243127464,"host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-26 15:05:26","label":"normal"}
+{"timestamp":1748243375257,"host":"hivenode02","text":"systemd-logind: New session 2025656 of user root.","label":"normal"}
+{"timestamp":1748244220415,"host":"hivenode02","text":"systemd: Starting Session 2026191 of user root.","label":"normal"}
+{"timestamp":1748245376324,"host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=1189018 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":1748245448933,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1302760 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":1748245714403,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1661309 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":1748245839047,"host":"hivenode02","text":"systemd: Started Session 2027210 of user root.","label":"normal"}
+{"timestamp":1748245908568,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1932356 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":1748245945812,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1987012 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":1748247183504,"host":"hivenode02","text":"systemd-logind: New session 2028083 of user root.","label":"normal"}
+{"timestamp":1748247830550,"host":"hivenode02","text":"systemd-logind: New session 2028516 of user root.","label":"normal"}
+{"timestamp":1748249477195,"host":"hivenode02","text":"systemd-logind: Removed session 2029576.","label":"normal"}
+{"timestamp":1748249493721,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=2687852 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":1748250244870,"host":"hivenode02","text":"systemd-logind: Removed session 2030071.","label":"normal"}
+{"timestamp":1748250296853,"host":"hivenode02","text":"systemd-logind: Removed session 2030104.","label":"normal"}
+{"timestamp":1748252315971,"host":"hivenode02","text":"systemd: Started Session 2031401 of user root.","label":"normal"}
+{"timestamp":1748253322876,"host":"hivenode02","text":"systemd: Started Session 2032049 of user root.","label":"normal"}
+{"timestamp":1748253740878,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=190215 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":1748254878674,"host":"hivenode02","text":"systemd: Started Session 2033054 of user root.","label":"normal"}
+{"timestamp":1748255245363,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=2282341 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":1748255945862,"host":"hivenode02","text":"systemd-logind: New session 2033740 of user root.","label":"normal"}
+{"timestamp":1748256783533,"host":"hivenode02","text":"systemd-logind: Removed session 2034270.","label":"normal"}
+{"timestamp":1748257421684,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/26 19:03:41 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.106:52818: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748257477302,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=1155297 duration=1(sec)","label":"normal"}
+{"timestamp":1748258020448,"host":"hivenode02","text":"systemd: Started Session 2035061 of user root.","label":"normal"}
+{"timestamp":1748258203011,"host":"hivenode02","text":"systemd-logind: Removed session 2035177.","label":"normal"}
+{"timestamp":1748258476968,"host":"hivenode02","text":"systemd: Starting Session 2035357 of user root.","label":"normal"}
+{"timestamp":1748259998971,"host":"hivenode02","text":"systemd: Starting Session 2036326 of user root.","label":"normal"}
+{"timestamp":1748260335750,"host":"hivenode02","text":"systemd: Starting Session 2036546 of user root.","label":"normal"}
+{"timestamp":1748260833806,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1618940 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":1748261571766,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=2636657 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":1748261877650,"host":"hivenode02","text":"systemd: Started Session 2037539 of user root.","label":"normal"}
+{"timestamp":1748263587697,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=1240102 duration=0(sec)","label":"normal"}
+{"timestamp":1748264138384,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'client-office365-tas.msedge.net\/A\/IN': 2001:500:9f::42#53","label":"abnormal"}
+{"timestamp":1748264138384,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'config.edge.skype.com\/A\/IN': 2001:500:84::b#53","label":"abnormal"}
+{"timestamp":1748264138384,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'client-office365-tas.msedge.net\/A\/IN': 2001:500:84::b#53","label":"abnormal"}
+{"timestamp":1748264139984,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'config.edge.skype.com\/A\/IN': 2001:500:2f::f#53","label":"abnormal"}
+{"timestamp":1748264139985,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'client-office365-tas.msedge.net\/A\/IN': 2001:dc3::35#53","label":"abnormal"}
+{"timestamp":1748264139985,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'client-office365-tas.msedge.net\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748264139985,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'config.edge.skype.com\/A\/IN': 2001:500:12::d0d#53","label":"abnormal"}
+{"timestamp":1748264139985,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'config.edge.skype.com\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748264139986,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'client-office365-tas.msedge.net\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748264143185,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'client-office365-tas.msedge.net\/A\/IN': 2001:500:a8::e#53","label":"abnormal"}
+{"timestamp":1748264143186,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'config.edge.skype.com\/A\/IN': 2001:500:a8::e#53","label":"abnormal"}
+{"timestamp":1748264149790,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'settings-win.data.microsoft.com\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748264149854,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'sn.splashtop.com\/A\/IN': 2001:500:a8::e#53","label":"abnormal"}
+{"timestamp":1748264153661,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'mobile.events.data.microsoft.com\/A\/IN': 2001:503:c27::2:30#53","label":"abnormal"}
+{"timestamp":1748264153661,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'mobile.events.data.microsoft.com\/A\/IN': 2001:7fd::1#53","label":"abnormal"}
+{"timestamp":1748264156062,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'mobile.events.data.microsoft.com\/A\/IN': 2001:500:12::d0d#53","label":"abnormal"}
+{"timestamp":1748264156256,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'sn.splashtop.com\/A\/IN': 2001:500:12::d0d#53","label":"abnormal"}
+{"timestamp":1748264181187,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'update.googleapis.com\/A\/IN': 2001:dc3::35#53","label":"abnormal"}
+{"timestamp":1748264246249,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ent-shasta-rrs.symantec.com\/A\/IN': 2001:500:a8::e#53","label":"abnormal"}
+{"timestamp":1748264251650,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ent-shasta-rrs.symantec.com\/A\/IN': 2001:503:c27::2:30#53","label":"abnormal"}
+{"timestamp":1748264283786,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'v10.events.data.microsoft.com\/A\/IN': 2001:7fe::53#53","label":"abnormal"}
+{"timestamp":1748264287630,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'register.xmpush.xiaomi.com\/A\/IN': 2001:500:84::b#53","label":"abnormal"}
+{"timestamp":1748264294231,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'register.xmpush.xiaomi.com\/A\/IN': 2001:500:9f::42#53","label":"abnormal"}
+{"timestamp":1748264294231,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'register.xmpush.xiaomi.com\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748264297661,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ic.wps.cn\/A\/IN': 2001:500:a8::e#53","label":"abnormal"}
+{"timestamp":1748264301794,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'inference.location.live.net\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748264301795,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'inference.location.live.net\/A\/IN': 2001:dc3::35#53","label":"abnormal"}
+{"timestamp":1748264302062,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ic.wps.cn\/A\/IN': 2001:dc3::35#53","label":"abnormal"}
+{"timestamp":1748264302629,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'rq.wh.cmcm.com\/A\/IN': 2001:7fd::1#53","label":"abnormal"}
+{"timestamp":1748264302849,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ssl.gstatic.com\/A\/IN': 2001:500:12::d0d#53","label":"abnormal"}
+{"timestamp":1748264306195,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'inference.location.live.net\/A\/IN': 2001:503:c27::2:30#53","label":"abnormal"}
+{"timestamp":1748264307029,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'rq.wh.cmcm.com\/A\/IN': 2001:503:c27::2:30#53","label":"abnormal"}
+{"timestamp":1748264333224,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'tools.google.com\/A\/IN': 2001:7fd::1#53","label":"abnormal"}
+{"timestamp":1748264333224,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'tools.google.com\/A\/IN': 2001:dc3::35#53","label":"abnormal"}
+{"timestamp":1748264382893,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ct.duba.net\/A\/IN': 2001:7fe::53#53","label":"abnormal"}
+{"timestamp":1748264400406,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'rq.drcct.cloud.duba.net\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748264400406,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'rq.drcct.cloud.duba.net\/A\/IN': 2001:500:a8::e#53","label":"abnormal"}
+{"timestamp":1748264412316,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ctldl.windowsupdate.com\/A\/IN': 2001:503:c27::2:30#53","label":"abnormal"}
+{"timestamp":1748264440549,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'oca.telemetry.microsoft.com\/A\/IN': 2001:500:9f::42#53","label":"abnormal"}
+{"timestamp":1748264443549,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'oca.telemetry.microsoft.com\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748264443550,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'oca.telemetry.microsoft.com\/A\/IN': 2001:500:a8::e#53","label":"abnormal"}
+{"timestamp":1748264485940,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'fs.microsoft.com\/A\/IN': 2001:500:a8::e#53","label":"abnormal"}
+{"timestamp":1748264530206,"host":"hivenode02","text":"systemd: Started Session 2039242 of user root.","label":"normal"}
+{"timestamp":1748264593477,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'clients4.google.com\/A\/IN': 2001:7fd::1#53","label":"abnormal"}
+{"timestamp":1748264711049,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'clientservices.googleapis.com\/A\/IN': 2001:7fd::1#53","label":"abnormal"}
+{"timestamp":1748264717727,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=2782611 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":1748264734205,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'clients.config.office.net\/A\/IN': 2001:7fe::53#53","label":"abnormal"}
+{"timestamp":1748264760964,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'validation-v2.sls.microsoft.com\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748264760964,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'validation-v2.sls.microsoft.com\/A\/IN': 2001:500:a8::e#53","label":"abnormal"}
+{"timestamp":1748264767738,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'v10.events.data.microsoft.com\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748264776310,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'officeclient.microsoft.com\/A\/IN': 2001:503:c27::2:30#53","label":"abnormal"}
+{"timestamp":1748264779082,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'drive.wps.cn\/A\/IN': 2001:503:c27::2:30#53","label":"abnormal"}
+{"timestamp":1748264792929,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ecs.office.com\/A\/IN': 2001:7fe::53#53","label":"abnormal"}
+{"timestamp":1748264906358,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'v10.events.data.microsoft.com\/A\/IN': 2001:503:c27::2:30#53","label":"abnormal"}
+{"timestamp":1748264948057,"host":"hivenode02","text":"systemd: Started Session 2039500 of user root.","label":"normal"}
+{"timestamp":1748264962533,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'liveupdate.symantec.com\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748264962533,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'liveupdate.symantec.com\/A\/IN': 2001:7fd::1#53","label":"abnormal"}
+{"timestamp":1748264963309,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'safebrowsing.googleapis.com\/A\/IN': 2001:7fd::1#53","label":"abnormal"}
+{"timestamp":1748265039545,"host":"hivenode02","text":"systemd-logind: New session 2039563 of user root.","label":"normal"}
+{"timestamp":1748265118770,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'oca.telemetry.microsoft.com\/A\/IN': 2001:dc3::35#53","label":"abnormal"}
+{"timestamp":1748265122660,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=3350542 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":1748265283108,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ecs.office.com\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748265283108,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ecs.office.com\/A\/IN': 2001:dc3::35#53","label":"abnormal"}
+{"timestamp":1748265328699,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'oca.telemetry.microsoft.com\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748265352875,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'wdl1.cache.wps.cn\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748265352875,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'docer.wps.cn\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748265352876,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'account.wps.cn\/A\/IN': 2001:500:a8::e#53","label":"abnormal"}
+{"timestamp":1748265352876,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'docerad.wps.cn\/A\/IN': 2001:500:a8::e#53","label":"abnormal"}
+{"timestamp":1748265352876,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'wdl1.cache.wps.cn\/A\/IN': 2001:500:a8::e#53","label":"abnormal"}
+{"timestamp":1748265353384,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'event.wps.com\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748265365689,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'rq.drcct.cloud.duba.net\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748265365689,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'rq.drcct.cloud.duba.net\/A\/IN': 2001:dc3::35#53","label":"abnormal"}
+{"timestamp":1748265381113,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'www.hao123.com\/A\/IN': 2001:503:c27::2:30#53","label":"abnormal"}
+{"timestamp":1748265443779,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ct.duba.net\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748265444576,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'wq.cloud.duba.net\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748265742969,"host":"hivenode02","text":"systemd: Starting Session 2040014 of user root.","label":"normal"}
+{"timestamp":1748265815904,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'honeycomb-plugins-3.wpscdn.cn\/A\/IN': 2001:500:2f::f#53","label":"abnormal"}
+{"timestamp":1748265900002,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'event.wps.com\/A\/IN': 2001:7fe::53#53","label":"abnormal"}
+{"timestamp":1748265936056,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'params.wps.com\/A\/IN': 2001:500:9f::42#53","label":"abnormal"}
+{"timestamp":1748265944069,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'wdl1.pcfg.cache.wpscdn.com\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748265967150,"host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=317515 duration=0(sec)","label":"normal"}
+{"timestamp":1748265977082,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'backupplugin.wps.com\/A\/IN': 2001:503:c27::2:30#53","label":"abnormal"}
+{"timestamp":1748266021300,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'backupplugin.wps.com\/A\/IN': 2001:500:84::b#53","label":"abnormal"}
+{"timestamp":1748266021300,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'backupplugin.wps.com\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748266056449,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'backupplugin.wps.com\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748266056450,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'backupplugin.wps.com\/A\/IN': 2001:500:a8::e#53","label":"abnormal"}
+{"timestamp":1748266194674,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'backupplugin.wps.com\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748266194674,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'backupplugin.wps.com\/A\/IN': 2001:dc3::35#53","label":"abnormal"}
+{"timestamp":1748266240719,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=700799 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":1748266381745,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'honeycomb.wpscdn.cn\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748266387555,"host":"hivenode02","text":"systemd: Started Session 2040413 of user root.","label":"normal"}
+{"timestamp":1748266554655,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'qingcenter.wps.cn\/A\/IN': 2001:7fd::1#53","label":"abnormal"}
+{"timestamp":1748266554655,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'qingcenter.wps.cn\/A\/IN': 2001:dc3::35#53","label":"abnormal"}
+{"timestamp":1748266622540,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'gameplayapi.intel.com\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748266674279,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'www.xunlei.com\/A\/IN': 2001:7fd::1#53","label":"abnormal"}
+{"timestamp":1748266674279,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'www.xunlei.com\/A\/IN': 2001:dc3::35#53","label":"abnormal"}
+{"timestamp":1748266940585,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1645494 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":1748267059990,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'update.wps.cn\/A\/IN': 2001:7fd::1#53","label":"abnormal"}
+{"timestamp":1748267060139,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'honeycomb.wpscdn.cn\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748267060139,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'honeycomb.wpscdn.cn\/A\/IN': 2001:dc3::35#53","label":"abnormal"}
+{"timestamp":1748267131912,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'oth.eve.mdt.qq.com\/A\/IN': 2001:500:84::b#53","label":"abnormal"}
+{"timestamp":1748267131913,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'oth.eve.mdt.qq.com\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748267218636,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ct.duba.net\/A\/IN': 2001:503:c27::2:30#53","label":"abnormal"}
+{"timestamp":1748267520485,"host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-26 21:51:59","label":"normal"}
+{"timestamp":1748267866986,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=2928520 duration=0(sec)","label":"normal"}
+{"timestamp":1748268674326,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=4054986 duration=1(sec)","label":"normal"}
+{"timestamp":1748269033377,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=361781 duration=1(sec)","label":"normal"}
+{"timestamp":1748269369153,"host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=822231 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":1748270408548,"host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=2252601 duration=0(sec)","label":"normal"}
+{"timestamp":1748273370685,"host":"hivenode02","text":"systemd-logind: New session 2044878 of user root.","label":"normal"}
+{"timestamp":1748273704411,"host":"hivenode02","text":"systemd: Started Session 2045095 of user root.","label":"normal"}
+{"timestamp":1748274057625,"host":"hivenode02","text":"systemd-logind: New session 2045324 of user root.","label":"normal"}
+{"timestamp":1748277156293,"host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=3191891 duration=0(sec)","label":"normal"}
+{"timestamp":1748278008525,"host":"hivenode02","text":"systemd: Starting Session 2047855 of user root.","label":"normal"}
+{"timestamp":1748278319653,"host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=582418 duration=0(sec)","label":"normal"}
+{"timestamp":1748278846380,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/27 01:00:46 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.101:32802: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748278864443,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1328824 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":1748279212216,"host":"hivenode02","text":"systemd: Starting Session 2048640 of user root.","label":"normal"}
+{"timestamp":1748280061002,"host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=2971293 duration=1(sec)","label":"normal"}
+{"timestamp":1748280080182,"host":"hivenode02","text":"systemd: Starting Session 2049200 of user root.","label":"normal"}
+{"timestamp":1748281001537,"host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-27 01:36:40","label":"normal"}
+{"timestamp":1748282022643,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/27 01:53:42 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.106:46098: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748282329608,"host":"hivenode02","text":"systemd: Starting Session 2050639 of user root.","label":"normal"}
+{"timestamp":1748282701432,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/27 02:05:01 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.101:52525: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748284155003,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/27 02:29:15 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.106:50996: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748284405094,"host":"hivenode02","text":"systemd-logind: New session 2051979 of user root.","label":"normal"}
+{"timestamp":1748284458770,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=603397 duration=0(sec)","label":"normal"}
+{"timestamp":1748284645400,"host":"hivenode02","text":"systemd: Started Session 2052124 of user root.","label":"normal"}
+{"timestamp":1748285505931,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=2047059 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":1748286001602,"host":"hivenode02","text":"systemd: Starting Session 2053000 of user root.","label":"normal"}
+{"timestamp":1748286140595,"host":"hivenode02","text":"systemd-logind: New session 2053091 of user root.","label":"normal"}
+{"timestamp":1748286256538,"host":"hivenode02","text":"systemd-logind: New session 2053165 of user root.","label":"normal"}
+{"timestamp":1748287300501,"host":"hivenode02","text":"systemd-logind: Removed session 2053836.","label":"normal"}
+{"timestamp":1748287352880,"host":"hivenode02","text":"systemd-logind: Removed session 2053871.","label":"normal"}
+{"timestamp":1748287629904,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=769127 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":1748288413204,"host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=1857240 duration=0(sec)","label":"normal"}
+{"timestamp":1748288522475,"host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=2010965 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":1748288551032,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=2040192 duration=1(sec)","label":"normal"}
+{"timestamp":1748289717989,"host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-27 04:01:56","label":"normal"}
+{"timestamp":1748289842761,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=3833080 duration=0(sec)","label":"normal"}
+{"timestamp":1748291561392,"host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=1985602 duration=0(sec)","label":"normal"}
+{"timestamp":1748292223305,"host":"hivenode02","text":"systemd: Started Session 2056970 of user root.","label":"normal"}
+{"timestamp":1748293302886,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=147181 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":1748293323711,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/27 05:02:03 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.106:55274: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748294006756,"host":"hivenode02","text":"systemd: Starting Session 2058108 of user root.","label":"normal"}
+{"timestamp":1748294226574,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=1430203 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":1748294346571,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1581289 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":1748295037718,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/27 05:30:37 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.107:63282: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748295447398,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/27 05:37:27 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.101:37962: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748297253328,"host":"hivenode02","text":"systemd: Starting Session 2060169 of user root.","label":"normal"}
+{"timestamp":1748297634911,"host":"hivenode02","text":"systemd-logind: Removed session 2060405.","label":"normal"}
+{"timestamp":1748298181644,"host":"hivenode02","text":"systemd: Started Session 2060747 of user root.","label":"normal"}
+{"timestamp":1748298558882,"host":"hivenode02","text":"systemd: Started Session 2060985 of user root.","label":"normal"}
+{"timestamp":1748298735102,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=3410012 duration=1(sec)","label":"normal"}
+{"timestamp":1748299468129,"host":"hivenode02","text":"systemd: Starting Session 2061559 of user root.","label":"normal"}
+{"timestamp":1748299555549,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/27 06:45:55 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.102:46489: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748299775561,"host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=627648 duration=0(sec)","label":"normal"}
+{"timestamp":1748299866260,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=752230 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":1748300113683,"host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=1092549 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":1748300163759,"host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-27 06:56:02","label":"normal"}
+{"timestamp":1748301002075,"host":"hivenode02","text":"systemd: Starting Session 2062542 of user root.","label":"normal"}
+{"timestamp":1748302869879,"host":"hivenode02","text":"systemd-logind: New session 2063700 of user root.","label":"normal"}
+{"timestamp":1748302979776,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=811704 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":1748303280579,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=1210198 duration=0(sec)","label":"normal"}
+{"timestamp":1748304019188,"host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=2228560 duration=0(sec)","label":"normal"}
+{"timestamp":1748304186249,"host":"hivenode02","text":"systemd: Started Session 2064549 of user root.","label":"normal"}
+{"timestamp":1748304315620,"host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=2654645 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":1748305298740,"host":"hivenode02","text":"systemd-logind: New session 2065247 of user root.","label":"normal"}
+{"timestamp":1748305368199,"host":"hivenode02","text":"systemd: Starting Session 2065290 of user root.","label":"normal"}
+{"timestamp":1748308097514,"host":"hivenode02","text":"systemd-logind: Removed session 2067022.","label":"normal"}
+{"timestamp":1748308337230,"host":"hivenode02","text":"systemd: Started Session 2067178 of user root.","label":"normal"}
+{"timestamp":1748309569923,"host":"hivenode02","text":"systemd: Started Session 2067952 of user root.","label":"normal"}
+{"timestamp":1748309591129,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=1444612 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":1748310916232,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'validation-v2.sls.microsoft.com\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748310916232,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'validation-v2.sls.microsoft.com\/A\/IN': 2001:dc3::35#53","label":"abnormal"}
+{"timestamp":1748311021620,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'event.wps.com\/A\/IN': 2001:503:c27::2:30#53","label":"abnormal"}
+{"timestamp":1748311050249,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'www.sina.com\/A\/IN': 2001:503:ba3e::2:30#53","label":"abnormal"}
+{"timestamp":1748311074164,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ent-shasta-rrs.symantec.com\/A\/IN': 2001:500:12::d0d#53","label":"abnormal"}
+{"timestamp":1748311137290,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ct.duba.net\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748311139891,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ct.duba.net\/A\/IN': 2001:7fd::1#53","label":"abnormal"}
+{"timestamp":1748311139891,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ct.duba.net\/A\/IN': 2001:dc3::35#53","label":"abnormal"}
+{"timestamp":1748311261859,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'cu004.www.duba.net\/A\/IN': 2001:dc3::35#53","label":"abnormal"}
+{"timestamp":1748311495475,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'settings.data.microsoft.com\/A\/IN': 2001:500:84::b#53","label":"abnormal"}
+{"timestamp":1748311786821,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'v10.events.data.microsoft.com\/A\/IN': 2001:500:12::d0d#53","label":"abnormal"}
+{"timestamp":1748312311523,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'switch.pcfg.cache.wpscdn.cn\/A\/IN': 2001:503:c27::2:30#53","label":"abnormal"}
+{"timestamp":1748312366796,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'info.wps.cn\/A\/IN': 2001:500:84::b#53","label":"abnormal"}
+{"timestamp":1748312366796,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'info.wps.cn\/A\/IN': 2001:500:a8::e#53","label":"abnormal"}
+{"timestamp":1748312368451,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'www.hao123.com\/A\/IN': 2001:500:84::b#53","label":"abnormal"}
+{"timestamp":1748312368451,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'www.hao123.com\/A\/IN': 2001:500:a8::e#53","label":"abnormal"}
+{"timestamp":1748312740075,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'honeycomb-plugins-2.wpscdn.cn\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748312744177,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'honeycomb-plugins-3.wpscdn.cn\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748312885123,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'honeycomb.wpscdn.cn\/A\/IN': 2001:500:a8::e#53","label":"abnormal"}
+{"timestamp":1748313414853,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'cf.duba.net\/A\/IN': 2001:7fd::1#53","label":"abnormal"}
+{"timestamp":1748313414853,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'cf.duba.net\/A\/IN': 2001:dc3::35#53","label":"abnormal"}
+{"timestamp":1748313747497,"host":"hivenode02","text":"systemd-logind: New session 2070590 of user root.","label":"normal"}
+{"timestamp":1748313757107,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'params.wps.com\/A\/IN': 2001:500:84::b#53","label":"abnormal"}
+{"timestamp":1748313960585,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'www.xunlei.com\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748314419865,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=3833606 duration=0(sec)","label":"normal"}
+{"timestamp":1748315610833,"host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=1275551 duration=0(sec)","label":"normal"}
+{"timestamp":1748315753334,"host":"hivenode02","text":"systemd: Starting Session 2071861 of user root.","label":"normal"}
+{"timestamp":1748316159362,"host":"hivenode02","text":"systemd-logind: Removed session 2072112.","label":"normal"}
+{"timestamp":1748316176127,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=2056931 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":1748316378296,"host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=2308622 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":1748316712270,"host":"hivenode02","text":"systemd: Starting Session 2072467 of user root.","label":"normal"}
+{"timestamp":1748316953811,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=3102982 duration=0(sec)","label":"normal"}
+{"timestamp":1748317618997,"host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=3990754 duration=0(sec)","label":"normal"}
+{"timestamp":1748318836941,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/27 12:07:16 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.102:43691: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748319090459,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/27 12:11:30 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.105:46468: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748320127436,"host":"hivenode02","text":"systemd: Started Session 2074639 of user root.","label":"normal"}
+{"timestamp":1748320802112,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/27 12:40:02 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.107:51176: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748322015555,"host":"hivenode02","text":"systemd-logind: New session 2075844 of user root.","label":"normal"}
+{"timestamp":1748323260143,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=3352994 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":1748323835227,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=4136517 duration=1(sec)","label":"normal"}
+{"timestamp":1748324243588,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/27 13:37:23 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.104:64084: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748324261284,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=531582 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":1748324354112,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=657621 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":1748324430691,"host":"hivenode02","text":"python: - ** ---------- .> app:         __main__:0x23a4a90","label":"normal"}
+{"timestamp":1748324613400,"host":"hivenode02","text":"systemd: Starting Session 2077471 of user root.","label":"normal"}
+{"timestamp":1748324728245,"host":"hivenode02","text":"systemd: Started Session 2077546 of user root.","label":"normal"}
+{"timestamp":1748325213309,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'www.xunlei.com\/A\/IN': 2001:503:c27::2:30#53","label":"abnormal"}
+{"timestamp":1748325532941,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'www.xunlei.com\/A\/IN': 2001:503:ba3e::2:30#53","label":"abnormal"}
+{"timestamp":1748325532941,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'www.xunlei.com\/A\/IN': 2001:500:a8::e#53","label":"abnormal"}
+{"timestamp":1748325654305,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/27 14:00:54 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.103:40007: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748326072196,"host":"hivenode02","text":"systemd-logind: Removed session 2078412.","label":"normal"}
+{"timestamp":1748326073910,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'notify.wps.cn\/A\/IN': 2001:503:c27::2:30#53","label":"abnormal"}
+{"timestamp":1748326073910,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'notify.wps.cn\/A\/IN': 2001:500:9f::42#53","label":"abnormal"}
+{"timestamp":1748326542648,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'go.microsoft.com\/A\/IN': 2001:7fe::53#53","label":"abnormal"}
+{"timestamp":1748326764970,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'hotnews.duba.com\/A\/IN': 2001:500:2f::f#53","label":"abnormal"}
+{"timestamp":1748326767927,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'honeycomb.wpscdn.cn\/A\/IN': 2001:500:2f::f#53","label":"abnormal"}
+{"timestamp":1748326769211,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'wdl1.cache.wps.cn\/A\/IN': 2001:500:2f::f#53","label":"abnormal"}
+{"timestamp":1748326813382,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'wq.cloud.duba.net\/A\/IN': 2001:503:c27::2:30#53","label":"abnormal"}
+{"timestamp":1748326813421,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'info.wps.cn\/A\/IN': 2001:500:9f::42#53","label":"abnormal"}
+{"timestamp":1748326850735,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'osce12-p.activeupdate.asiainfo-sec.com\/A\/IN': 2001:500:12::d0d#53","label":"abnormal"}
+{"timestamp":1748326857935,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'osce12-p.activeupdate.asiainfo-sec.com\/A\/IN': 2001:7fe::53#53","label":"abnormal"}
+{"timestamp":1748326885252,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'www.163.com\/A\/IN': 2001:503:ba3e::2:30#53","label":"abnormal"}
+{"timestamp":1748326885253,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'www.163.com\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748326885253,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'www.163.com\/A\/IN': 2001:500:a8::e#53","label":"abnormal"}
+{"timestamp":1748326885253,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'www.163.com\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748326972765,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=47275 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":1748327469802,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'www.sohu.com\/A\/IN': 2001:7fd::1#53","label":"abnormal"}
+{"timestamp":1748327472122,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'swcatalog.apple.com\/A\/IN': 2001:7fd::1#53","label":"abnormal"}
+{"timestamp":1748327860468,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'cf.duba.net\/A\/IN': 2001:7fe::53#53","label":"abnormal"}
+{"timestamp":1748327890348,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'swcatalog.apple.com\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748327890348,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'swcatalog.apple.com\/A\/IN': 2001:500:a8::e#53","label":"abnormal"}
+{"timestamp":1748327890348,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'swcatalog.apple.com\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748327991079,"host":"hivenode02","text":"systemd-logind: New session 2079624 of user root.","label":"normal"}
+{"timestamp":1748327993403,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'honeycomb-plugins-2.wpscdn.cn\/A\/IN': 2001:7fd::1#53","label":"abnormal"}
+{"timestamp":1748328162025,"host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=1678382 duration=1(sec)","label":"normal"}
+{"timestamp":1748328784939,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=2529917 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":1748329252081,"host":"hivenode02","text":"systemd: Started Session 2080420 of user root.","label":"normal"}
+{"timestamp":1748329955953,"host":"hivenode02","text":"systemd-logind: New session 2080866 of user root.","label":"normal"}
+{"timestamp":1748330817542,"host":"hivenode02","text":"systemd: Starting Session 2081404 of user root.","label":"normal"}
+{"timestamp":1748331099230,"host":"hivenode02","text":"systemd-logind: New session 2081586 of user root.","label":"normal"}
+{"timestamp":1748332436713,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'displaycatalog.mp.microsoft.com\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748332436713,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'displaycatalog.mp.microsoft.com\/A\/IN': 2001:7fe::53#53","label":"abnormal"}
+{"timestamp":1748332470954,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ecs.office.com\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748332474600,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'mrodevicemgr.officeapps.live.com\/A\/IN': 2001:500:9f::42#53","label":"abnormal"}
+{"timestamp":1748332524488,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'fsigns.duba.net\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748332526889,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'fsigns.duba.net\/A\/IN': 2001:7fe::53#53","label":"abnormal"}
+{"timestamp":1748332529289,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'fsigns.duba.net\/A\/IN': 2001:dc3::35#53","label":"abnormal"}
+{"timestamp":1748332589618,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'software.drivergenius.com\/A\/IN': 2001:503:c27::2:30#53","label":"abnormal"}
+{"timestamp":1748332921175,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'update.wps.cn\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748333097219,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'helpdubaclient.ksmobile.com\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748333121864,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=93989 duration=0(sec)","label":"normal"}
+{"timestamp":1748333170414,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'inference.location.live.net\/A\/IN': 2001:7fe::53#53","label":"abnormal"}
+{"timestamp":1748333174757,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'drive.wps.cn\/A\/IN': 2001:dc3::35#53","label":"abnormal"}
+{"timestamp":1748333197323,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=175283 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":1748333239407,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'update.kingsoftstore.com\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748333368927,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving '10.108.200.104\\239\\188\\1543390\/A\/IN': 2001:500:9f::42#53","label":"abnormal"}
+{"timestamp":1748333368927,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving '10.108.200.104\\239\\188\\1543390\/A\/IN': 2001:503:ba3e::2:30#53","label":"abnormal"}
+{"timestamp":1748333416961,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'canonicalizer.ucsuri.tcs\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748333416961,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'canonicalizer.ucsuri.tcs\/A\/IN': 2001:7fe::53#53","label":"abnormal"}
+{"timestamp":1748333457627,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ct.duba.net\/A\/IN': 2001:500:9f::42#53","label":"abnormal"}
+{"timestamp":1748333498974,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'www.gstatic.com\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748333504865,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/27 16:11:44 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.103:45839: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748333507827,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'activation.playready.microsoft.com\/A\/IN': 2001:dc3::35#53","label":"abnormal"}
+{"timestamp":1748333587801,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'crl.verisign.com\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748333587802,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'crl.verisign.com\/A\/IN': 2001:7fe::53#53","label":"abnormal"}
+{"timestamp":1748333589920,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'www.google.com\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748333589920,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'www.google.com\/A\/IN': 2001:7fe::53#53","label":"abnormal"}
+{"timestamp":1748333591420,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'g.live.com\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748333591420,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'g.live.com\/A\/IN': 2001:7fe::53#53","label":"abnormal"}
+{"timestamp":1748333593592,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'sf.symcd.com\/A\/IN': 2001:7fe::53#53","label":"abnormal"}
+{"timestamp":1748333614397,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'g.live.com\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748333683649,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'beacons2.gvt2.com\/A\/IN': 2001:7fd::1#53","label":"abnormal"}
+{"timestamp":1748333740060,"host":"hivenode02","text":"systemd: Starting Session 2083262 of user root.","label":"normal"}
+{"timestamp":1748333816868,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'www.sina.com.cn\/A\/IN': 2001:500:9f::42#53","label":"abnormal"}
+{"timestamp":1748333898777,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'beacons2.gvt2.com\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748333898777,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'beacons.gcp.gvt2.com\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748333931645,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'wdl1.cache.wps.cn\/A\/IN': 2001:503:c27::2:30#53","label":"abnormal"}
+{"timestamp":1748333953988,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'beacons.gcp.gvt2.com\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748333959996,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'pc-plugin-1.wpscdn.cn\/A\/IN': 2001:7fe::53#53","label":"abnormal"}
+{"timestamp":1748333960371,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'backupplugin.wps.cn\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748333971536,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'dyn.wps.cn\/A\/IN': 2001:dc3::35#53","label":"abnormal"}
+{"timestamp":1748333991566,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'account.wps.cn\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748333991566,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'docer.wps.cn\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748334002767,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'wdl1.cache.wps.cn\/A\/IN': 2001:500:9f::42#53","label":"abnormal"}
+{"timestamp":1748334003385,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'beacons5.gvt3.com\/A\/IN': 2001:500:12::d0d#53","label":"abnormal"}
+{"timestamp":1748334004329,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'get.sogou.com\/A\/IN': 2001:500:9f::42#53","label":"abnormal"}
+{"timestamp":1748334006207,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'pc-plugin-1.wpscdn.cn\/A\/IN': 2001:500:9f::42#53","label":"abnormal"}
+{"timestamp":1748334009346,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ic.wps.cn\/A\/IN': 2001:500:9f::42#53","label":"abnormal"}
+{"timestamp":1748334009346,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ic.wps.cn\/A\/IN': 2001:503:ba3e::2:30#53","label":"abnormal"}
+{"timestamp":1748334010292,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'crl3.digicert.com\/A\/IN': 2001:500:a8::e#53","label":"abnormal"}
+{"timestamp":1748334060285,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'beacons5.gvt3.com\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748334154883,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'beacons2.gvt2.com\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748334159950,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'www.microsoft.com\/A\/IN': 2001:7fd::1#53","label":"abnormal"}
+{"timestamp":1748334245656,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'config.pinyin.sogou.com\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748334254092,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ocsp.digicert.com\/A\/IN': 2001:7fe::53#53","label":"abnormal"}
+{"timestamp":1748334256395,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'get.sogou.com\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748334256395,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'get.sogou.com\/A\/IN': 2001:7fe::53#53","label":"abnormal"}
+{"timestamp":1748334263164,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'beacons5.gvt3.com\/A\/IN': 2001:dc3::35#53","label":"abnormal"}
+{"timestamp":1748334284888,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ocsp.digicert.com\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748334290215,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ime.sogou.com\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748334302590,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ocsp.digicert.com\/A\/IN': 2001:503:ba3e::2:30#53","label":"abnormal"}
+{"timestamp":1748334307561,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'config.pinyin.sogou.com\/A\/IN': 2001:500:9f::42#53","label":"abnormal"}
+{"timestamp":1748334459543,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'honeycomb.wpscdn.cn\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748334512551,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'get.sogou.com\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748334523085,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'www.gstatic.com\/A\/IN': 2001:500:12::d0d#53","label":"abnormal"}
+{"timestamp":1748334575672,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'crl.verisign.com\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748334580602,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 's2.symcb.com\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748334585372,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'config.pinyin.sogou.com\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748334585372,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'config.pinyin.sogou.com\/A\/IN': 2001:7fe::53#53","label":"abnormal"}
+{"timestamp":1748334692886,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'beacons.gcp.gvt2.com\/A\/IN': 2001:7fe::53#53","label":"abnormal"}
+{"timestamp":1748334733238,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'beacons4.gvt2.com\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748334807466,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'beacons5.gvt2.com\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748334813234,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'input.shouji.sogou.com\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748334856084,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'www.google.com\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748334972371,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'accounts.google.com\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748334982790,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'beacons.gvt2.com\/A\/IN': 2001:503:ba3e::2:30#53","label":"abnormal"}
+{"timestamp":1748335144656,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 's1.symcb.com\/A\/IN': 2001:503:c27::2:30#53","label":"abnormal"}
+{"timestamp":1748335194851,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'settings.data.microsoft.com\/A\/IN': 2001:dc3::35#53","label":"abnormal"}
+{"timestamp":1748335322215,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'params.wps.com\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748335332218,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'wdl1.pcfg.cache.wpscdn.com\/A\/IN': 2001:dc3::35#53","label":"abnormal"}
+{"timestamp":1748335333218,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'abtest-api.wps.com\/A\/IN': 2001:dc3::35#53","label":"abnormal"}
+{"timestamp":1748335519820,"host":"hivenode02","text":"systemd: Started Session 2084429 of user root.","label":"normal"}
+{"timestamp":1748335718624,"host":"hivenode02","text":"systemd-logind: Removed session 2084555.","label":"normal"}
+{"timestamp":1748336029683,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=4111693 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":1748336207927,"host":"hivenode02","text":"systemd: Started Session 2084871 of user root.","label":"normal"}
+{"timestamp":1748337233403,"host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=1593066 duration=0(sec)","label":"normal"}
+{"timestamp":1748337319179,"host":"hivenode02","text":"systemd: Starting Session 2085591 of user root.","label":"normal"}
+{"timestamp":1748337830718,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=2415622 duration=0(sec)","label":"normal"}
+{"timestamp":1748338323397,"host":"hivenode02","text":"systemd: Starting Session 2086238 of user root.","label":"normal"}
+{"timestamp":1748340960864,"host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=2563208 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":1748341214904,"host":"hivenode02","text":"systemd: Started Session 2088096 of user root.","label":"normal"}
+{"timestamp":1748341590752,"host":"hivenode02","text":"systemd-logind: New session 2088329 of user root.","label":"normal"}
+{"timestamp":1748342835564,"host":"hivenode02","text":"systemd-logind: New session 2089131 of user root.","label":"normal"}
+{"timestamp":1748343245420,"host":"hivenode02","text":"systemd-logind: Removed session 2089395.","label":"normal"}
+{"timestamp":1748343373153,"host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=1697106 duration=0(sec)","label":"normal"}
+{"timestamp":1748343758410,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=2240337 duration=1(sec)","label":"normal"}
+{"timestamp":1748343811515,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=2298775 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":1748344329048,"host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=3018185 duration=1(sec)","label":"normal"}
+{"timestamp":1748345862581,"host":"hivenode02","text":"systemd-logind: Removed session 2091073.","label":"normal"}
+{"timestamp":1748346181463,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/27 19:43:01 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.101:41008: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748346491871,"host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=1811470 duration=0(sec)","label":"normal"}
+{"timestamp":1748346560873,"host":"hivenode02","text":"systemd-logind: New session 2091515 of user root.","label":"normal"}
+{"timestamp":1748347175579,"host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=2769518 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":1748347453593,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=3143632 duration=0(sec)","label":"normal"}
+{"timestamp":1748348702973,"host":"hivenode02","text":"systemd-logind: New session 2092890 of user root.","label":"normal"}
+{"timestamp":1748349308169,"host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=1540684 duration=0(sec)","label":"normal"}
+{"timestamp":1748350526410,"host":"hivenode02","text":"systemd: Started Session 2094053 of user root.","label":"normal"}
+{"timestamp":1748350889549,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/27 21:01:29 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.103:59662: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748351020851,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=3897444 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":1748352232020,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1369945 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":1748353903126,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=3677688 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":1748354631179,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=487256 duration=1(sec)","label":"normal"}
+{"timestamp":1748354970089,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/27 22:09:30 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.105:65421: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748356167502,"host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=2613850 duration=0(sec)","label":"normal"}
+{"timestamp":1748357394715,"host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=118411 duration=0(sec)","label":"normal"}
+{"timestamp":1748359458628,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/27 23:24:18 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.107:63570: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748359840043,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/27 23:30:40 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.101:59603: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748360616245,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=405991 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":1748361227233,"host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=1255341 duration=0(sec)","label":"normal"}
+{"timestamp":1748362086667,"host":"hivenode02","text":"systemd: Starting Session 2101451 of user root.","label":"normal"}
+{"timestamp":1748363264972,"host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=4039667 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":1748363847216,"host":"hivenode02","text":"systemd: Starting Session 2102574 of user root.","label":"normal"}
+{"timestamp":1748365373367,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=2692450 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":1748366023004,"host":"hivenode02","text":"systemd: Starting Session 2103986 of user root.","label":"normal"}
+{"timestamp":1748367295255,"host":"hivenode02","text":"systemd: Starting Session 2104803 of user root.","label":"normal"}
+{"timestamp":1748367375448,"host":"hivenode02","text":"systemd: Started Session 2104854 of user root.","label":"normal"}
+{"timestamp":1748367962083,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=2040063 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":1748367986555,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/28 01:46:26 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.103:48915: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748368705901,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/28 01:58:25 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.107:50248: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748369040763,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=3513159 duration=0(sec)","label":"normal"}
+{"timestamp":1748369446560,"host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=4087143 duration=0(sec)","label":"normal"}
+{"timestamp":1748370535504,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=1398585 duration=1(sec)","label":"normal"}
+{"timestamp":1748370680656,"host":"hivenode02","text":"systemd: Started Session 2106988 of user root.","label":"normal"}
+{"timestamp":1748370949634,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=1956808 duration=0(sec)","label":"normal"}
+{"timestamp":1748371593628,"host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=2863887 duration=0(sec)","label":"normal"}
+{"timestamp":1748371647549,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/28 02:47:27 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.104:59793: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748372041452,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=3467455 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":1748372831807,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=368017 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":1748373543181,"host":"hivenode02","text":"systemd-logind: New session 2108832 of user root.","label":"normal"}
+{"timestamp":1748374240482,"host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-28 03:30:39","label":"normal"}
+{"timestamp":1748374607761,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=2816685 duration=0(sec)","label":"normal"}
+{"timestamp":1748375123134,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=3515084 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":1748375731881,"host":"hivenode02","text":"systemd-logind: Removed session 2110245.","label":"normal"}
+{"timestamp":1748377195101,"host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=2156163 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":1748377366200,"host":"hivenode02","text":"systemd: Starting Session 2111274 of user root.","label":"normal"}
+{"timestamp":1748378247501,"host":"hivenode02","text":"systemd-logind: New session 2111836 of user root.","label":"normal"}
+{"timestamp":1748379466299,"host":"hivenode02","text":"systemd-logind: Removed session 2112609.","label":"normal"}
+{"timestamp":1748379672485,"host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-28 05:01:11","label":"normal"}
+{"timestamp":1748379834941,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=1575376 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":1748379877824,"host":"hivenode02","text":"systemd: Starting Session 2112868 of user root.","label":"normal"}
+{"timestamp":1748380130170,"host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=1971988 duration=0(sec)","label":"normal"}
+{"timestamp":1748380523815,"host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=2501903 duration=0(sec)","label":"normal"}
+{"timestamp":1748380606661,"host":"hivenode02","text":"systemd-logind: New session 2113335 of user root.","label":"normal"}
+{"timestamp":1748381185619,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=3416726 duration=0(sec)","label":"normal"}
+{"timestamp":1748381221451,"host":"hivenode02","text":"systemd: Starting Session 2113717 of user root.","label":"normal"}
+{"timestamp":1748381448197,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=3771175 duration=1(sec)","label":"normal"}
+{"timestamp":1748381528743,"host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=3878993 duration=0(sec)","label":"normal"}
+{"timestamp":1748381530353,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/28 05:32:10 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.105:61549: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748382073157,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=433852 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":1748382284227,"host":"hivenode02","text":"systemd-logind: New session 2114399 of user root.","label":"normal"}
+{"timestamp":1748382521585,"host":"hivenode02","text":"systemd: Started Session 2114552 of user root.","label":"normal"}
+{"timestamp":1748382697924,"host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=1292639 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":1748383099214,"host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=1855386 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":1748383100611,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/28 05:58:20 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.103:57652: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748383309247,"host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=2132040 duration=0(sec)","label":"normal"}
+{"timestamp":1748383748139,"host":"hivenode02","text":"systemd-logind: New session 2115341 of user root.","label":"normal"}
+{"timestamp":1748384141432,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=3270599 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":1748384304387,"host":"hivenode02","text":"systemd: Started Session 2115682 of user root.","label":"normal"}
+{"timestamp":1748385610809,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/28 06:40:10 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.102:60764: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748386014762,"host":"hivenode02","text":"systemd: Started Session 2116760 of user root.","label":"normal"}
+{"timestamp":1748386168423,"host":"hivenode02","text":"systemd-logind: New session 2116861 of user root.","label":"normal"}
+{"timestamp":1748387527075,"host":"hivenode02","text":"systemd: Started Session 2117718 of user root.","label":"normal"}
+{"timestamp":1748387665998,"host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-28 07:14:24","label":"normal"}
+{"timestamp":1748387861684,"host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=4138419 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":1748388593824,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=954982 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":1748389385151,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=2041565 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":1748389609945,"host":"hivenode02","text":"systemd-logind: New session 2119039 of user root.","label":"normal"}
+{"timestamp":1748389727855,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=2520701 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":1748389915238,"host":"hivenode02","text":"systemd: Starting Session 2119236 of user root.","label":"normal"}
+{"timestamp":1748390169049,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=3127699 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":1748391810815,"host":"hivenode02","text":"systemd-logind: New session 2120450 of user root.","label":"normal"}
+{"timestamp":1748392426152,"host":"hivenode02","text":"systemd-logind: New session 2120846 of user root.","label":"normal"}
+{"timestamp":1748392783119,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=2521751 from=::ffff:10.108.196.201","label":"normal"}
+{"timestamp":1748393053904,"host":"hivenode02","text":"systemd-logind: New session 2121233 of user root.","label":"normal"}
+{"timestamp":1748393218711,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/28 08:46:58 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.105:64587: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748393957138,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=4117622 duration=1(sec)","label":"normal"}
+{"timestamp":1748394125775,"host":"hivenode02","text":"systemd: Starting Session 2121904 of user root.","label":"normal"}
+{"timestamp":1748394817902,"host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=1091575 duration=0(sec)","label":"normal"}
+{"timestamp":1748394962453,"host":"hivenode02","text":"xinetd[4580]: EXIT: mongo_status status=0 pid=1295917 duration=0(sec)","label":"normal"}
+{"timestamp":1748395052078,"host":"hivenode02","text":"systemd: Starting Session 2122487 of user root.","label":"normal"}
+{"timestamp":1748395106724,"host":"hivenode02","text":"systemd: Starting Session 2122521 of user root.","label":"normal"}
+{"timestamp":1748395223983,"host":"hivenode02","text":"systemd: Starting Session 2122598 of user root.","label":"normal"}
+{"timestamp":1748398424429,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=1807878 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":1748398430545,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/28 10:13:50 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.106:35316: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748398974624,"host":"hivenode02","text":"systemd: Starting Session 2124975 of user root.","label":"normal"}
+{"timestamp":1748398998272,"host":"hivenode02","text":"systemd-logind: New session 2124989 of user root.","label":"normal"}
+{"timestamp":1748401180724,"host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-28 10:59:39","label":"normal"}
+{"timestamp":1748402134746,"host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-28 11:15:33","label":"normal"}
+{"timestamp":1748402425861,"host":"hivenode02","text":"systemd-logind: Removed session 2127148.","label":"normal"}
+{"timestamp":1748403414052,"host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=231843 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":1748403446906,"host":"hivenode02","text":"systemd-logind: New session 2127800 of user root.","label":"normal"}
+{"timestamp":1748404172135,"host":"hivenode02","text":"systemd: Started Session 2128257 of user root.","label":"normal"}
+{"timestamp":1748405716246,"host":"hivenode02","text":"systemd: Started Session 2129256 of user root.","label":"normal"}
+{"timestamp":1748407625225,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1787860 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":1748408060800,"host":"hivenode02","text":"systemd-logind: New session 2130733 of user root.","label":"normal"}
+{"timestamp":1748408840610,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=3441076 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":1748408848337,"host":"hivenode02","text":"systemd-logind: Removed session 2131223.","label":"normal"}
+{"timestamp":1748409146083,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=3870950 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":1748409730862,"host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=481454 duration=0(sec)","label":"normal"}
+{"timestamp":1748410520594,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=1539789 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":1748410801030,"host":"hivenode02","text":"systemd: Starting Session 2132453 of user root.","label":"normal"}
+{"timestamp":1748411172097,"host":"hivenode02","text":"systemd: Starting Session 2132693 of user root.","label":"normal"}
+{"timestamp":1748411679820,"host":"hivenode02","text":"systemd-logind: New session 2133017 of user root.","label":"normal"}
+{"timestamp":1748411756804,"host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=3235577 duration=0(sec)","label":"normal"}
+{"timestamp":1748411898594,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/28 13:58:18 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.102:42044: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748412655399,"host":"hivenode02","text":"systemd: Starting Session 2133651 of user root.","label":"normal"}
+{"timestamp":1748413599275,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=1593441 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":1748414066436,"host":"hivenode02","text":"systemd-logind: New session 2134548 of user root.","label":"normal"}
+{"timestamp":1748415227869,"host":"hivenode02","text":"systemd: Started Session 2135281 of user root.","label":"normal"}
+{"timestamp":1748415975444,"host":"hivenode02","text":"systemd-logind: Removed session 2135746.","label":"normal"}
+{"timestamp":1748416733521,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/28 15:18:53 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.103:51938: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748417268945,"host":"hivenode02","text":"systemd: Starting Session 2136547 of user root.","label":"normal"}
+{"timestamp":1748418134894,"host":"hivenode02","text":"systemd-logind: New session 2137099 of user root.","label":"normal"}
+{"timestamp":1748418206462,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=3679994 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":1748420719420,"host":"hivenode02","text":"systemd-logind: Removed session 2138781.","label":"normal"}
+{"timestamp":1748421502136,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=4038617 duration=1(sec)","label":"normal"}
+{"timestamp":1748421516893,"host":"hivenode02","text":"systemd: Starting Session 2139292 of user root.","label":"normal"}
+{"timestamp":1748421920773,"host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=446831 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":1748424655013,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=12700 duration=1(sec)","label":"normal"}
+{"timestamp":1748424696356,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/28 17:31:36 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.107:47518: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748425318397,"host":"hivenode02","text":"systemd-logind: Removed session 2141738.","label":"normal"}
+{"timestamp":1748425548816,"host":"hivenode02","text":"systemd-logind: New session 2141903 of user root.","label":"normal"}
+{"timestamp":1748425691244,"host":"hivenode02","text":"systemd-logind: New session 2141993 of user root.","label":"normal"}
+{"timestamp":1748426206107,"host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=2177814 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":1748426716390,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=2875039 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":1748426816651,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=3014383 duration=0(sec)","label":"normal"}
+{"timestamp":1748427012494,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=3298416 duration=1(sec)","label":"normal"}
+{"timestamp":1748427363582,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=3786446 from=::ffff:10.108.196.203","label":"normal"}
+{"timestamp":1748428430865,"host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=1069753 duration=0(sec)","label":"normal"}
+{"timestamp":1748428485589,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=1140026 duration=0(sec)","label":"normal"}
+{"timestamp":1748429256901,"host":"hivenode02","text":"systemd-logind: New session 2144274 of user root.","label":"normal"}
+{"timestamp":1748430656860,"host":"hivenode02","text":"systemd: Starting Session 2145173 of user root.","label":"normal"}
+{"timestamp":1748430809627,"host":"hivenode02","text":"systemd-logind: Removed session 2145270.","label":"normal"}
+{"timestamp":1748431764552,"host":"hivenode02","text":"systemd: Started Session 2145884 of user root.","label":"normal"}
+{"timestamp":1748431849307,"host":"hivenode02","text":"systemd-logind: New session 2145943 of user root.","label":"normal"}
+{"timestamp":1748432225768,"host":"hivenode02","text":"xinetd[4580]: START: mongo_status pid=2117524 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":1748432402909,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=2341104 duration=0(sec)","label":"normal"}
+{"timestamp":1748433452127,"host":"hivenode02","text":"systemd-logind: Removed session 2146961.","label":"normal"}
+{"timestamp":1748434296192,"host":"hivenode02","text":"systemd: Started Session 2147499 of user root.","label":"normal"}
+{"timestamp":1748435525341,"host":"hivenode02","text":"xinetd[4580]: START: zk_status pid=2467688 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":1748436180934,"host":"hivenode02","text":"systemd-logind: New session 2148697 of user root.","label":"normal"}
+{"timestamp":1748438177078,"host":"hivenode02","text":"systemd-logind: New session 2149968 of user root.","label":"normal"}
+{"timestamp":1748438570926,"host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=2465009 duration=0(sec)","label":"normal"}
+{"timestamp":1748441933842,"host":"hivenode02","text":"xinetd[4580]: EXIT: mysql_status status=0 pid=2923105 duration=0(sec)","label":"normal"}
+{"timestamp":1748442762775,"host":"hivenode02","text":"systemd: Started Session 2152900 of user root.","label":"normal"}
+{"timestamp":1748443244767,"host":"hivenode02","text":"systemd: Started Session 2153211 of user root.","label":"normal"}
+{"timestamp":1748443655316,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/28 22:47:35 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.106:50526: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748446403507,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=718919 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":1748447159989,"host":"hivenode02","text":"systemd-logind: Removed session 2155710.","label":"normal"}
+{"timestamp":1748448023428,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/29 00:00:23 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.106:48148: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748448697006,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=3877039 from=::ffff:10.108.196.204","label":"normal"}
+{"timestamp":1748448840586,"host":"hivenode02","text":"systemd: Starting Session 2156786 of user root.","label":"normal"}
+{"timestamp":1748449045588,"host":"hivenode02","text":"systemd: Starting Session 2156915 of user root.","label":"normal"}
+{"timestamp":1748449433069,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=697498 from=::ffff:10.108.196.205","label":"normal"}
+{"timestamp":1748449873996,"host":"hivenode02","text":"systemd: Starting Session 2157450 of user root.","label":"normal"}
+{"timestamp":1748450667047,"host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=2386149 duration=0(sec)","label":"normal"}
+{"timestamp":1748451601482,"host":"hivenode02","text":"kernel: smartord[2944073]: segfault at 7fcf6e2fe880 ip 00007fcf6bba74bc sp 00007ffe469f1f60 error 4 in libc-2.17.so[7fcf6bb27000+1c4000]","label":"abnormal"}
+{"timestamp":1748451643386,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=3712052 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":1748451690233,"host":"hivenode02","text":"systemd: Started Session 2158614 of user root.","label":"normal"}
+{"timestamp":1748452634466,"host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=870283 duration=0(sec)","label":"normal"}
+{"timestamp":1748453916646,"host":"hivenode02","text":"systemd-logind: Removed session 2160062.","label":"normal"}
+{"timestamp":1748454872122,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'software.drivergenius.com\/A\/IN': 2001:500:9f::42#53","label":"abnormal"}
+{"timestamp":1748455205218,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'rq.drcct.cloud.duba.net\/A\/IN': 2001:500:12::d0d#53","label":"abnormal"}
+{"timestamp":1748455422581,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'cu004.www.duba.net\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748456173335,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'www.xunlei.com\/A\/IN': 2001:500:2f::f#53","label":"abnormal"}
+{"timestamp":1748456478708,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'hotnews.duba.com\/A\/IN': 2001:503:c27::2:30#53","label":"abnormal"}
+{"timestamp":1748456660390,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'sv.symcd.com\/A\/IN': 2001:500:a8::e#53","label":"abnormal"}
+{"timestamp":1748456660391,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'sv.symcd.com\/A\/IN': 2001:503:ba3e::2:30#53","label":"abnormal"}
+{"timestamp":1748456661148,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'sv.symcb.com\/A\/IN': 2001:500:12::d0d#53","label":"abnormal"}
+{"timestamp":1748456661148,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'sv.symcb.com\/A\/IN': 2001:503:ba3e::2:30#53","label":"abnormal"}
+{"timestamp":1748456688672,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 's2.symcb.com\/A\/IN': 2001:7fd::1#53","label":"abnormal"}
+{"timestamp":1748456688672,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 's2.symcb.com\/A\/IN': 2001:500:9f::42#53","label":"abnormal"}
+{"timestamp":1748456693037,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'sv.symcb.com\/A\/IN': 2001:503:c27::2:30#53","label":"abnormal"}
+{"timestamp":1748456693037,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'sv.symcb.com\/A\/IN': 2001:7fd::1#53","label":"abnormal"}
+{"timestamp":1748456693384,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'config.pinyin.sogou.com\/A\/IN': 2001:503:c27::2:30#53","label":"abnormal"}
+{"timestamp":1748456815875,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'home.wps.cn\/A\/IN': 2001:503:c27::2:30#53","label":"abnormal"}
+{"timestamp":1748456815876,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'account.wps.cn\/A\/IN': 2001:7fd::1#53","label":"abnormal"}
+{"timestamp":1748456815877,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'docer.wps.cn\/A\/IN': 2001:7fd::1#53","label":"abnormal"}
+{"timestamp":1748456815878,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'docerad.wps.cn\/A\/IN': 2001:500:9f::42#53","label":"abnormal"}
+{"timestamp":1748456826876,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'wdl1.cache.wps.cn\/A\/IN': 2001:500:84::b#53","label":"abnormal"}
+{"timestamp":1748456927356,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'account.wps.cn\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748456927357,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'docerad.wps.cn\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748456938360,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'vip.wps.cn\/A\/IN': 2001:7fd::1#53","label":"abnormal"}
+{"timestamp":1748456938361,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'vasapi.wps.cn\/A\/IN': 2001:500:9f::42#53","label":"abnormal"}
+{"timestamp":1748456938362,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'vip.wps.cn\/A\/IN': 2001:500:9f::42#53","label":"abnormal"}
+{"timestamp":1748456938447,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'backupplugin.wps.cn\/A\/IN': 2001:7fd::1#53","label":"abnormal"}
+{"timestamp":1748456938447,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'backupplugin.wps.cn\/A\/IN': 2001:500:9f::42#53","label":"abnormal"}
+{"timestamp":1748456938459,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'shuc-pc-hunt.ksord.com\/A\/IN': 2001:503:c27::2:30#53","label":"abnormal"}
+{"timestamp":1748456938459,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'shuc-pc-hunt.ksord.com\/A\/IN': 2001:7fd::1#53","label":"abnormal"}
+{"timestamp":1748456938460,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'shuc-pc-hunt.ksord.com\/A\/IN': 2001:500:9f::42#53","label":"abnormal"}
+{"timestamp":1748457138532,"host":"hivenode02","text":"bash: WARNING: 2025\/05\/29 02:32:18 grpc: Server.Serve failed to create ServerTransport:  connection error: desc = \"transport: http2Server.HandleStreams failed to read initial settings frame: read tcp 10.0.100.102:2379->10.0.100.106:55954: read: connection reset by peer\"","label":"abnormal"}
+{"timestamp":1748457263800,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'sqm.telemetry.microsoft.com\/A\/IN': 2001:500:12::d0d#53","label":"abnormal"}
+{"timestamp":1748457393804,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'v2.get.sogou.com\/A\/IN': 2001:503:ba3e::2:30#53","label":"abnormal"}
+{"timestamp":1748457403904,"host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-29 02:36:42","label":"normal"}
+{"timestamp":1748457656594,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'docerad.wps.cn\/A\/IN': 2001:dc3::35#53","label":"abnormal"}
+{"timestamp":1748457656594,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'account.wps.cn\/A\/IN': 2001:dc3::35#53","label":"abnormal"}
+{"timestamp":1748457656595,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'docer.wps.cn\/A\/IN': 2001:503:ba3e::2:30#53","label":"abnormal"}
+{"timestamp":1748457656596,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'drive.wps.cn\/A\/IN': 2001:503:ba3e::2:30#53","label":"abnormal"}
+{"timestamp":1748457656596,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'ic.wps.cn\/A\/IN': 2001:500:12::d0d#53","label":"abnormal"}
+{"timestamp":1748458276216,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'qingcenter.wps.cn\/A\/IN': 2001:500:12::d0d#53","label":"abnormal"}
+{"timestamp":1748458290720,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'backupplugin.wps.cn\/A\/IN': 2001:500:2f::f#53","label":"abnormal"}
+{"timestamp":1748458293921,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'info.wps.cn\/A\/IN': 2001:7fd::1#53","label":"abnormal"}
+{"timestamp":1748458444168,"host":"hivenode02","text":"systemd-logind: New session 2162994 of user root.","label":"normal"}
+{"timestamp":1748458459291,"host":"hivenode02","text":"xinetd[4580]: START: mysql_status pid=522877 from=::ffff:10.108.196.202","label":"normal"}
+{"timestamp":1748458925900,"host":"hivenode02","text":"python: --- * ***  * -- Linux-3.10.0-1160.el7.x86_64-x86_64-with-centos-7.4.1708-Core 2025-05-29 03:02:04","label":"normal"}
+{"timestamp":1748458993835,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'safebrowsing.google.com\/A\/IN': 2001:500:84::b#53","label":"abnormal"}
+{"timestamp":1748459023999,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'safebrowsing.google.com\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748459104778,"host":"hivenode02","text":"xinetd[4580]: EXIT: zk_status status=0 pid=1415092 duration=0(sec)","label":"normal"}
+{"timestamp":1748459401047,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'sf.symcd.com\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748459401047,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'sf.symcd.com\/A\/IN': 2001:500:2f::f#53","label":"abnormal"}
+{"timestamp":1748459401047,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'sf.symcd.com\/A\/IN': 2001:500:12::d0d#53","label":"abnormal"}
+{"timestamp":1748459403546,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'sf.symcb.com\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748460071047,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'liveupdate.symantecliveupdate.com\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748460071050,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'liveupdate.symantecliveupdate.com\/A\/IN': 2001:500:1::53#53","label":"abnormal"}
+{"timestamp":1748460149582,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'update.symantec.com\/A\/IN': 2001:503:c27::2:30#53","label":"abnormal"}
+{"timestamp":1748460427376,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'home.wps.cn\/A\/IN': 2001:500:84::b#53","label":"abnormal"}
+{"timestamp":1748460427376,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'docerad.wps.cn\/A\/IN': 2001:500:84::b#53","label":"abnormal"}
+{"timestamp":1748460527766,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'switch.pcfg.cache.wpscdn.cn\/A\/IN': 2001:500:2d::d#53","label":"abnormal"}
+{"timestamp":1748460527766,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'switch.pcfg.cache.wpscdn.cn\/A\/IN': 2001:500:2f::f#53","label":"abnormal"}
+{"timestamp":1748460527766,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'switch.pcfg.cache.wpscdn.cn\/A\/IN': 2001:500:12::d0d#53","label":"abnormal"}
+{"timestamp":1748460549915,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'vip.wps.cn\/A\/IN': 2001:500:84::b#53","label":"abnormal"}
+{"timestamp":1748460549915,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'vasapi.wps.cn\/A\/IN': 2001:500:84::b#53","label":"abnormal"}
+{"timestamp":1748460549916,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'vipapi.wps.cn\/A\/IN': 2001:500:84::b#53","label":"abnormal"}
+{"timestamp":1748460550015,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'shuc-pc-hunt.ksord.com\/A\/IN': 2001:500:84::b#53","label":"abnormal"}
+{"timestamp":1748460598962,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'info.pinyin.sogou.com\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748460850409,"host":"hivenode02","text":"named[7310]: error (network unreachable) resolving 'shuc-pc-hunt.ksord.com\/A\/IN': 2001:500:2::c#53","label":"abnormal"}
+{"timestamp":1748461426523,"host":"hivenode02","text":"systemd: Starting Session 2164921 of user root.","label":"normal"}
