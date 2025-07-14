@@ -23,7 +23,7 @@ itops-llm-prediction
 To set up the project, clone the repository and install the required dependencies:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/shiw2/ITOpts-LLM-Prediction-model.git
 cd itops-llm-prediction
 pip install -r requirements.txt
 ```
