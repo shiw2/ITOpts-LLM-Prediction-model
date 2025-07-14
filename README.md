@@ -14,6 +14,7 @@ itops-llm-prediction
 │   ├── evaluate.py               # Functions for evaluating model performance
 │   └── types
 │       └── __init__.py           # Custom types or interfaces
+├── ts2vec
 ├── requirements.txt              # Project dependencies
 └── README.md                     # Project documentation
 ```
