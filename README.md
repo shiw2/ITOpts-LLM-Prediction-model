@@ -56,7 +56,7 @@ The project requires the following libraries:
 
 ## Model Links
 
-- **TS2Vec**: The TS2Vec model can be found at [ts2vec GitHub repository](https://github.com/zhihanyue/ts2vec/tree/main/models).
+- **TS2Vec**: The TS2Vec model can be found at [ts2vec GitHub repository](https://github.com/zhihanyue/ts2vec).
 - **GPT-2**: The GPT-2 model is available on [Hugging Face GPT2](https://github.com/huggingface/transformers/tree/main/src/transformers/models/gpt2).
 
 ## Contributing
