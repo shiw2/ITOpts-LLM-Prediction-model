@@ -38,7 +38,7 @@ The project requires the following libraries:
 - torch
 - transformers
 - sentence-transformers
-- ts2vec(Towards Universal Representation of Time Series) [https://github.com/zhihanyue/ts2vec]
+- ts2vec
 - scikit-learn
 - matplotlib
 - seaborn
