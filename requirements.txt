@@ -2,7 +2,7 @@ import pandas as pd
 numpy
 torch
 sentence-transformers
-ts2vec @ git+https://github.com/yourusername/ts2vec.git
+ts2vec @ git+https://github.com/zhihanyue/ts2vec
 transformers
 scikit-learn
 matplotlib
