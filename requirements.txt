@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+torch
+ts2vec @ git+https://github.com/zhihanyue/ts2vec.git
+transformers
+seaborn
