@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+torch>=1.8
+transformers>=4.0.0
+# TS2Vec from github zhihanyue
+ts2vec @ git+https://github.com/zhihanyue/ts2vec.git
