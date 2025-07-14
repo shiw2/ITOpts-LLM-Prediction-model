@@ -1,8 +1,9 @@
+import pandas as pd
 numpy
-pandas
+torch
+sentence-transformers
+ts2vec @ git+https://github.com/yourusername/ts2vec.git
+transformers
 scikit-learn
 matplotlib
-torch>=1.8
-transformers>=4.0.0
-# TS2Vec from github zhihanyue
-ts2vec @ git+https://github.com/zhihanyue/ts2vec.git
+seaborn
