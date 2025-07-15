@@ -33,8 +33,8 @@ itops-llm-prediction/
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/itops-llm-prediction.git](https://github.com/your-username/itops-llm-prediction.git)
-    cd itops-llm-prediction
+    git clone https://github.com/shiw2/ITOpts-LLM-Prediction-model
+    cd ITOpts-LLM-Prediction-model
     ```
 
 2.  Install the required dependencies:
