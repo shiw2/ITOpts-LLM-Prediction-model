@@ -1,44 +1,66 @@
 import os
 import pandas as pd
-import numpy as np
 from datetime import timedelta
 import re
 
-def load_data(train_file: str, test_file: str) -> (pd.DataFrame, pd.DataFrame):
-    train_df = pd.read_json(train_file, lines=True)
-    test_df = pd.read_json(test_file, lines=True)
-    return train_df, test_df
+# label the logs(Design your own)
+def label_fn(txt):
+    if re.search(r'(?i)(error)', txt):
+        return 'abnormal'
+    else:
+        return 'normal'
 
-def preprocess_timestamps(df: pd.DataFrame) -> pd.DataFrame:
+def preprocess_data(file_path='data/sourcedata/messages-20250602'):
+    records = []
+    with open(file_path, 'r', encoding='utf-8') as fh:
+        for line in fh:
+            ts, host, text = line.strip().split(' ', 2)
+            records.append({'timestamp': ts, 'host': host, 'text': text})
+    
+    df = pd.DataFrame(records)
     df['timestamp'] = pd.to_datetime(df['timestamp'])
-    df['timestamp_float'] = df['timestamp'].astype(np.int64) // 10**9
-    return df
-
-def normalize_timestamps(train_df: pd.DataFrame, test_df: pd.DataFrame) -> (pd.DataFrame, pd.DataFrame):
-    ts_min = min(train_df['timestamp_float'].min(), test_df['timestamp_float'].min())
-    ts_max = max(train_df['timestamp_float'].max(), test_df['timestamp_float'].max())
-    
-    for df in [train_df, test_df]:
-        df['timestamp_norm'] = (df['timestamp_float'] - ts_min) / (ts_max - ts_min)
-    
-    return train_df, test_df
-
-def label_encoding(df: pd.DataFrame) -> pd.DataFrame:
-    def label_fn(txt):
-        if re.search(r'(?i)(error)', txt):
-            return 'abnormal'
-        else:
-            return 'normal'
-    
     df['label'] = df['text'].apply(label_fn)
-    return df
 
-def preprocess_data(train_file: str, test_file: str) -> (pd.DataFrame, pd.DataFrame):
-    train_df, test_df = load_data(train_file, test_file)
-    train_df = preprocess_timestamps(train_df)
-    test_df = preprocess_timestamps(test_df)
-    train_df, test_df = normalize_timestamps(train_df, test_df)
-    train_df = label_encoding(train_df)
-    test_df = label_encoding(test_df)
+    # Split data
+    start_time = df['timestamp'].min()
+    trainingset_end_time = start_time + timedelta(days=4)
+    training_set = df[(df['timestamp'] >= start_time) & (df['timestamp'] < trainingset_end_time)].reset_index(drop=True)
+    testing_set = df[df['timestamp'] >= trainingset_end_time].reset_index(drop=True)
+
+    # Preprocess training data
+    train_df = training_set.copy()
+    train_df = train_df.sort_values(['label', 'text', 'timestamp'])
+    limit_map = {'abnormal': timedelta(seconds=10), 'normal': timedelta(seconds=10)}
+    train_df['prev_time'] = train_df.groupby(['label', 'text'])['timestamp'].shift()
+    train_df['time_diff'] = train_df['timestamp'] - train_df['prev_time']
+    train_df['limit'] = train_df['label'].map(limit_map)
+    mask = (train_df['prev_time'].isna()) | (train_df['time_diff'] >= train_df['limit'])
+    train_df = train_df[mask].drop(['prev_time', 'time_diff', 'limit'], axis=1)
+    train_df = train_df.sort_values(by='timestamp').drop_duplicates(subset=['text'], keep='first').reset_index(drop=True)
+
+    # Downsample training data
+    n_per_class = 500
+    train_abnormal_sample = train_df[train_df['label'] == 'abnormal'].sample(n=min(n_per_class, len(train_df[train_df['label'] == 'abnormal'])), random_state=42)
+    train_normal_sample = train_df[train_df['label'] == 'normal'].sample(n=n_per_class, random_state=42)
+    train_df_sampled = pd.concat([train_normal_sample, train_abnormal_sample]).sort_values('timestamp').reset_index(drop=True)
+
+    # Downsample testing data
+    test_sample_normal = testing_set[testing_set['label'] == 'normal'].sample(n=400, random_state=42)
+    test_sample_abnormal = testing_set[testing_set['label'] == 'abnormal'].sample(n=100, random_state=42)
+    test_df_sampled = pd.concat([test_sample_normal, test_sample_abnormal]).sort_values('timestamp').reset_index(drop=True)
     
-    return train_df, test_df
+    # Save processed data
+    os.makedirs('data/sampledatasets', exist_ok=True)
+    train_df_sampled.to_json('data/sampledatasets/messages-train.jsonl', orient='records', lines=True, force_ascii=False)
+    test_df_sampled.to_json('data/sampledatasets/messages-test.jsonl', orient='records', lines=True, force_ascii=False)
+    
+    print("Data preprocessing complete.")
+    print(f"Training samples: {len(train_df_sampled)}")
+    print(f"Testing samples: {len(test_df_sampled)}")
+
+if __name__ == '__main__':
+    # Assuming latest file is the one to be processed
+    folder = "data/sourcedata"
+    files = [os.path.join(folder, f) for f in os.listdir(folder) if f.startswith("messages-")]
+    latest_file = max(files, key=os.path.getmtime)
+    preprocess_data(latest_file)
