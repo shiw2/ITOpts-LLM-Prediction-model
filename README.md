@@ -1,97 +1,76 @@
-# ITOps-LLM Prediction Model
+# ITOps-LLM-Prediction Model Repository
 
-This repository contains the implementation of the ITOps-LLM prediction model, which utilizes advanced embedding techniques and transformer models to predict operational issues in IT environments.
+This repository provides a complete machine learning pipeline for anomaly detection in IT operations logs(linux; /var/log/messages
+), leveraging a combination of time-series analysis with TS2Vec and natural language processing with a GPT-2 based model. Below is the structure and content of the repository.
 
 ## Project Structure
 
 ```
-itops-llm-prediction
-├── src
-│   ├── data_preprocess.py       # Functions for loading and preprocessing the dataset
-│   ├── embedding.py              # Handles text and label embedding
-│   ├── ts2vec_train.py           # Responsible for training the TS2Vec model
-│   ├── gpt2_predictor.py         # Defines the GPT2VecPredictor class for predictions
-│   ├── evaluate.py               # Functions for evaluating model performance
-│   └── types
-│       └── __init__.py           # Custom types or interfaces
-├── ts2vec
-├── requirements.txt              # Project dependencies
-└── README.md                     # Project documentation
+itops-llm-prediction/
+├── src/
+│   ├── data_preprocess.py
+│   ├── embedding.py
+│   ├── ts2vec_train.py
+│   ├── gpt2_predictor.py
+│   ├── evaluate.py
+│   └── types/
+│       └── __init__.py
+├── ts2vec/
+│   └── (ts2vec library files)
+├── requirements.txt
+└── README.md
 ```
 
-## Installation
+## Getting Started
 
-To set up the project, clone the repository and install the required dependencies:
+### Prerequisites
 
-```bash
-git clone https://github.com/shiw2/ITOpts-LLM-Prediction-model.git
-cd ITOpts-LLM-Prediction-model
-pip install -r requirements.txt
-```
+-   Python 3.8+
+-   PyTorch
+-   A CUDA-enabled GPU is recommended for training.
 
-## Dependencies
+### Installation
 
-The project requires the following libraries:
+1.  Clone the repository:
+    ```bash
+    git clone [https://github.com/your-username/itops-llm-prediction.git](https://github.com/your-username/itops-llm-prediction.git)
+    cd itops-llm-prediction
+    ```
 
-- pandas
-- numpy
-- torch
-- transformers
-- sentence-transformers
-- ts2vec
-- scikit-learn
-- matplotlib
-- seaborn
+2.  Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-## Usage
+### Usage
 
-1. **Data Preprocessing**: Use `data_preprocess.py` to load and preprocess your dataset. This includes loading data from JSON files, normalizing timestamps, and encoding labels.
+To run the full pipeline, you will need to execute the scripts in the following order. Ensure your raw data file (e.g., `messages-20250602`) is placed in a `data/sourcedata/` directory at the root of the project.
 
-2. **Embedding**: Utilize `embedding.py` to convert your text and labels into vector representations using the SentenceTransformer model.
+1.  **Data Preprocessing**:
+    ```bash
+    python -m src.data_preprocess
+    ```
+    This script will load the raw data, perform cleaning and down-sampling, and save the processed training and testing sets to `data/sampledatasets/`.
 
-3. **Training the Model**: Train the TS2Vec model using `ts2vec_train.py`. This script will fit the model on your training data and encode it into representations.
+2.  **Embeddings and TS2Vec Training**:
+    ```bash
+    python -m src.ts2vec_train
+    ```
+    This will generate text and label embeddings, train the TS2Vec model, and save the final embedded data to `data/embeddata/`.
 
-4. **Making Predictions**: Use the `gpt2_predictor.py` to create an instance of the `GPT2VecPredictor` class, which will allow you to map input data to predictions based on the trained model.
+3.  **GPT-2 Predictor Training and Evaluation**:
+    ```bash
+    python -m src.evaluate
+    ```
+    This script will train the GPT-2 based predictor, evaluate its performance, and compare it with other baseline models (SVM, Random Forest, Decision Tree). The results, including performance metrics and plots, will be displayed.
 
-5. **Evaluation**: Evaluate the model's performance using the functions defined in `evaluate.py`. This includes calculating accuracy, precision, recall, and F1-score.
+## Model Performance
 
-## Model Links
+The ITOps-LLM-Prediction model demonstrates strong performance in identifying anomalies, outperforming several traditional machine learning models.
 
-- **TS2Vec**: The TS2Vec model can be found at [ts2vec GitHub repository](https://github.com/zhihanyue/ts2vec).
-- **GPT-2**: The GPT-2 model is available on [Hugging Face GPT2](https://github.com/huggingface/transformers/tree/main/src/transformers/models/gpt2).
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Code Example
-
-```Python
-from src.data_preprocess import load_and_preprocess_data
-from src.embedding import embed_texts, embed_labels
-from src.ts2vec_train import train_ts2vec_model
-from src.gpt2_predictor import GPT2VecPredictor
-
-# 1. data process
-train_data, test_data, labels = load_and_preprocess_data('data/train.json', 'data/test.json')
-
-# 2. Embedding
-text_embeddings = embed_texts(train_data['text'])
-label_embeddings = embed_labels(labels)
-
-# 3. train embedding
-ts2vec_model = train_ts2vec_model(text_embeddings)
-
-# 4. Prediction-model
-predictor = GPT2VecPredictor(ts2vec_model, label_embeddings)
-
-# 5. Prediction
-test_embeddings = embed_texts(test_data['text'])
-predictions = predictor.predict(test_embeddings)
-
-print(predictions)
-```
+| Model                       | Accuracy | Macro Recall | Macro Precision | Macro F1 |
+| --------------------------- | -------- | ------------ | --------------- | -------- |
+| ITOpts-LLM-Prediction model | 0.9800   | 0.9613       | 0.9757          | 0.9683   |
+| SVM                         | 0.9500   | 0.8788       | 0.9651          | 0.9142   |
+| RF                          | 0.9140   | 0.7925       | 0.9369          | 0.8408   |
+| DT                          | 0.8780   | 0.7662       | 0.8270          | 0.7906   |
