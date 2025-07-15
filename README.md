@@ -67,3 +67,31 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Code Example
+
+```Python
+from src.data_preprocess import load_and_preprocess_data
+from src.embedding import embed_texts, embed_labels
+from src.ts2vec_train import train_ts2vec_model
+from src.gpt2_predictor import GPT2VecPredictor
+
+# 1. data process
+train_data, test_data, labels = load_and_preprocess_data('data/train.json', 'data/test.json')
+
+# 2. Embedding
+text_embeddings = embed_texts(train_data['text'])
+label_embeddings = embed_labels(labels)
+
+# 3. train embedding
+ts2vec_model = train_ts2vec_model(text_embeddings)
+
+# 4. Prediction-model
+predictor = GPT2VecPredictor(ts2vec_model, label_embeddings)
+
+# 5. Prediction
+test_embeddings = embed_texts(test_data['text'])
+predictions = predictor.predict(test_embeddings)
+
+print(predictions)
+```
