@@ -26,7 +26,7 @@ itops-llm-prediction/
 ### Prerequisites
 
 -   Python 3.8+
--   PyTorch
+-   PyTorch >= 2.0
 -   A CUDA-enabled GPU is recommended for training.
 
 ### Installation
